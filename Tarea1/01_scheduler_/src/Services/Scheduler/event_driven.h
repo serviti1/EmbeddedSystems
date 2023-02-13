@@ -21,4 +21,6 @@
 #include "led_ctrl.h"
 
 void EVT_vfnConfigureButtons(void);
+
+void EVT_vfnConfigureGPIO(void);
 #endif

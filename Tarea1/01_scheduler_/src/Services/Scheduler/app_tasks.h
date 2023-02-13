@@ -15,6 +15,7 @@
 #include "typedefs.h"
 /* LED control definitions */
 #include "led_ctrl.h"
+#include "event_driven.h"
 
 /*****************************************************************************************************
  * Definition of module wide VARIABLES

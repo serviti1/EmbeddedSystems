@@ -1,5 +1,5 @@
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler//"
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler//"
 # 1 "<built-in>"
 #define __STDC__ 1
 #define __STDC_HOSTED__ 1
@@ -361,28 +361,28 @@
 # 1 "<command-line>"
 #define __USES_INITFINI__ 1
 #define __SAMV71Q21__ 1
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
-# 16 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 1
-# 11 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h"
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
+# 16 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 1
+# 11 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h"
 #define __APP_TASKS 
 
 
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h" 1
-# 32 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h" 1
+# 32 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define _COMPILER_H_ 
 
 
 
 
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h"
 #define _SAMV71_ 
-# 50 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 50 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
 #define _SAMV71Q21_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
 # 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdint.h" 1 3 4
 # 9 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdint.h" 3 4
 # 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdint.h" 1 3 4
@@ -839,8 +839,8 @@ typedef __uint_least64_t uint_least64_t;
 
 
 #define _GCC_WRAP_STDINT_H 
-# 48 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 57 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 48 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 57 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
 typedef enum IRQn
 {
 
@@ -1101,27 +1101,27 @@ void XDMAC_Handler ( void );
 
 
 
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 1
-# 48 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 1
+# 48 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define __CORE_CM7_H_GENERIC 
-# 72 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 72 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define __CM7_CMSIS_VERSION_MAIN (0x03)
 #define __CM7_CMSIS_VERSION_SUB (0x20)
 #define __CM7_CMSIS_VERSION ((__CM7_CMSIS_VERSION_MAIN << 16) | __CM7_CMSIS_VERSION_SUB )
 
 
 #define __CORTEX_M (0x07)
-# 86 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 86 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define __ASM __asm
 #define __INLINE inline
 #define __STATIC_INLINE static inline
-# 130 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 130 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define __FPU_USED 1
-# 189 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h" 1
-# 25 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 189 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h" 1
+# 25 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 #define __CORE_CMINSTR_H 
-# 286 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 286 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline void __NOP(void)
 {
   __asm volatile ("nop");
@@ -1158,7 +1158,7 @@ __attribute__( ( always_inline ) ) static inline void __SEV(void)
 {
   __asm volatile ("sev");
 }
-# 330 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 330 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline void __ISB(void)
 {
   __asm volatile ("isb");
@@ -1185,7 +1185,7 @@ __attribute__( ( always_inline ) ) static inline void __DMB(void)
 {
   __asm volatile ("dmb");
 }
-# 365 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 365 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __REV(uint32_t value)
 {
   uint32_t result;
@@ -1193,7 +1193,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __REV(uint32_t value)
   __asm volatile ("rev %0, %1" : "=r" (result) : "r" (value) );
   return(result);
 }
-# 381 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 381 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __REV16(uint32_t value)
 {
   uint32_t result;
@@ -1201,7 +1201,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __REV16(uint32_t value
   __asm volatile ("rev16 %0, %1" : "=r" (result) : "r" (value) );
   return(result);
 }
-# 397 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 397 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline int32_t __REVSH(int32_t value)
 {
   uint32_t result;
@@ -1209,14 +1209,14 @@ __attribute__( ( always_inline ) ) static inline int32_t __REVSH(int32_t value)
   __asm volatile ("revsh %0, %1" : "=r" (result) : "r" (value) );
   return(result);
 }
-# 414 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 414 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __ROR(uint32_t op1, uint32_t op2)
 {
 
   __asm volatile ("ror %0, %0, %1" : "+r" (op1) : "r" (op2) );
   return(op1);
 }
-# 431 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 431 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __RBIT(uint32_t value)
 {
   uint32_t result;
@@ -1224,7 +1224,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __RBIT(uint32_t value)
    __asm volatile ("rbit %0, %1" : "=r" (result) : "r" (value) );
    return(result);
 }
-# 447 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 447 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint8_t __LDREXB(volatile uint8_t *addr)
 {
     uint8_t result;
@@ -1232,7 +1232,7 @@ __attribute__( ( always_inline ) ) static inline uint8_t __LDREXB(volatile uint8
    __asm volatile ("ldrexb %0, [%1]" : "=r" (result) : "r" (addr) );
    return(result);
 }
-# 463 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 463 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint16_t __LDREXH(volatile uint16_t *addr)
 {
     uint16_t result;
@@ -1240,7 +1240,7 @@ __attribute__( ( always_inline ) ) static inline uint16_t __LDREXH(volatile uint
    __asm volatile ("ldrexh %0, [%1]" : "=r" (result) : "r" (addr) );
    return(result);
 }
-# 479 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 479 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __LDREXW(volatile uint32_t *addr)
 {
     uint32_t result;
@@ -1248,7 +1248,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __LDREXW(volatile uint
    __asm volatile ("ldrex %0, [%1]" : "=r" (result) : "r" (addr) );
    return(result);
 }
-# 497 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 497 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __STREXB(uint8_t value, volatile uint8_t *addr)
 {
    uint32_t result;
@@ -1256,7 +1256,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __STREXB(uint8_t value
    __asm volatile ("strexb %0, %2, [%1]" : "=&r" (result) : "r" (addr), "r" (value) );
    return(result);
 }
-# 515 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 515 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __STREXH(uint16_t value, volatile uint16_t *addr)
 {
    uint32_t result;
@@ -1264,7 +1264,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __STREXH(uint16_t valu
    __asm volatile ("strexh %0, %2, [%1]" : "=&r" (result) : "r" (addr), "r" (value) );
    return(result);
 }
-# 533 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 533 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __STREXW(uint32_t value, volatile uint32_t *addr)
 {
    uint32_t result;
@@ -1283,11 +1283,11 @@ __attribute__( ( always_inline ) ) static inline void __CLREX(void)
 {
   __asm volatile ("clrex");
 }
-# 561 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 561 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 #define __SSAT(ARG1,ARG2) ({ uint32_t __RES, __ARG1 = (ARG1); __ASM ("ssat %0, %1, %2" : "=r" (__RES) : "I" (ARG2), "r" (__ARG1) ); __RES; })
-# 577 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 577 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 #define __USAT(ARG1,ARG2) ({ uint32_t __RES, __ARG1 = (ARG1); __ASM ("usat %0, %1, %2" : "=r" (__RES) : "I" (ARG2), "r" (__ARG1) ); __RES; })
-# 592 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
+# 592 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmInstr.h"
 __attribute__( ( always_inline ) ) static inline uint8_t __CLZ(uint32_t value)
 {
   uint8_t result;
@@ -1295,11 +1295,11 @@ __attribute__( ( always_inline ) ) static inline uint8_t __CLZ(uint32_t value)
   __asm volatile ("clz %0, %1" : "=r" (result) : "r" (value) );
   return(result);
 }
-# 190 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h" 1
-# 39 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 190 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h" 1
+# 39 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 #define __CORE_CMFUNC_H 
-# 329 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 329 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __enable_irq(void)
 {
   __asm volatile ("cpsie i" : : : "memory");
@@ -1315,7 +1315,7 @@ __attribute__( ( always_inline ) ) static inline void __disable_irq(void)
 {
   __asm volatile ("cpsid i" : : : "memory");
 }
-# 352 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 352 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_CONTROL(void)
 {
   uint32_t result;
@@ -1323,12 +1323,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_CONTROL(void)
   __asm volatile ("MRS %0, control" : "=r" (result) );
   return(result);
 }
-# 367 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 367 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_CONTROL(uint32_t control)
 {
   __asm volatile ("MSR control, %0" : : "r" (control) : "memory");
 }
-# 379 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 379 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_IPSR(void)
 {
   uint32_t result;
@@ -1336,7 +1336,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_IPSR(void)
   __asm volatile ("MRS %0, ipsr" : "=r" (result) );
   return(result);
 }
-# 394 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 394 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_APSR(void)
 {
   uint32_t result;
@@ -1344,7 +1344,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_APSR(void)
   __asm volatile ("MRS %0, apsr" : "=r" (result) );
   return(result);
 }
-# 409 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 409 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_xPSR(void)
 {
   uint32_t result;
@@ -1352,7 +1352,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_xPSR(void)
   __asm volatile ("MRS %0, xpsr" : "=r" (result) );
   return(result);
 }
-# 424 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 424 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_PSP(void)
 {
   register uint32_t result;
@@ -1360,12 +1360,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_PSP(void)
   __asm volatile ("MRS %0, psp\n" : "=r" (result) );
   return(result);
 }
-# 439 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 439 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_PSP(uint32_t topOfProcStack)
 {
   __asm volatile ("MSR psp, %0\n" : : "r" (topOfProcStack) : "sp");
 }
-# 451 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 451 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_MSP(void)
 {
   register uint32_t result;
@@ -1373,12 +1373,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_MSP(void)
   __asm volatile ("MRS %0, msp\n" : "=r" (result) );
   return(result);
 }
-# 466 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 466 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_MSP(uint32_t topOfMainStack)
 {
   __asm volatile ("MSR msp, %0\n" : : "r" (topOfMainStack) : "sp");
 }
-# 478 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 478 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_PRIMASK(void)
 {
   uint32_t result;
@@ -1386,12 +1386,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_PRIMASK(void)
   __asm volatile ("MRS %0, primask" : "=r" (result) );
   return(result);
 }
-# 493 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 493 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_PRIMASK(uint32_t priMask)
 {
   __asm volatile ("MSR primask, %0" : : "r" (priMask) : "memory");
 }
-# 506 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 506 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __enable_fault_irq(void)
 {
   __asm volatile ("cpsie f" : : : "memory");
@@ -1407,7 +1407,7 @@ __attribute__( ( always_inline ) ) static inline void __disable_fault_irq(void)
 {
   __asm volatile ("cpsid f" : : : "memory");
 }
-# 529 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 529 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_BASEPRI(void)
 {
   uint32_t result;
@@ -1415,12 +1415,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_BASEPRI(void)
   __asm volatile ("MRS %0, basepri_max" : "=r" (result) );
   return(result);
 }
-# 544 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 544 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_BASEPRI(uint32_t value)
 {
   __asm volatile ("MSR basepri, %0" : : "r" (value) : "memory");
 }
-# 556 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 556 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_FAULTMASK(void)
 {
   uint32_t result;
@@ -1428,12 +1428,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_FAULTMASK(void)
   __asm volatile ("MRS %0, faultmask" : "=r" (result) );
   return(result);
 }
-# 571 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 571 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_FAULTMASK(uint32_t faultMask)
 {
   __asm volatile ("MSR faultmask, %0" : : "r" (faultMask) : "memory");
 }
-# 587 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 587 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __get_FPSCR(void)
 {
 
@@ -1448,7 +1448,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __get_FPSCR(void)
 
 
 }
-# 609 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
+# 609 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmFunc.h"
 __attribute__( ( always_inline ) ) static inline void __set_FPSCR(uint32_t fpscr)
 {
 
@@ -1458,11 +1458,11 @@ __attribute__( ( always_inline ) ) static inline void __set_FPSCR(uint32_t fpscr
   __asm volatile ("");
 
 }
-# 191 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h" 1
-# 43 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h"
+# 191 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h" 1
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h"
 #define __CORE_CMSIMD_H 
-# 158 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h"
+# 158 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __SADD8(uint32_t op1, uint32_t op2)
 {
   uint32_t result;
@@ -1979,7 +1979,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __QSUB(uint32_t op1, u
 
 
 #define __PKHTB(ARG1,ARG2,ARG3) ({ uint32_t __RES, __ARG1 = (ARG1), __ARG2 = (ARG2); if (ARG3 == 0) __ASM ("pkhtb %0, %1, %2" : "=r" (__RES) : "r" (__ARG1), "r" (__ARG2) ); else __ASM ("pkhtb %0, %1, %2, asr %3" : "=r" (__RES) : "r" (__ARG1), "r" (__ARG2), "I" (ARG3) ); __RES; })
-# 683 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h"
+# 683 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cmSimd.h"
 __attribute__( ( always_inline ) ) static inline uint32_t __SMMLA (int32_t op1, int32_t op2, int32_t op3)
 {
  int32_t result;
@@ -1987,7 +1987,7 @@ __attribute__( ( always_inline ) ) static inline uint32_t __SMMLA (int32_t op1, 
  __asm volatile ("smmla %0, %1, %2, %3" : "=r" (result): "r" (op1), "r" (op2), "r" (op3) );
  return(result);
 }
-# 192 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 2
+# 192 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h" 2
 
 
 
@@ -1995,12 +1995,12 @@ __attribute__( ( always_inline ) ) static inline uint32_t __SMMLA (int32_t op1, 
 
 
 #define __CORE_CM7_H_DEPENDANT 
-# 249 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 249 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define __I volatile const
 
 #define __O volatile
 #define __IO volatile
-# 281 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 281 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef union
 {
   struct
@@ -2074,7 +2074,7 @@ typedef union
   } b;
   uint32_t w;
 } CONTROL_Type;
-# 366 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 366 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile uint32_t ISER[8];
@@ -2095,7 +2095,7 @@ typedef struct
 
 #define NVIC_STIR_INTID_Pos 0
 #define NVIC_STIR_INTID_Msk (0x1FFUL << NVIC_STIR_INTID_Pos)
-# 398 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 398 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile const uint32_t CPUID;
@@ -2468,7 +2468,7 @@ typedef struct
 
 #define SCB_ABFSR_ITCM_Pos 0
 #define SCB_ABFSR_ITCM_Msk (1UL << SCB_ABFSR_ITCM_Pos)
-# 782 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 782 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
        uint32_t RESERVED0[1];
@@ -2495,7 +2495,7 @@ typedef struct
 
 #define SCnSCB_ACTLR_DISMCYCINT_Pos 0
 #define SCnSCB_ACTLR_DISMCYCINT_Msk (1UL << SCnSCB_ACTLR_DISMCYCINT_Pos)
-# 820 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 820 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile uint32_t CTRL;
@@ -2534,7 +2534,7 @@ typedef struct
 
 #define SysTick_CALIB_TENMS_Pos 0
 #define SysTick_CALIB_TENMS_Msk (0xFFFFFFUL << SysTick_VAL_CURRENT_Pos)
-# 870 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 870 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile union
@@ -2624,7 +2624,7 @@ typedef struct
 
 #define ITM_LSR_Present_Pos 0
 #define ITM_LSR_Present_Msk (1UL << ITM_LSR_Present_Pos)
-# 971 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 971 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile uint32_t CTRL;
@@ -2761,7 +2761,7 @@ typedef struct
 
 #define DWT_FUNCTION_FUNCTION_Pos 0
 #define DWT_FUNCTION_FUNCTION_Msk (0xFUL << DWT_FUNCTION_FUNCTION_Pos)
-# 1119 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1119 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile uint32_t SSPSR;
@@ -2903,7 +2903,7 @@ typedef struct
 
 #define TPI_DEVTYPE_MajorType_Pos 4
 #define TPI_DEVTYPE_MajorType_Msk (0xFUL << TPI_DEVTYPE_MajorType_Pos)
-# 1273 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1273 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile const uint32_t TYPE;
@@ -2983,7 +2983,7 @@ typedef struct
 
 #define MPU_RASR_ENABLE_Pos 0
 #define MPU_RASR_ENABLE_Msk (1UL << MPU_RASR_ENABLE_Pos)
-# 1366 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1366 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
        uint32_t RESERVED0[1];
@@ -3076,7 +3076,7 @@ typedef struct
 
 #define FPU_MVFR1_FtZ_mode_Pos 0
 #define FPU_MVFR1_FtZ_mode_Msk (0xFUL << FPU_MVFR1_FtZ_mode_Pos)
-# 1471 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1471 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 typedef struct
 {
   volatile uint32_t DHCSR;
@@ -3168,7 +3168,7 @@ typedef struct
 
 #define CoreDebug_DEMCR_VC_CORERESET_Pos 0
 #define CoreDebug_DEMCR_VC_CORERESET_Msk (1UL << CoreDebug_DEMCR_VC_CORERESET_Pos)
-# 1573 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1573 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define SCS_BASE (0xE000E000UL)
 #define ITM_BASE (0xE0000000UL)
 #define DWT_BASE (0xE0001000UL)
@@ -3195,7 +3195,7 @@ typedef struct
 
 #define FPU_BASE (SCS_BASE + 0x0F30UL)
 #define FPU ((FPU_Type *) FPU_BASE )
-# 1635 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1635 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_SetPriorityGrouping(uint32_t PriorityGroup)
 {
   uint32_t reg_value;
@@ -3208,43 +3208,43 @@ static inline void NVIC_SetPriorityGrouping(uint32_t PriorityGroup)
                 (PriorityGroupTmp << 8));
   ((SCB_Type *) ((0xE000E000UL) + 0x0D00UL) )->AIRCR = reg_value;
 }
-# 1655 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1655 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t NVIC_GetPriorityGrouping(void)
 {
   return ((((SCB_Type *) ((0xE000E000UL) + 0x0D00UL) )->AIRCR & (7UL << 8)) >> 8);
 }
-# 1667 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1667 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_EnableIRQ(IRQn_Type IRQn)
 {
 
   ((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->ISER[(uint32_t)((int32_t)IRQn) >> 5] = (uint32_t)(1 << ((uint32_t)((int32_t)IRQn) & (uint32_t)0x1F));
 }
-# 1680 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1680 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_DisableIRQ(IRQn_Type IRQn)
 {
   ((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->ICER[((uint32_t)(IRQn) >> 5)] = (1 << ((uint32_t)(IRQn) & 0x1F));
 }
-# 1696 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1696 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
 {
   return((uint32_t) ((((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->ISPR[(uint32_t)(IRQn) >> 5] & (1 << ((uint32_t)(IRQn) & 0x1F)))?1:0));
 }
-# 1708 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1708 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_SetPendingIRQ(IRQn_Type IRQn)
 {
   ((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->ISPR[((uint32_t)(IRQn) >> 5)] = (1 << ((uint32_t)(IRQn) & 0x1F));
 }
-# 1720 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1720 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
 {
   ((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->ICPR[((uint32_t)(IRQn) >> 5)] = (1 << ((uint32_t)(IRQn) & 0x1F));
 }
-# 1735 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1735 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t NVIC_GetActive(IRQn_Type IRQn)
 {
   return((uint32_t)((((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->IABR[(uint32_t)(IRQn) >> 5] & (1 << ((uint32_t)(IRQn) & 0x1F)))?1:0));
 }
-# 1750 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1750 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
 {
   if(IRQn < 0) {
@@ -3252,7 +3252,7 @@ static inline void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
   else {
     ((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->IP[(uint32_t)(IRQn)] = ((priority << (8 - 3)) & 0xff); }
 }
-# 1770 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1770 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t NVIC_GetPriority(IRQn_Type IRQn)
 {
 
@@ -3261,7 +3261,7 @@ static inline uint32_t NVIC_GetPriority(IRQn_Type IRQn)
   else {
     return((uint32_t)(((NVIC_Type *) ((0xE000E000UL) + 0x0100UL) )->IP[(uint32_t)(IRQn)] >> (8 - 3))); }
 }
-# 1792 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1792 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t NVIC_EncodePriority (uint32_t PriorityGroup, uint32_t PreemptPriority, uint32_t SubPriority)
 {
   uint32_t PriorityGroupTmp = (PriorityGroup & 0x07);
@@ -3276,7 +3276,7 @@ static inline uint32_t NVIC_EncodePriority (uint32_t PriorityGroup, uint32_t Pre
            ((SubPriority & ((1 << (SubPriorityBits )) - 1)))
          );
 }
-# 1820 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1820 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline void NVIC_DecodePriority (uint32_t Priority, uint32_t PriorityGroup, uint32_t* pPreemptPriority, uint32_t* pSubPriority)
 {
   uint32_t PriorityGroupTmp = (PriorityGroup & 0x07);
@@ -3305,7 +3305,7 @@ static inline void NVIC_SystemReset(void)
   __DSB();
   while(1);
 }
-# 1860 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 1860 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 #define CCSIDR_WAYS(x) (((x) & SCB_CCSIDR_ASSOCIATIVITY_Msk) >> SCB_CCSIDR_ASSOCIATIVITY_Pos)
 #define CCSIDR_SETS(x) (((x) & SCB_CCSIDR_NUMSETS_Msk ) >> SCB_CCSIDR_NUMSETS_Pos )
 #define CCSIDR_LSSHIFT(x) (((x) & SCB_CCSIDR_LINESIZE_Msk ) >> SCB_CCSIDR_LINESIZE_Pos )
@@ -3525,7 +3525,7 @@ static inline void SCB_CleanInvalidateDCache(void)
     __ISB();
 
 }
-# 2109 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 2109 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t SysTick_Config(uint32_t ticks)
 {
   if ((ticks - 1) > (0xFFFFFFUL << 0)) return (1);
@@ -3538,10 +3538,10 @@ static inline uint32_t SysTick_Config(uint32_t ticks)
                    (1UL << 0);
   return (0);
 }
-# 2135 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 2135 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 extern volatile int32_t ITM_RxBuffer;
 #define ITM_RXBUFFER_EMPTY 0x5AA55AA5
-# 2149 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 2149 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline uint32_t ITM_SendChar (uint32_t ch)
 {
   if ((((ITM_Type *) (0xE0000000UL) )->TCR & (1UL << 0)) &&
@@ -3552,7 +3552,7 @@ static inline uint32_t ITM_SendChar (uint32_t ch)
   }
   return (ch);
 }
-# 2168 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 2168 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline int32_t ITM_ReceiveChar (void) {
   int32_t ch = -1;
 
@@ -3563,7 +3563,7 @@ static inline int32_t ITM_ReceiveChar (void) {
 
   return (ch);
 }
-# 2187 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
+# 2187 "C:\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 static inline int32_t ITM_CheckChar (void) {
 
   if (ITM_RxBuffer == 0x5AA55AA5) {
@@ -3572,12 +3572,12 @@ static inline int32_t ITM_CheckChar (void) {
     return (1);
   }
 }
-# 318 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 318 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
 
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/system_samv71.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/system_samv71.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/system_samv71.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/system_samv71.h"
 #define SYSTEM_SAMV71_H_INCLUDED 
-# 43 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/system_samv71.h"
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/system_samv71.h"
 extern uint32_t SystemCoreClock;
 
 
@@ -3599,12 +3599,12 @@ void system_init_flash(uint32_t dw_clk);
 
 void sysclk_enable_usb(void);
 void sysclk_disable_usb(void);
-# 320 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 330 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_acc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_acc.h"
+# 320 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 330 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_acc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_acc.h"
 #define _SAMV71_ACC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_acc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_acc.h"
 typedef struct {
   volatile uint32_t ACC_CR;
   volatile uint32_t ACC_MR;
@@ -3688,11 +3688,11 @@ typedef struct {
 #define ACC_WPMR_WPKEY_PASSWD (0x414343u << 8)
 
 #define ACC_WPSR_WPVS (0x1u << 0)
-# 331 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_aes.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_aes.h"
+# 331 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_aes.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_aes.h"
 #define _SAMV71_AES_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_aes.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_aes.h"
 typedef struct {
   volatile uint32_t AES_CR;
   volatile uint32_t AES_MR;
@@ -3820,11 +3820,11 @@ typedef struct {
 #define AES_GCMHR_H_Pos 0
 #define AES_GCMHR_H_Msk (0xffffffffu << AES_GCMHR_H_Pos)
 #define AES_GCMHR_H(value) ((AES_GCMHR_H_Msk & ((value) << AES_GCMHR_H_Pos)))
-# 332 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_afec.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_afec.h"
+# 332 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_afec.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_afec.h"
 #define _SAMV71_AFEC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_afec.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_afec.h"
 typedef struct {
   volatile uint32_t AFEC_CR;
   volatile uint32_t AFEC_MR;
@@ -4263,11 +4263,11 @@ typedef struct {
 #define AFEC_WPSR_WPVS (0x1u << 0)
 #define AFEC_WPSR_WPVSRC_Pos 8
 #define AFEC_WPSR_WPVSRC_Msk (0xffffu << AFEC_WPSR_WPVSRC_Pos)
-# 333 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_chipid.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_chipid.h"
+# 333 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_chipid.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_chipid.h"
 #define _SAMV71_CHIPID_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_chipid.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_chipid.h"
 typedef struct {
   volatile const uint32_t CHIPID_CIDR;
   volatile const uint32_t CHIPID_EXID;
@@ -4346,11 +4346,11 @@ typedef struct {
 
 #define CHIPID_EXID_EXID_Pos 0
 #define CHIPID_EXID_EXID_Msk (0xffffffffu << CHIPID_EXID_EXID_Pos)
-# 334 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_dacc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_dacc.h"
+# 334 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_dacc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_dacc.h"
 #define _SAMV71_DACC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_dacc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_dacc.h"
 typedef struct {
   volatile uint32_t DACC_CR;
   volatile uint32_t DACC_MR;
@@ -4508,11 +4508,11 @@ typedef struct {
 #define DACC_WPSR_WPVS (0x1u << 0)
 #define DACC_WPSR_WPVSRC_Pos 8
 #define DACC_WPSR_WPVSRC_Msk (0xffu << DACC_WPSR_WPVSRC_Pos)
-# 335 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_efc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_efc.h"
+# 335 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_efc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_efc.h"
 #define _SAMV71_EFC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_efc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_efc.h"
 typedef struct {
   volatile uint32_t EEFC_FMR;
   volatile uint32_t EEFC_FCR;
@@ -4586,11 +4586,11 @@ typedef struct {
 #define EEFC_WPMR_WPKEY_Msk (0xffffffu << EEFC_WPMR_WPKEY_Pos)
 #define EEFC_WPMR_WPKEY(value) ((EEFC_WPMR_WPKEY_Msk & ((value) << EEFC_WPMR_WPKEY_Pos)))
 #define EEFC_WPMR_WPKEY_PASSWD (0x454643u << 8)
-# 336 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gmac.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gmac.h"
+# 336 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gmac.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gmac.h"
 #define _SAMV71_GMAC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gmac.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gmac.h"
 typedef struct {
   volatile uint32_t GMAC_SAB;
   volatile uint32_t GMAC_SAT;
@@ -5378,11 +5378,11 @@ typedef struct {
 #define GMAC_ST2COM1_OFFSET_TYPE_Pos 7
 #define GMAC_ST2COM1_OFFSET_TYPE_Msk (0x3u << GMAC_ST2COM1_OFFSET_TYPE_Pos)
 #define GMAC_ST2COM1_OFFSET_TYPE(value) ((GMAC_ST2COM1_OFFSET_TYPE_Msk & ((value) << GMAC_ST2COM1_OFFSET_TYPE_Pos)))
-# 337 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gpbr.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gpbr.h"
+# 337 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gpbr.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gpbr.h"
 #define _SAMV71_GPBR_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gpbr.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_gpbr.h"
 typedef struct {
   volatile uint32_t SYS_GPBR[8];
 } Gpbr;
@@ -5391,11 +5391,11 @@ typedef struct {
 #define SYS_GPBR_GPBR_VALUE_Pos 0
 #define SYS_GPBR_GPBR_VALUE_Msk (0xffffffffu << SYS_GPBR_GPBR_VALUE_Pos)
 #define SYS_GPBR_GPBR_VALUE(value) ((SYS_GPBR_GPBR_VALUE_Msk & ((value) << SYS_GPBR_GPBR_VALUE_Pos)))
-# 338 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_hsmci.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_hsmci.h"
+# 338 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_hsmci.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_hsmci.h"
 #define _SAMV71_HSMCI_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_hsmci.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_hsmci.h"
 typedef struct {
   volatile uint32_t HSMCI_CR;
   volatile uint32_t HSMCI_MR;
@@ -5686,11 +5686,11 @@ typedef struct {
 #define HSMCI_FIFO_DATA_Pos 0
 #define HSMCI_FIFO_DATA_Msk (0xffffffffu << HSMCI_FIFO_DATA_Pos)
 #define HSMCI_FIFO_DATA(value) ((HSMCI_FIFO_DATA_Msk & ((value) << HSMCI_FIFO_DATA_Pos)))
-# 339 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_icm.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_icm.h"
+# 339 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_icm.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_icm.h"
 #define _SAMV71_ICM_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_icm.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_icm.h"
 typedef struct {
   volatile uint32_t ICM_CFG;
   volatile uint32_t ICM_CTRL;
@@ -5838,11 +5838,11 @@ typedef struct {
 #define ICM_UIHVAL_VAL_Pos 0
 #define ICM_UIHVAL_VAL_Msk (0xffffffffu << ICM_UIHVAL_VAL_Pos)
 #define ICM_UIHVAL_VAL(value) ((ICM_UIHVAL_VAL_Msk & ((value) << ICM_UIHVAL_VAL_Pos)))
-# 340 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_isi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_isi.h"
+# 340 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_isi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_isi.h"
 #define _SAMV71_ISI_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_isi.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_isi.h"
 typedef struct {
   volatile uint32_t ISI_CFG1;
   volatile uint32_t ISI_CFG2;
@@ -6078,11 +6078,11 @@ typedef struct {
 #define ISI_WPSR_WPVS (0x1u << 0)
 #define ISI_WPSR_WPVSRC_Pos 8
 #define ISI_WPSR_WPVSRC_Msk (0xffffu << ISI_WPSR_WPVSRC_Pos)
-# 341 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_matrix.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_matrix.h"
+# 341 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_matrix.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_matrix.h"
 #define _SAMV71_MATRIX_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_matrix.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_matrix.h"
 typedef struct {
   volatile uint32_t MATRIX_PRAS;
   volatile uint32_t MATRIX_PRBS;
@@ -6212,11 +6212,11 @@ typedef struct {
 #define MATRIX_WPSR_WPVS (0x1u << 0)
 #define MATRIX_WPSR_WPVSRC_Pos 8
 #define MATRIX_WPSR_WPVSRC_Msk (0xffffu << MATRIX_WPSR_WPVSRC_Pos)
-# 342 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mcan.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mcan.h"
+# 342 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mcan.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mcan.h"
 #define _SAMV71_MCAN_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mcan.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mcan.h"
 typedef struct {
   volatile const uint32_t Reserved1[2];
   volatile uint32_t MCAN_CUST;
@@ -7017,11 +7017,11 @@ typedef struct {
 #define MCAN_TXEFA_EFAI_Pos 0
 #define MCAN_TXEFA_EFAI_Msk (0x1fu << MCAN_TXEFA_EFAI_Pos)
 #define MCAN_TXEFA_EFAI(value) ((MCAN_TXEFA_EFAI_Msk & ((value) << MCAN_TXEFA_EFAI_Pos)))
-# 343 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mlb.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mlb.h"
+# 343 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mlb.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mlb.h"
 #define _SAMV71_MLB_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mlb.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_mlb.h"
 typedef struct {
   volatile uint32_t MLB_MLBC0;
   volatile const uint32_t Reserved1[2];
@@ -7169,11 +7169,11 @@ typedef struct {
 #define MLB_ACMR_CHM_Pos 0
 #define MLB_ACMR_CHM_Msk (0xffffffffu << MLB_ACMR_CHM_Pos)
 #define MLB_ACMR_CHM(value) ((MLB_ACMR_CHM_Msk & ((value) << MLB_ACMR_CHM_Pos)))
-# 344 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pio.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pio.h"
+# 344 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pio.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pio.h"
 #define _SAMV71_PIO_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pio.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pio.h"
 typedef struct {
   volatile uint32_t PIO_PER;
   volatile uint32_t PIO_PDR;
@@ -8914,11 +8914,11 @@ typedef struct {
 
 #define PIO_PCRHR_RDATA_Pos 0
 #define PIO_PCRHR_RDATA_Msk (0xffffffffu << PIO_PCRHR_RDATA_Pos)
-# 345 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pmc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pmc.h"
+# 345 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pmc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pmc.h"
 #define _SAMV71_PMC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pmc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pmc.h"
 typedef struct {
   volatile uint32_t PMC_SCER;
   volatile uint32_t PMC_SCDR;
@@ -9595,11 +9595,11 @@ typedef struct {
 #define PMC_SLPWK_ASR1_PID60 (0x1u << 28)
 
 #define PMC_SLPWK_AIPR_AIP (0x1u << 0)
-# 346 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pwm.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pwm.h"
+# 346 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pwm.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pwm.h"
 #define _SAMV71_PWM_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pwm.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_pwm.h"
 typedef struct {
   volatile uint32_t PWM_CMR;
   volatile uint32_t PWM_CDTY;
@@ -10255,11 +10255,11 @@ typedef struct {
 #define PWM_LEBR4_PWMLREN (0x1u << 17)
 #define PWM_LEBR4_PWMHFEN (0x1u << 18)
 #define PWM_LEBR4_PWMHREN (0x1u << 19)
-# 347 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_qspi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_qspi.h"
+# 347 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_qspi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_qspi.h"
 #define _SAMV71_QSPI_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_qspi.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_qspi.h"
 typedef struct {
   volatile uint32_t QSPI_CR;
   volatile uint32_t QSPI_MR;
@@ -10438,11 +10438,11 @@ typedef struct {
 #define QSPI_WPSR_WPVS (0x1u << 0)
 #define QSPI_WPSR_WPVSRC_Pos 8
 #define QSPI_WPSR_WPVSRC_Msk (0xffu << QSPI_WPSR_WPVSRC_Pos)
-# 348 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rstc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rstc.h"
+# 348 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rstc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rstc.h"
 #define _SAMV71_RSTC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rstc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rstc.h"
 typedef struct {
   volatile uint32_t RSTC_CR;
   volatile const uint32_t RSTC_SR;
@@ -10477,11 +10477,11 @@ typedef struct {
 #define RSTC_MR_KEY_Msk (0xffu << RSTC_MR_KEY_Pos)
 #define RSTC_MR_KEY(value) ((RSTC_MR_KEY_Msk & ((value) << RSTC_MR_KEY_Pos)))
 #define RSTC_MR_KEY_PASSWD (0xA5u << 24)
-# 349 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rswdt.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rswdt.h"
+# 349 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rswdt.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rswdt.h"
 #define _SAMV71_RSWDT_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rswdt.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rswdt.h"
 typedef struct {
   volatile uint32_t RSWDT_CR;
   volatile uint32_t RSWDT_MR;
@@ -10509,11 +10509,11 @@ typedef struct {
 #define RSWDT_MR_WDIDLEHLT (0x1u << 29)
 
 #define RSWDT_SR_WDUNF (0x1u << 0)
-# 350 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtc.h"
+# 350 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtc.h"
 #define _SAMV71_RTC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtc.h"
 typedef struct {
   volatile uint32_t RTC_CR;
   volatile uint32_t RTC_MR;
@@ -10695,11 +10695,11 @@ typedef struct {
 #define RTC_VER_NVCAL (0x1u << 1)
 #define RTC_VER_NVTIMALR (0x1u << 2)
 #define RTC_VER_NVCALALR (0x1u << 3)
-# 351 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtt.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtt.h"
+# 351 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtt.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtt.h"
 #define _SAMV71_RTT_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtt.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_rtt.h"
 typedef struct {
   volatile uint32_t RTT_MR;
   volatile uint32_t RTT_AR;
@@ -10726,11 +10726,11 @@ typedef struct {
 
 #define RTT_SR_ALMS (0x1u << 0)
 #define RTT_SR_RTTINC (0x1u << 1)
-# 352 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_sdramc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_sdramc.h"
+# 352 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_sdramc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_sdramc.h"
 #define _SAMV71_SDRAMC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_sdramc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_sdramc.h"
 typedef struct {
   volatile uint32_t SDRAMC_MR;
   volatile uint32_t SDRAMC_TR;
@@ -10859,11 +10859,11 @@ typedef struct {
 #define SDRAMC_OCMS_KEY2_KEY2_Pos 0
 #define SDRAMC_OCMS_KEY2_KEY2_Msk (0xffffffffu << SDRAMC_OCMS_KEY2_KEY2_Pos)
 #define SDRAMC_OCMS_KEY2_KEY2(value) ((SDRAMC_OCMS_KEY2_KEY2_Msk & ((value) << SDRAMC_OCMS_KEY2_KEY2_Pos)))
-# 353 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_smc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_smc.h"
+# 353 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_smc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_smc.h"
 #define _SAMV71_SMC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_smc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_smc.h"
 typedef struct {
   volatile uint32_t SMC_SETUP;
   volatile uint32_t SMC_PULSE;
@@ -10963,11 +10963,11 @@ typedef struct {
 #define SMC_WPSR_WPVS (0x1u << 0)
 #define SMC_WPSR_WPVSRC_Pos 8
 #define SMC_WPSR_WPVSRC_Msk (0xffffu << SMC_WPSR_WPVSRC_Pos)
-# 354 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_spi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_spi.h"
+# 354 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_spi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_spi.h"
 #define _SAMV71_SPI_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_spi.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_spi.h"
 typedef struct {
   volatile uint32_t SPI_CR;
   volatile uint32_t SPI_MR;
@@ -11084,11 +11084,11 @@ typedef struct {
 #define SPI_WPSR_WPVS (0x1u << 0)
 #define SPI_WPSR_WPVSRC_Pos 8
 #define SPI_WPSR_WPVSRC_Msk (0xffu << SPI_WPSR_WPVSRC_Pos)
-# 355 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_ssc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_ssc.h"
+# 355 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_ssc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_ssc.h"
 #define _SAMV71_SSC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_ssc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_ssc.h"
 typedef struct {
   volatile uint32_t SSC_CR;
   volatile uint32_t SSC_CMR;
@@ -11324,11 +11324,11 @@ typedef struct {
 #define SSC_WPSR_WPVS (0x1u << 0)
 #define SSC_WPSR_WPVSRC_Pos 8
 #define SSC_WPSR_WPVSRC_Msk (0xffffu << SSC_WPSR_WPVSRC_Pos)
-# 356 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_supc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_supc.h"
+# 356 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_supc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_supc.h"
 #define _SAMV71_SUPC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_supc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_supc.h"
 typedef struct {
   volatile uint32_t SUPC_CR;
   volatile uint32_t SUPC_SMMR;
@@ -11579,11 +11579,11 @@ typedef struct {
 #define SUPC_SR_WKUPIS13 (0x1u << 29)
 #define SUPC_SR_WKUPIS13_DIS (0x0u << 29)
 #define SUPC_SR_WKUPIS13_EN (0x1u << 29)
-# 357 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_tc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_tc.h"
+# 357 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_tc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_tc.h"
 #define _SAMV71_TC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_tc.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_tc.h"
 typedef struct {
   volatile uint32_t TC_CCR;
   volatile uint32_t TC_CMR;
@@ -11885,11 +11885,11 @@ typedef struct {
 #define TC_WPMR_WPKEY_Msk (0xffffffu << TC_WPMR_WPKEY_Pos)
 #define TC_WPMR_WPKEY(value) ((TC_WPMR_WPKEY_Msk & ((value) << TC_WPMR_WPKEY_Pos)))
 #define TC_WPMR_WPKEY_PASSWD (0x54494Du << 8)
-# 358 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_trng.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_trng.h"
+# 358 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_trng.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_trng.h"
 #define _SAMV71_TRNG_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_trng.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_trng.h"
 typedef struct {
   volatile uint32_t TRNG_CR;
   volatile const uint32_t Reserved1[3];
@@ -11918,11 +11918,11 @@ typedef struct {
 
 #define TRNG_ODATA_ODATA_Pos 0
 #define TRNG_ODATA_ODATA_Msk (0xffffffffu << TRNG_ODATA_ODATA_Pos)
-# 359 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_twihs.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_twihs.h"
+# 359 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_twihs.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_twihs.h"
 #define _SAMV71_TWIHS_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_twihs.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_twihs.h"
 typedef struct {
   volatile uint32_t TWIHS_CR;
   volatile uint32_t TWIHS_MMR;
@@ -12128,11 +12128,11 @@ typedef struct {
 #define TWIHS_WPSR_WPVS (0x1u << 0)
 #define TWIHS_WPSR_WPVSRC_Pos 8
 #define TWIHS_WPSR_WPVSRC_Msk (0xffffffu << TWIHS_WPSR_WPVSRC_Pos)
-# 360 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_uart.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_uart.h"
+# 360 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_uart.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_uart.h"
 #define _SAMV71_UART_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_uart.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_uart.h"
 typedef struct {
   volatile uint32_t UART_CR;
   volatile uint32_t UART_MR;
@@ -12239,11 +12239,11 @@ typedef struct {
 #define UART_WPMR_WPKEY_Msk (0xffffffu << UART_WPMR_WPKEY_Pos)
 #define UART_WPMR_WPKEY(value) ((UART_WPMR_WPKEY_Msk & ((value) << UART_WPMR_WPKEY_Pos)))
 #define UART_WPMR_WPKEY_PASSWD (0x554152u << 8)
-# 361 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usart.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usart.h"
+# 361 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usart.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usart.h"
 #define _SAMV71_USART_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usart.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usart.h"
 typedef struct {
   volatile uint32_t US_CR;
   volatile uint32_t US_MR;
@@ -12624,11 +12624,11 @@ typedef struct {
 #define US_WPSR_WPVS (0x1u << 0)
 #define US_WPSR_WPVSRC_Pos 8
 #define US_WPSR_WPVSRC_Msk (0xffffu << US_WPSR_WPVSRC_Pos)
-# 362 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usbhs.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usbhs.h"
+# 362 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usbhs.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usbhs.h"
 #define _SAMV71_USBHS_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usbhs.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_usbhs.h"
 typedef struct {
   volatile uint32_t USBHS_DEVDMANXTDSC;
   volatile uint32_t USBHS_DEVDMAADDRESS;
@@ -13544,11 +13544,11 @@ typedef struct {
 #define USBHS_FSM_DRDSTATE_B_WAIT_ACON (0xDu << 0)
 #define USBHS_FSM_DRDSTATE_B_HOST (0xEu << 0)
 #define USBHS_FSM_DRDSTATE_B_SRP_INIT (0xFu << 0)
-# 363 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_utmi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_utmi.h"
+# 363 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_utmi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_utmi.h"
 #define _SAMV71_UTMI_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_utmi.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_utmi.h"
 typedef struct {
   volatile const uint32_t Reserved1[4];
   volatile uint32_t UTMI_OHCIICR;
@@ -13567,11 +13567,11 @@ typedef struct {
 #define UTMI_CKTRIM_FREQ(value) ((UTMI_CKTRIM_FREQ_Msk & ((value) << UTMI_CKTRIM_FREQ_Pos)))
 #define UTMI_CKTRIM_FREQ_XTAL12 (0x0u << 0)
 #define UTMI_CKTRIM_FREQ_XTAL16 (0x1u << 0)
-# 364 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_wdt.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_wdt.h"
+# 364 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_wdt.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_wdt.h"
 #define _SAMV71_WDT_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_wdt.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_wdt.h"
 typedef struct {
   volatile uint32_t WDT_CR;
   volatile uint32_t WDT_MR;
@@ -13599,11 +13599,11 @@ typedef struct {
 
 #define WDT_SR_WDUNF (0x1u << 0)
 #define WDT_SR_WDERR (0x1u << 1)
-# 365 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_xdmac.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_xdmac.h"
+# 365 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_xdmac.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_xdmac.h"
 #define _SAMV71_XDMAC_COMPONENT_ 
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_xdmac.h"
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/component/component_xdmac.h"
 typedef struct {
   volatile uint32_t XDMAC_CIE;
   volatile uint32_t XDMAC_CID;
@@ -14178,12 +14178,12 @@ typedef struct {
 #define XDMAC_CDUS_DUBS_Pos 0
 #define XDMAC_CDUS_DUBS_Msk (0xffffffu << XDMAC_CDUS_DUBS_Pos)
 #define XDMAC_CDUS_DUBS(value) ((XDMAC_CDUS_DUBS_Msk & ((value) << XDMAC_CDUS_DUBS_Pos)))
-# 366 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 374 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_hsmci.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_hsmci.h"
+# 366 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 374 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_hsmci.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_hsmci.h"
 #define _SAMV71_HSMCI_INSTANCE_ 
-# 56 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_hsmci.h"
+# 56 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_hsmci.h"
 #define REG_HSMCI_CR (*(__O uint32_t*)0x40000000U)
 #define REG_HSMCI_MR (*(__IO uint32_t*)0x40000004U)
 #define REG_HSMCI_DTOR (*(__IO uint32_t*)0x40000008U)
@@ -14204,11 +14204,11 @@ typedef struct {
 #define REG_HSMCI_WPMR (*(__IO uint32_t*)0x400000E4U)
 #define REG_HSMCI_WPSR (*(__I uint32_t*)0x400000E8U)
 #define REG_HSMCI_FIFO (*(__IO uint32_t*)0x40000200U)
-# 375 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_ssc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_ssc.h"
+# 375 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_ssc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_ssc.h"
 #define _SAMV71_SSC_INSTANCE_ 
-# 54 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_ssc.h"
+# 54 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_ssc.h"
 #define REG_SSC_CR (*(__O uint32_t*)0x40004000U)
 #define REG_SSC_CMR (*(__IO uint32_t*)0x40004004U)
 #define REG_SSC_RCMR (*(__IO uint32_t*)0x40004010U)
@@ -14227,11 +14227,11 @@ typedef struct {
 #define REG_SSC_IMR (*(__I uint32_t*)0x4000404CU)
 #define REG_SSC_WPMR (*(__IO uint32_t*)0x400040E4U)
 #define REG_SSC_WPSR (*(__I uint32_t*)0x400040E8U)
-# 376 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi0.h"
+# 376 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi0.h"
 #define _SAMV71_SPI0_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi0.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi0.h"
 #define REG_SPI0_CR (*(__O uint32_t*)0x40008000U)
 #define REG_SPI0_MR (*(__IO uint32_t*)0x40008004U)
 #define REG_SPI0_RDR (*(__I uint32_t*)0x40008008U)
@@ -14243,11 +14243,11 @@ typedef struct {
 #define REG_SPI0_CSR (*(__IO uint32_t*)0x40008030U)
 #define REG_SPI0_WPMR (*(__IO uint32_t*)0x400080E4U)
 #define REG_SPI0_WPSR (*(__I uint32_t*)0x400080E8U)
-# 377 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc0.h"
+# 377 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc0.h"
 #define _SAMV71_TC0_INSTANCE_ 
-# 83 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc0.h"
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc0.h"
 #define REG_TC0_CCR0 (*(__O uint32_t*)0x4000C000U)
 #define REG_TC0_CMR0 (*(__IO uint32_t*)0x4000C004U)
 #define REG_TC0_SMMR0 (*(__IO uint32_t*)0x4000C008U)
@@ -14295,11 +14295,11 @@ typedef struct {
 #define REG_TC0_QISR (*(__I uint32_t*)0x4000C0D4U)
 #define REG_TC0_FMR (*(__IO uint32_t*)0x4000C0D8U)
 #define REG_TC0_WPMR (*(__IO uint32_t*)0x4000C0E4U)
-# 378 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc1.h"
+# 378 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc1.h"
 #define _SAMV71_TC1_INSTANCE_ 
-# 83 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc1.h"
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc1.h"
 #define REG_TC1_CCR0 (*(__O uint32_t*)0x40010000U)
 #define REG_TC1_CMR0 (*(__IO uint32_t*)0x40010004U)
 #define REG_TC1_SMMR0 (*(__IO uint32_t*)0x40010008U)
@@ -14347,11 +14347,11 @@ typedef struct {
 #define REG_TC1_QISR (*(__I uint32_t*)0x400100D4U)
 #define REG_TC1_FMR (*(__IO uint32_t*)0x400100D8U)
 #define REG_TC1_WPMR (*(__IO uint32_t*)0x400100E4U)
-# 379 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc2.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc2.h"
+# 379 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc2.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc2.h"
 #define _SAMV71_TC2_INSTANCE_ 
-# 83 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc2.h"
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc2.h"
 #define REG_TC2_CCR0 (*(__O uint32_t*)0x40014000U)
 #define REG_TC2_CMR0 (*(__IO uint32_t*)0x40014004U)
 #define REG_TC2_SMMR0 (*(__IO uint32_t*)0x40014008U)
@@ -14399,11 +14399,11 @@ typedef struct {
 #define REG_TC2_QISR (*(__I uint32_t*)0x400140D4U)
 #define REG_TC2_FMR (*(__IO uint32_t*)0x400140D8U)
 #define REG_TC2_WPMR (*(__IO uint32_t*)0x400140E4U)
-# 380 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs0.h"
+# 380 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs0.h"
 #define _SAMV71_TWIHS0_INSTANCE_ 
-# 52 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs0.h"
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs0.h"
 #define REG_TWIHS0_CR (*(__O uint32_t*)0x40018000U)
 #define REG_TWIHS0_MMR (*(__IO uint32_t*)0x40018004U)
 #define REG_TWIHS0_SMR (*(__IO uint32_t*)0x40018008U)
@@ -14420,11 +14420,11 @@ typedef struct {
 #define REG_TWIHS0_SWMR (*(__IO uint32_t*)0x4001804CU)
 #define REG_TWIHS0_WPMR (*(__IO uint32_t*)0x400180E4U)
 #define REG_TWIHS0_WPSR (*(__I uint32_t*)0x400180E8U)
-# 381 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs1.h"
+# 381 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs1.h"
 #define _SAMV71_TWIHS1_INSTANCE_ 
-# 52 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs1.h"
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs1.h"
 #define REG_TWIHS1_CR (*(__O uint32_t*)0x4001C000U)
 #define REG_TWIHS1_MMR (*(__IO uint32_t*)0x4001C004U)
 #define REG_TWIHS1_SMR (*(__IO uint32_t*)0x4001C008U)
@@ -14441,11 +14441,11 @@ typedef struct {
 #define REG_TWIHS1_SWMR (*(__IO uint32_t*)0x4001C04CU)
 #define REG_TWIHS1_WPMR (*(__IO uint32_t*)0x4001C0E4U)
 #define REG_TWIHS1_WPSR (*(__I uint32_t*)0x4001C0E8U)
-# 382 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm0.h"
+# 382 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm0.h"
 #define _SAMV71_PWM0_INSTANCE_ 
-# 147 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm0.h"
+# 147 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm0.h"
 #define REG_PWM0_CLK (*(__IO uint32_t*)0x40020000U)
 #define REG_PWM0_ENA (*(__O uint32_t*)0x40020004U)
 #define REG_PWM0_DIS (*(__O uint32_t*)0x40020008U)
@@ -14557,11 +14557,11 @@ typedef struct {
 #define REG_PWM0_LEBR3 (*(__IO uint32_t*)0x40020470U)
 #define REG_PWM0_ETRG4 (*(__IO uint32_t*)0x4002048CU)
 #define REG_PWM0_LEBR4 (*(__IO uint32_t*)0x40020490U)
-# 383 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart0.h"
+# 383 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart0.h"
 #define _SAMV71_USART0_INSTANCE_ 
-# 64 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart0.h"
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart0.h"
 #define REG_USART0_CR (*(__O uint32_t*)0x40024000U)
 #define REG_USART0_MR (*(__IO uint32_t*)0x40024004U)
 #define REG_USART0_IER (*(__O uint32_t*)0x40024008U)
@@ -14590,11 +14590,11 @@ typedef struct {
 #define REG_USART0_ICDIFF (*(__IO uint32_t*)0x40024088U)
 #define REG_USART0_WPMR (*(__IO uint32_t*)0x400240E4U)
 #define REG_USART0_WPSR (*(__I uint32_t*)0x400240E8U)
-# 384 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart1.h"
+# 384 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart1.h"
 #define _SAMV71_USART1_INSTANCE_ 
-# 64 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart1.h"
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart1.h"
 #define REG_USART1_CR (*(__O uint32_t*)0x40028000U)
 #define REG_USART1_MR (*(__IO uint32_t*)0x40028004U)
 #define REG_USART1_IER (*(__O uint32_t*)0x40028008U)
@@ -14623,11 +14623,11 @@ typedef struct {
 #define REG_USART1_ICDIFF (*(__IO uint32_t*)0x40028088U)
 #define REG_USART1_WPMR (*(__IO uint32_t*)0x400280E4U)
 #define REG_USART1_WPSR (*(__I uint32_t*)0x400280E8U)
-# 385 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart2.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart2.h"
+# 385 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart2.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart2.h"
 #define _SAMV71_USART2_INSTANCE_ 
-# 64 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart2.h"
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usart2.h"
 #define REG_USART2_CR (*(__O uint32_t*)0x4002C000U)
 #define REG_USART2_MR (*(__IO uint32_t*)0x4002C004U)
 #define REG_USART2_IER (*(__O uint32_t*)0x4002C008U)
@@ -14656,11 +14656,11 @@ typedef struct {
 #define REG_USART2_ICDIFF (*(__IO uint32_t*)0x4002C088U)
 #define REG_USART2_WPMR (*(__IO uint32_t*)0x4002C0E4U)
 #define REG_USART2_WPSR (*(__I uint32_t*)0x4002C0E8U)
-# 386 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan0.h"
+# 386 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan0.h"
 #define _SAMV71_MCAN0_INSTANCE_ 
-# 80 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan0.h"
+# 80 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan0.h"
 #define REG_MCAN0_CUST (*(__IO uint32_t*)0x40030008U)
 #define REG_MCAN0_FBTP (*(__IO uint32_t*)0x4003000CU)
 #define REG_MCAN0_TEST (*(__IO uint32_t*)0x40030010U)
@@ -14705,11 +14705,11 @@ typedef struct {
 #define REG_MCAN0_TXEFC (*(__IO uint32_t*)0x400300F0U)
 #define REG_MCAN0_TXEFS (*(__I uint32_t*)0x400300F4U)
 #define REG_MCAN0_TXEFA (*(__IO uint32_t*)0x400300F8U)
-# 387 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan1.h"
+# 387 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan1.h"
 #define _SAMV71_MCAN1_INSTANCE_ 
-# 80 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan1.h"
+# 80 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mcan1.h"
 #define REG_MCAN1_CUST (*(__IO uint32_t*)0x40034008U)
 #define REG_MCAN1_FBTP (*(__IO uint32_t*)0x4003400CU)
 #define REG_MCAN1_TEST (*(__IO uint32_t*)0x40034010U)
@@ -14754,11 +14754,11 @@ typedef struct {
 #define REG_MCAN1_TXEFC (*(__IO uint32_t*)0x400340F0U)
 #define REG_MCAN1_TXEFS (*(__I uint32_t*)0x400340F4U)
 #define REG_MCAN1_TXEFA (*(__IO uint32_t*)0x400340F8U)
-# 388 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usbhs.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usbhs.h"
+# 388 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usbhs.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usbhs.h"
 #define _SAMV71_USBHS_INSTANCE_ 
-# 137 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usbhs.h"
+# 137 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_usbhs.h"
 #define REG_USBHS_DEVCTRL (*(__IO uint32_t*)0x40038000U)
 #define REG_USBHS_DEVISR (*(__I uint32_t*)0x40038004U)
 #define REG_USBHS_DEVICR (*(__O uint32_t*)0x40038008U)
@@ -14860,11 +14860,11 @@ typedef struct {
 #define REG_USBHS_TSTA2 (*(__IO uint32_t*)0x40038814U)
 #define REG_USBHS_VERSION (*(__I uint32_t*)0x40038818U)
 #define REG_USBHS_FSM (*(__I uint32_t*)0x4003882CU)
-# 389 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec0.h"
+# 389 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec0.h"
 #define _SAMV71_AFEC0_INSTANCE_ 
-# 65 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec0.h"
+# 65 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec0.h"
 #define REG_AFEC0_CR (*(__O uint32_t*)0x4003C000U)
 #define REG_AFEC0_MR (*(__IO uint32_t*)0x4003C004U)
 #define REG_AFEC0_EMR (*(__IO uint32_t*)0x4003C008U)
@@ -14894,11 +14894,11 @@ typedef struct {
 #define REG_AFEC0_CECR (*(__IO uint32_t*)0x4003C0D8U)
 #define REG_AFEC0_WPMR (*(__IO uint32_t*)0x4003C0E4U)
 #define REG_AFEC0_WPSR (*(__I uint32_t*)0x4003C0E8U)
-# 390 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_dacc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_dacc.h"
+# 390 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_dacc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_dacc.h"
 #define _SAMV71_DACC_INSTANCE_ 
-# 50 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_dacc.h"
+# 50 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_dacc.h"
 #define REG_DACC_CR (*(__O uint32_t*)0x40040000U)
 #define REG_DACC_MR (*(__IO uint32_t*)0x40040004U)
 #define REG_DACC_TRIGR (*(__IO uint32_t*)0x40040008U)
@@ -14913,11 +14913,11 @@ typedef struct {
 #define REG_DACC_ACR (*(__IO uint32_t*)0x40040094U)
 #define REG_DACC_WPMR (*(__IO uint32_t*)0x400400E4U)
 #define REG_DACC_WPSR (*(__I uint32_t*)0x400400E8U)
-# 391 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_acc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_acc.h"
+# 391 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_acc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_acc.h"
 #define _SAMV71_ACC_INSTANCE_ 
-# 45 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_acc.h"
+# 45 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_acc.h"
 #define REG_ACC_CR (*(__O uint32_t*)0x40044000U)
 #define REG_ACC_MR (*(__IO uint32_t*)0x40044004U)
 #define REG_ACC_IER (*(__O uint32_t*)0x40044024U)
@@ -14927,11 +14927,11 @@ typedef struct {
 #define REG_ACC_ACR (*(__IO uint32_t*)0x40044094U)
 #define REG_ACC_WPMR (*(__IO uint32_t*)0x400440E4U)
 #define REG_ACC_WPSR (*(__I uint32_t*)0x400440E8U)
-# 392 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_icm.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_icm.h"
+# 392 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_icm.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_icm.h"
 #define _SAMV71_ICM_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_icm.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_icm.h"
 #define REG_ICM_CFG (*(__IO uint32_t*)0x40048000U)
 #define REG_ICM_CTRL (*(__O uint32_t*)0x40048004U)
 #define REG_ICM_SR (*(__O uint32_t*)0x40048008U)
@@ -14943,11 +14943,11 @@ typedef struct {
 #define REG_ICM_DSCR (*(__IO uint32_t*)0x40048030U)
 #define REG_ICM_HASH (*(__IO uint32_t*)0x40048034U)
 #define REG_ICM_UIHVAL (*(__O uint32_t*)0x40048038U)
-# 393 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_isi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_isi.h"
+# 393 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_isi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_isi.h"
 #define _SAMV71_ISI_INSTANCE_ 
-# 61 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_isi.h"
+# 61 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_isi.h"
 #define REG_ISI_CFG1 (*(__IO uint32_t*)0x4004C000U)
 #define REG_ISI_CFG2 (*(__IO uint32_t*)0x4004C004U)
 #define REG_ISI_PSIZE (*(__IO uint32_t*)0x4004C008U)
@@ -14973,11 +14973,11 @@ typedef struct {
 #define REG_ISI_DMA_C_DSCR (*(__IO uint32_t*)0x4004C058U)
 #define REG_ISI_WPMR (*(__IO uint32_t*)0x4004C0E4U)
 #define REG_ISI_WPSR (*(__I uint32_t*)0x4004C0E8U)
-# 394 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gmac.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gmac.h"
+# 394 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gmac.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gmac.h"
 #define _SAMV71_GMAC_INSTANCE_ 
-# 202 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gmac.h"
+# 202 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gmac.h"
 #define REG_GMAC_NCR (*(__IO uint32_t*)0x40050000U)
 #define REG_GMAC_NCFGR (*(__IO uint32_t*)0x40050004U)
 #define REG_GMAC_NSR (*(__I uint32_t*)0x40050008U)
@@ -15144,11 +15144,11 @@ typedef struct {
 #define REG_GMAC_ST2CW122 (*(__IO uint32_t*)0x400507B4U)
 #define REG_GMAC_ST2CW023 (*(__IO uint32_t*)0x400507B8U)
 #define REG_GMAC_ST2CW123 (*(__IO uint32_t*)0x400507BCU)
-# 395 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc3.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc3.h"
+# 395 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc3.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc3.h"
 #define _SAMV71_TC3_INSTANCE_ 
-# 83 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc3.h"
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_tc3.h"
 #define REG_TC3_CCR0 (*(__O uint32_t*)0x40054000U)
 #define REG_TC3_CMR0 (*(__IO uint32_t*)0x40054004U)
 #define REG_TC3_SMMR0 (*(__IO uint32_t*)0x40054008U)
@@ -15196,11 +15196,11 @@ typedef struct {
 #define REG_TC3_QISR (*(__I uint32_t*)0x400540D4U)
 #define REG_TC3_FMR (*(__IO uint32_t*)0x400540D8U)
 #define REG_TC3_WPMR (*(__IO uint32_t*)0x400540E4U)
-# 396 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi1.h"
+# 396 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi1.h"
 #define _SAMV71_SPI1_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi1.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_spi1.h"
 #define REG_SPI1_CR (*(__O uint32_t*)0x40058000U)
 #define REG_SPI1_MR (*(__IO uint32_t*)0x40058004U)
 #define REG_SPI1_RDR (*(__I uint32_t*)0x40058008U)
@@ -15212,11 +15212,11 @@ typedef struct {
 #define REG_SPI1_CSR (*(__IO uint32_t*)0x40058030U)
 #define REG_SPI1_WPMR (*(__IO uint32_t*)0x400580E4U)
 #define REG_SPI1_WPSR (*(__I uint32_t*)0x400580E8U)
-# 397 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm1.h"
+# 397 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm1.h"
 #define _SAMV71_PWM1_INSTANCE_ 
-# 147 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm1.h"
+# 147 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pwm1.h"
 #define REG_PWM1_CLK (*(__IO uint32_t*)0x4005C000U)
 #define REG_PWM1_ENA (*(__O uint32_t*)0x4005C004U)
 #define REG_PWM1_DIS (*(__O uint32_t*)0x4005C008U)
@@ -15328,11 +15328,11 @@ typedef struct {
 #define REG_PWM1_LEBR3 (*(__IO uint32_t*)0x4005C470U)
 #define REG_PWM1_ETRG4 (*(__IO uint32_t*)0x4005C48CU)
 #define REG_PWM1_LEBR4 (*(__IO uint32_t*)0x4005C490U)
-# 398 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs2.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs2.h"
+# 398 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs2.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs2.h"
 #define _SAMV71_TWIHS2_INSTANCE_ 
-# 52 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs2.h"
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_twihs2.h"
 #define REG_TWIHS2_CR (*(__O uint32_t*)0x40060000U)
 #define REG_TWIHS2_MMR (*(__IO uint32_t*)0x40060004U)
 #define REG_TWIHS2_SMR (*(__IO uint32_t*)0x40060008U)
@@ -15349,11 +15349,11 @@ typedef struct {
 #define REG_TWIHS2_SWMR (*(__IO uint32_t*)0x4006004CU)
 #define REG_TWIHS2_WPMR (*(__IO uint32_t*)0x400600E4U)
 #define REG_TWIHS2_WPSR (*(__I uint32_t*)0x400600E8U)
-# 399 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec1.h"
+# 399 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec1.h"
 #define _SAMV71_AFEC1_INSTANCE_ 
-# 65 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec1.h"
+# 65 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_afec1.h"
 #define REG_AFEC1_CR (*(__O uint32_t*)0x40064000U)
 #define REG_AFEC1_MR (*(__IO uint32_t*)0x40064004U)
 #define REG_AFEC1_EMR (*(__IO uint32_t*)0x40064008U)
@@ -15383,11 +15383,11 @@ typedef struct {
 #define REG_AFEC1_CECR (*(__IO uint32_t*)0x400640D8U)
 #define REG_AFEC1_WPMR (*(__IO uint32_t*)0x400640E4U)
 #define REG_AFEC1_WPSR (*(__I uint32_t*)0x400640E8U)
-# 400 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mlb.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mlb.h"
+# 400 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mlb.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mlb.h"
 #define _SAMV71_MLB_INSTANCE_ 
-# 54 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mlb.h"
+# 54 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_mlb.h"
 #define REG_MLB_MLBC0 (*(__IO uint32_t*)0x40068000U)
 #define REG_MLB_MS0 (*(__IO uint32_t*)0x4006800CU)
 #define REG_MLB_MS1 (*(__IO uint32_t*)0x40068014U)
@@ -15406,11 +15406,11 @@ typedef struct {
 #define REG_MLB_ACTL (*(__IO uint32_t*)0x400683C0U)
 #define REG_MLB_ACSR (*(__IO uint32_t*)0x400683D0U)
 #define REG_MLB_ACMR (*(__IO uint32_t*)0x400683D8U)
-# 401 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_aes.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_aes.h"
+# 401 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_aes.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_aes.h"
 #define _SAMV71_AES_INSTANCE_ 
-# 52 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_aes.h"
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_aes.h"
 #define REG_AES_CR (*(__O uint32_t*)0x4006C000U)
 #define REG_AES_MR (*(__IO uint32_t*)0x4006C004U)
 #define REG_AES_IER (*(__O uint32_t*)0x4006C010U)
@@ -15427,22 +15427,22 @@ typedef struct {
 #define REG_AES_TAGR (*(__I uint32_t*)0x4006C088U)
 #define REG_AES_CTRR (*(__I uint32_t*)0x4006C098U)
 #define REG_AES_GCMHR (*(__IO uint32_t*)0x4006C09CU)
-# 402 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_trng.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_trng.h"
+# 402 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_trng.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_trng.h"
 #define _SAMV71_TRNG_INSTANCE_ 
-# 42 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_trng.h"
+# 42 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_trng.h"
 #define REG_TRNG_CR (*(__O uint32_t*)0x40070000U)
 #define REG_TRNG_IER (*(__O uint32_t*)0x40070010U)
 #define REG_TRNG_IDR (*(__O uint32_t*)0x40070014U)
 #define REG_TRNG_IMR (*(__I uint32_t*)0x40070018U)
 #define REG_TRNG_ISR (*(__I uint32_t*)0x4007001CU)
 #define REG_TRNG_ODATA (*(__I uint32_t*)0x40070050U)
-# 403 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_xdmac.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_xdmac.h"
+# 403 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_xdmac.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_xdmac.h"
 #define _SAMV71_XDMAC_INSTANCE_ 
-# 389 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_xdmac.h"
+# 389 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_xdmac.h"
 #define REG_XDMAC_GTYPE (*(__IO uint32_t*)0x40078000U)
 #define REG_XDMAC_GCFG (*(__I uint32_t*)0x40078004U)
 #define REG_XDMAC_GWAC (*(__IO uint32_t*)0x40078008U)
@@ -15796,11 +15796,11 @@ typedef struct {
 #define REG_XDMAC_CDS_MSP23 (*(__IO uint32_t*)0x4007863CU)
 #define REG_XDMAC_CSUS23 (*(__IO uint32_t*)0x40078640U)
 #define REG_XDMAC_CDUS23 (*(__IO uint32_t*)0x40078644U)
-# 404 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_qspi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_qspi.h"
+# 404 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_qspi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_qspi.h"
 #define _SAMV71_QSPI_INSTANCE_ 
-# 52 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_qspi.h"
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_qspi.h"
 #define REG_QSPI_CR (*(__O uint32_t*)0x4007C000U)
 #define REG_QSPI_MR (*(__IO uint32_t*)0x4007C004U)
 #define REG_QSPI_RDR (*(__I uint32_t*)0x4007C008U)
@@ -15817,11 +15817,11 @@ typedef struct {
 #define REG_QSPI_SKR (*(__O uint32_t*)0x4007C044U)
 #define REG_QSPI_WPMR (*(__IO uint32_t*)0x4007C0E4U)
 #define REG_QSPI_WPSR (*(__I uint32_t*)0x4007C0E8U)
-# 405 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_smc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_smc.h"
+# 405 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_smc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_smc.h"
 #define _SAMV71_SMC_INSTANCE_ 
-# 57 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_smc.h"
+# 57 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_smc.h"
 #define REG_SMC_SETUP0 (*(__IO uint32_t*)0x40080000U)
 #define REG_SMC_PULSE0 (*(__IO uint32_t*)0x40080004U)
 #define REG_SMC_CYCLE0 (*(__IO uint32_t*)0x40080008U)
@@ -15843,11 +15843,11 @@ typedef struct {
 #define REG_SMC_KEY2 (*(__O uint32_t*)0x40080088U)
 #define REG_SMC_WPMR (*(__IO uint32_t*)0x400800E4U)
 #define REG_SMC_WPSR (*(__I uint32_t*)0x400800E8U)
-# 406 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_sdramc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_sdramc.h"
+# 406 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_sdramc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_sdramc.h"
 #define _SAMV71_SDRAMC_INSTANCE_ 
-# 49 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_sdramc.h"
+# 49 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_sdramc.h"
 #define REG_SDRAMC_MR (*(__IO uint32_t*)0x40084000U)
 #define REG_SDRAMC_TR (*(__IO uint32_t*)0x40084004U)
 #define REG_SDRAMC_CR (*(__IO uint32_t*)0x40084008U)
@@ -15861,11 +15861,11 @@ typedef struct {
 #define REG_SDRAMC_OCMS (*(__IO uint32_t*)0x4008402CU)
 #define REG_SDRAMC_OCMS_KEY1 (*(__O uint32_t*)0x40084030U)
 #define REG_SDRAMC_OCMS_KEY2 (*(__O uint32_t*)0x40084034U)
-# 407 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_matrix.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_matrix.h"
+# 407 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_matrix.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_matrix.h"
 #define _SAMV71_MATRIX_INSTANCE_ 
-# 62 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_matrix.h"
+# 62 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_matrix.h"
 #define REG_MATRIX_MCFG (*(__IO uint32_t*)0x40088000U)
 #define REG_MATRIX_SCFG (*(__IO uint32_t*)0x40088040U)
 #define REG_MATRIX_PRAS0 (*(__IO uint32_t*)0x40088080U)
@@ -15892,9 +15892,9 @@ typedef struct {
 #define REG_CCFG_SMCNFCS (*(__IO uint32_t*)0x40088124U)
 #define REG_MATRIX_WPMR (*(__IO uint32_t*)0x400881E4U)
 #define REG_MATRIX_WPSR (*(__I uint32_t*)0x400881E8U)
-# 408 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_utmi.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_utmi.h"
+# 408 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_utmi.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_utmi.h"
 #define _SAMV71_UTMI_INSTANCE_ 
 
 
@@ -15904,11 +15904,11 @@ typedef struct {
 
 #define REG_UTMI_OHCIICR (*(__IO uint32_t*)0x400E0410U)
 #define REG_UTMI_CKTRIM (*(__IO uint32_t*)0x400E0430U)
-# 409 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pmc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pmc.h"
+# 409 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pmc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pmc.h"
 #define _SAMV71_PMC_INSTANCE_ 
-# 72 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pmc.h"
+# 72 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pmc.h"
 #define REG_PMC_SCER (*(__O uint32_t*)0x400E0600U)
 #define REG_PMC_SCDR (*(__O uint32_t*)0x400E0604U)
 #define REG_PMC_SCSR (*(__I uint32_t*)0x400E0608U)
@@ -15945,11 +15945,11 @@ typedef struct {
 #define REG_PMC_SLPWK_SR1 (*(__I uint32_t*)0x400E073CU)
 #define REG_PMC_SLPWK_ASR1 (*(__I uint32_t*)0x400E0740U)
 #define REG_PMC_SLPWK_AIPR (*(__I uint32_t*)0x400E0744U)
-# 410 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart0.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart0.h"
+# 410 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart0.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart0.h"
 #define _SAMV71_UART0_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart0.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart0.h"
 #define REG_UART0_CR (*(__O uint32_t*)0x400E0800U)
 #define REG_UART0_MR (*(__IO uint32_t*)0x400E0804U)
 #define REG_UART0_IER (*(__O uint32_t*)0x400E0808U)
@@ -15961,9 +15961,9 @@ typedef struct {
 #define REG_UART0_BRGR (*(__IO uint32_t*)0x400E0820U)
 #define REG_UART0_CMPR (*(__IO uint32_t*)0x400E0824U)
 #define REG_UART0_WPMR (*(__IO uint32_t*)0x400E08E4U)
-# 411 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_chipid.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_chipid.h"
+# 411 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_chipid.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_chipid.h"
 #define _SAMV71_CHIPID_INSTANCE_ 
 
 
@@ -15973,11 +15973,11 @@ typedef struct {
 
 #define REG_CHIPID_CIDR (*(__I uint32_t*)0x400E0940U)
 #define REG_CHIPID_EXID (*(__I uint32_t*)0x400E0944U)
-# 412 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart1.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart1.h"
+# 412 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart1.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart1.h"
 #define _SAMV71_UART1_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart1.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart1.h"
 #define REG_UART1_CR (*(__O uint32_t*)0x400E0A00U)
 #define REG_UART1_MR (*(__IO uint32_t*)0x400E0A04U)
 #define REG_UART1_IER (*(__O uint32_t*)0x400E0A08U)
@@ -15989,22 +15989,22 @@ typedef struct {
 #define REG_UART1_BRGR (*(__IO uint32_t*)0x400E0A20U)
 #define REG_UART1_CMPR (*(__IO uint32_t*)0x400E0A24U)
 #define REG_UART1_WPMR (*(__IO uint32_t*)0x400E0AE4U)
-# 413 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_efc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_efc.h"
+# 413 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_efc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_efc.h"
 #define _SAMV71_EFC_INSTANCE_ 
-# 42 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_efc.h"
+# 42 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_efc.h"
 #define REG_EFC_FMR (*(__IO uint32_t*)0x400E0C00U)
 #define REG_EFC_FCR (*(__O uint32_t*)0x400E0C04U)
 #define REG_EFC_FSR (*(__I uint32_t*)0x400E0C08U)
 #define REG_EFC_FRR (*(__I uint32_t*)0x400E0C0CU)
 #define REG_EFC_VERSION (*(__I uint32_t*)0x400E0C14U)
 #define REG_EFC_WPMR (*(__IO uint32_t*)0x400E0CE4U)
-# 414 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioa.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioa.h"
+# 414 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioa.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioa.h"
 #define _SAMV71_PIOA_INSTANCE_ 
-# 98 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioa.h"
+# 98 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioa.h"
 #define REG_PIOA_PER (*(__O uint32_t*)0x400E0E00U)
 #define REG_PIOA_PDR (*(__O uint32_t*)0x400E0E04U)
 #define REG_PIOA_PSR (*(__I uint32_t*)0x400E0E08U)
@@ -16067,11 +16067,11 @@ typedef struct {
 #define REG_PIOA_PCIMR (*(__I uint32_t*)0x400E0F5CU)
 #define REG_PIOA_PCISR (*(__I uint32_t*)0x400E0F60U)
 #define REG_PIOA_PCRHR (*(__I uint32_t*)0x400E0F64U)
-# 415 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piob.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piob.h"
+# 415 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piob.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piob.h"
 #define _SAMV71_PIOB_INSTANCE_ 
-# 98 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piob.h"
+# 98 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piob.h"
 #define REG_PIOB_PER (*(__O uint32_t*)0x400E1000U)
 #define REG_PIOB_PDR (*(__O uint32_t*)0x400E1004U)
 #define REG_PIOB_PSR (*(__I uint32_t*)0x400E1008U)
@@ -16134,11 +16134,11 @@ typedef struct {
 #define REG_PIOB_PCIMR (*(__I uint32_t*)0x400E115CU)
 #define REG_PIOB_PCISR (*(__I uint32_t*)0x400E1160U)
 #define REG_PIOB_PCRHR (*(__I uint32_t*)0x400E1164U)
-# 416 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioc.h"
+# 416 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioc.h"
 #define _SAMV71_PIOC_INSTANCE_ 
-# 98 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioc.h"
+# 98 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioc.h"
 #define REG_PIOC_PER (*(__O uint32_t*)0x400E1200U)
 #define REG_PIOC_PDR (*(__O uint32_t*)0x400E1204U)
 #define REG_PIOC_PSR (*(__I uint32_t*)0x400E1208U)
@@ -16201,11 +16201,11 @@ typedef struct {
 #define REG_PIOC_PCIMR (*(__I uint32_t*)0x400E135CU)
 #define REG_PIOC_PCISR (*(__I uint32_t*)0x400E1360U)
 #define REG_PIOC_PCRHR (*(__I uint32_t*)0x400E1364U)
-# 417 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piod.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piod.h"
+# 417 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piod.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piod.h"
 #define _SAMV71_PIOD_INSTANCE_ 
-# 98 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piod.h"
+# 98 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_piod.h"
 #define REG_PIOD_PER (*(__O uint32_t*)0x400E1400U)
 #define REG_PIOD_PDR (*(__O uint32_t*)0x400E1404U)
 #define REG_PIOD_PSR (*(__I uint32_t*)0x400E1408U)
@@ -16268,11 +16268,11 @@ typedef struct {
 #define REG_PIOD_PCIMR (*(__I uint32_t*)0x400E155CU)
 #define REG_PIOD_PCISR (*(__I uint32_t*)0x400E1560U)
 #define REG_PIOD_PCRHR (*(__I uint32_t*)0x400E1564U)
-# 418 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioe.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioe.h"
+# 418 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioe.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioe.h"
 #define _SAMV71_PIOE_INSTANCE_ 
-# 98 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioe.h"
+# 98 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_pioe.h"
 #define REG_PIOE_PER (*(__O uint32_t*)0x400E1600U)
 #define REG_PIOE_PDR (*(__O uint32_t*)0x400E1604U)
 #define REG_PIOE_PSR (*(__I uint32_t*)0x400E1608U)
@@ -16335,9 +16335,9 @@ typedef struct {
 #define REG_PIOE_PCIMR (*(__I uint32_t*)0x400E175CU)
 #define REG_PIOE_PCISR (*(__I uint32_t*)0x400E1760U)
 #define REG_PIOE_PCRHR (*(__I uint32_t*)0x400E1764U)
-# 419 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rstc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rstc.h"
+# 419 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rstc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rstc.h"
 #define _SAMV71_RSTC_INSTANCE_ 
 
 
@@ -16349,29 +16349,29 @@ typedef struct {
 #define REG_RSTC_CR (*(__O uint32_t*)0x400E1800U)
 #define REG_RSTC_SR (*(__I uint32_t*)0x400E1804U)
 #define REG_RSTC_MR (*(__IO uint32_t*)0x400E1808U)
-# 420 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_supc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_supc.h"
+# 420 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_supc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_supc.h"
 #define _SAMV71_SUPC_INSTANCE_ 
-# 42 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_supc.h"
+# 42 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_supc.h"
 #define REG_SUPC_CR (*(__O uint32_t*)0x400E1810U)
 #define REG_SUPC_SMMR (*(__IO uint32_t*)0x400E1814U)
 #define REG_SUPC_MR (*(__IO uint32_t*)0x400E1818U)
 #define REG_SUPC_WUMR (*(__IO uint32_t*)0x400E181CU)
 #define REG_SUPC_WUIR (*(__IO uint32_t*)0x400E1820U)
 #define REG_SUPC_SR (*(__I uint32_t*)0x400E1824U)
-# 421 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtt.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtt.h"
+# 421 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtt.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtt.h"
 #define _SAMV71_RTT_INSTANCE_ 
-# 40 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtt.h"
+# 40 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtt.h"
 #define REG_RTT_MR (*(__IO uint32_t*)0x400E1830U)
 #define REG_RTT_AR (*(__IO uint32_t*)0x400E1834U)
 #define REG_RTT_VR (*(__I uint32_t*)0x400E1838U)
 #define REG_RTT_SR (*(__I uint32_t*)0x400E183CU)
-# 422 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_wdt.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_wdt.h"
+# 422 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_wdt.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_wdt.h"
 #define _SAMV71_WDT_INSTANCE_ 
 
 
@@ -16383,11 +16383,11 @@ typedef struct {
 #define REG_WDT_CR (*(__O uint32_t*)0x400E1850U)
 #define REG_WDT_MR (*(__IO uint32_t*)0x400E1854U)
 #define REG_WDT_SR (*(__I uint32_t*)0x400E1858U)
-# 423 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtc.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtc.h"
+# 423 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtc.h"
 #define _SAMV71_RTC_INSTANCE_ 
-# 48 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtc.h"
+# 48 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rtc.h"
 #define REG_RTC_CR (*(__IO uint32_t*)0x400E1860U)
 #define REG_RTC_MR (*(__IO uint32_t*)0x400E1864U)
 #define REG_RTC_TIMR (*(__IO uint32_t*)0x400E1868U)
@@ -16400,9 +16400,9 @@ typedef struct {
 #define REG_RTC_IDR (*(__O uint32_t*)0x400E1884U)
 #define REG_RTC_IMR (*(__I uint32_t*)0x400E1888U)
 #define REG_RTC_VER (*(__I uint32_t*)0x400E188CU)
-# 424 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gpbr.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gpbr.h"
+# 424 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gpbr.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_gpbr.h"
 #define _SAMV71_GPBR_INSTANCE_ 
 
 
@@ -16410,9 +16410,9 @@ typedef struct {
 
 
 #define REG_GPBR_GPBR (*(__IO uint32_t*)0x400E1890U)
-# 425 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rswdt.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rswdt.h"
+# 425 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rswdt.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_rswdt.h"
 #define _SAMV71_RSWDT_INSTANCE_ 
 
 
@@ -16424,11 +16424,11 @@ typedef struct {
 #define REG_RSWDT_CR (*(__O uint32_t*)0x400E1900U)
 #define REG_RSWDT_MR (*(__IO uint32_t*)0x400E1904U)
 #define REG_RSWDT_SR (*(__I uint32_t*)0x400E1908U)
-# 426 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart2.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart2.h"
+# 426 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart2.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart2.h"
 #define _SAMV71_UART2_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart2.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart2.h"
 #define REG_UART2_CR (*(__O uint32_t*)0x400E1A00U)
 #define REG_UART2_MR (*(__IO uint32_t*)0x400E1A04U)
 #define REG_UART2_IER (*(__O uint32_t*)0x400E1A08U)
@@ -16440,11 +16440,11 @@ typedef struct {
 #define REG_UART2_BRGR (*(__IO uint32_t*)0x400E1A20U)
 #define REG_UART2_CMPR (*(__IO uint32_t*)0x400E1A24U)
 #define REG_UART2_WPMR (*(__IO uint32_t*)0x400E1AE4U)
-# 427 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart3.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart3.h"
+# 427 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart3.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart3.h"
 #define _SAMV71_UART3_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart3.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart3.h"
 #define REG_UART3_CR (*(__O uint32_t*)0x400E1C00U)
 #define REG_UART3_MR (*(__IO uint32_t*)0x400E1C04U)
 #define REG_UART3_IER (*(__O uint32_t*)0x400E1C08U)
@@ -16456,11 +16456,11 @@ typedef struct {
 #define REG_UART3_BRGR (*(__IO uint32_t*)0x400E1C20U)
 #define REG_UART3_CMPR (*(__IO uint32_t*)0x400E1C24U)
 #define REG_UART3_WPMR (*(__IO uint32_t*)0x400E1CE4U)
-# 428 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart4.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart4.h"
+# 428 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart4.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart4.h"
 #define _SAMV71_UART4_INSTANCE_ 
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart4.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/instance/instance_uart4.h"
 #define REG_UART4_CR (*(__O uint32_t*)0x400E1E00U)
 #define REG_UART4_MR (*(__IO uint32_t*)0x400E1E04U)
 #define REG_UART4_IER (*(__O uint32_t*)0x400E1E08U)
@@ -16472,8 +16472,8 @@ typedef struct {
 #define REG_UART4_BRGR (*(__IO uint32_t*)0x400E1E20U)
 #define REG_UART4_CMPR (*(__IO uint32_t*)0x400E1E24U)
 #define REG_UART4_WPMR (*(__IO uint32_t*)0x400E1EE4U)
-# 429 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
-# 437 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 429 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 437 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
 #define ID_SUPC ( 0)
 #define ID_RSTC ( 1)
 #define ID_RTC ( 2)
@@ -16535,7 +16535,7 @@ typedef struct {
 #define ID_RSWDT (63)
 
 #define ID_PERIPH_COUNT (64)
-# 563 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 563 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
 #define HSMCI ((Hsmci *)0x40000000U)
 #define SSC ((Ssc *)0x40004000U)
 #define SPI0 ((Spi *)0x40008000U)
@@ -16591,9 +16591,9 @@ typedef struct {
 #define UART2 ((Uart *)0x400E1A00U)
 #define UART3 ((Uart *)0x400E1C00U)
 #define UART4 ((Uart *)0x400E1E00U)
-# 627 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/pio/pio_samv71q21.h" 1
-# 31 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/pio/pio_samv71q21.h"
+# 627 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/pio/pio_samv71q21.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/pio/pio_samv71q21.h"
 #define _SAMV71Q21_PIO_ 
 
 #define PIO_PA0 (1u << 0)
@@ -17234,7 +17234,7 @@ typedef struct {
 #define PIO_PE3_IDX 131
 #define PIO_PE4_IDX 132
 #define PIO_PE5_IDX 133
-# 628 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
+# 628 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h" 2
 
 
 
@@ -17269,7 +17269,7 @@ typedef struct {
 #define CHIP_JTAGID (0x05B3D03FUL)
 #define CHIP_CIDR (0xA1220E00UL)
 #define CHIP_EXID (0x00000002UL)
-# 670 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
+# 670 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71q21.h"
 #define CHIP_FREQ_SLCK_RC_MIN (20000UL)
 #define CHIP_FREQ_SLCK_RC (32000UL)
 #define CHIP_FREQ_SLCK_RC_MAX (44000UL)
@@ -17287,8 +17287,8 @@ typedef struct {
 #define CHIP_FREQ_FWS_3 (104000000UL)
 #define CHIP_FREQ_FWS_4 (131000000UL)
 #define CHIP_FREQ_FWS_5 (150000000UL)
-# 51 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h" 2
-# 38 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
+# 51 "C:\\SAMV71x\\hal\\libchip_samv7/include/samv7/samv71.h" 2
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
 
 
 
@@ -17388,7 +17388,7 @@ typedef unsigned int wchar_t;
 
 
 #define offsetof(TYPE,MEMBER) __builtin_offsetof (TYPE, MEMBER)
-# 45 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
+# 45 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
 # 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdlib.h" 1 3
 
 
@@ -18566,7 +18566,7 @@ extern long double strtold (const char *, char **);
 
 
 
-# 46 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
+# 46 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
 # 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdbool.h" 1 3 4
 # 29 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdbool.h" 3 4
 #define _STDBOOL_H 
@@ -18578,24 +18578,24 @@ extern long double strtold (const char *, char **);
 #define false 0
 # 48 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdbool.h" 3 4
 #define __bool_true_false_are_defined 1
-# 47 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
-# 55 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h" 2
+# 55 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define WEAK __attribute__ ((weak))
-# 64 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define COMPILER_NAME "GCC"
-# 73 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 73 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define NO_INIT 
-# 83 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define memory_sync() __DSB();__ISB();
-# 92 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 92 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define memory_barrier() __DMB();
-# 106 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 106 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define TPASTE2(a,b) a ##b
 #define TPASTE3(a,b,c) a ##b ##c
-# 120 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 120 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define ATPASTE2(a,b) TPASTE2( a, b)
 #define ATPASTE3(a,b,c) TPASTE3( a, b, c)
-# 131 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 131 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define COMPILER_PRAGMA(arg) _Pragma(#arg)
 
 
@@ -18611,21 +18611,21 @@ extern long double strtold (const char *, char **);
 
 
 #define COMPILER_PACK_RESET() COMPILER_PRAGMA(pack())
-# 156 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 156 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define COMPILER_SECTION(a) __attribute__((__section__(a)))
-# 167 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 167 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define COMPILER_ALIGNED(a) __attribute__((__aligned__(a)))
-# 179 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 179 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define COMPILER_WORD_ALIGNED __attribute__((__aligned__(4)))
-# 205 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 205 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define Abs(a) (((a) < 0 ) ? -(a) : (a))
-# 216 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 216 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define Min(a,b) (((a) < (b)) ? (a) : (b))
-# 227 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 227 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define Max(a,b) (((a) > (b)) ? (a) : (b))
-# 240 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 240 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define min(a,b) Min(a, b)
-# 251 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 251 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define max(a,b) Max(a, b)
 
 
@@ -18640,9 +18640,9 @@ extern long double strtold (const char *, char **);
 
 
 #define UNUSED(v) (void)(v)
-# 287 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 287 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define irq_initialize_vectors() do { } while(0)
-# 308 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 308 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define irq_register_handler(int_num,int_prio) NVIC_ClearPendingIRQ( (IRQn_Type)int_num); NVIC_SetPriority( (IRQn_Type)int_num, int_prio); NVIC_EnableIRQ( (IRQn_Type)int_num);
 
 
@@ -18692,7 +18692,7 @@ static inline void cpu_irq_restore(irqflags_t flags)
  if (cpu_irq_is_enabled_flags(flags))
   do { __DMB(); __enable_irq(); } while (0);
 }
-# 366 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 366 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define Enable_global_interrupt() cpu_irq_enable()
 #define Disable_global_interrupt() cpu_irq_disable()
 #define Is_global_interrupt_enabled() cpu_irq_is_enabled()
@@ -18725,13 +18725,13 @@ static inline void cpu_irq_restore(irqflags_t flags)
 #define HIGH 1
 #define CLR 0
 #define SET 1
-# 406 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7/compiler.h"
+# 406 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h"
 #define ctz(u) ((u) & (1ul << 0) ? 0 : (u) & (1ul << 1) ? 1 : (u) & (1ul << 2) ? 2 : (u) & (1ul << 3) ? 3 : (u) & (1ul << 4) ? 4 : (u) & (1ul << 5) ? 5 : (u) & (1ul << 6) ? 6 : (u) & (1ul << 7) ? 7 : (u) & (1ul << 8) ? 8 : (u) & (1ul << 9) ? 9 : (u) & (1ul << 10) ? 10 : (u) & (1ul << 11) ? 11 : (u) & (1ul << 12) ? 12 : (u) & (1ul << 13) ? 13 : (u) & (1ul << 14) ? 14 : (u) & (1ul << 15) ? 15 : (u) & (1ul << 16) ? 16 : (u) & (1ul << 17) ? 17 : (u) & (1ul << 18) ? 18 : (u) & (1ul << 19) ? 19 : (u) & (1ul << 20) ? 20 : (u) & (1ul << 21) ? 21 : (u) & (1ul << 22) ? 22 : (u) & (1ul << 23) ? 23 : (u) & (1ul << 24) ? 24 : (u) & (1ul << 25) ? 25 : (u) & (1ul << 26) ? 26 : (u) & (1ul << 27) ? 27 : (u) & (1ul << 28) ? 28 : (u) & (1ul << 29) ? 29 : (u) & (1ul << 30) ? 30 : (u) & (1ul << 31) ? 31 : 32)
-# 15 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Commons/typedefs.h" 1
-# 12 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Commons/typedefs.h"
+# 15 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Commons/typedefs.h" 1
+# 12 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Commons/typedefs.h"
 #define TYPEDEFS_H 
-# 23 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Commons/typedefs.h"
+# 23 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Commons/typedefs.h"
 #define UINT8 __attribute__ ((aligned (1))) uint8_t
 #define UINT16 __attribute__ ((aligned (2))) uint16_t
 #define UINT32 __attribute__ ((aligned (4))) uint32_t
@@ -18750,12 +18750,12 @@ static inline void cpu_irq_restore(irqflags_t flags)
 #define VINT32 __attribute__ ((aligned (4))) volatile int32_t
 
 typedef void ( * tPtr_to_function )( void );
-# 16 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
+# 16 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
 
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h" 1
-# 13 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h"
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h" 1
+# 13 "C:\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h"
 #define __LED_CTRL_H 
-# 37 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h"
+# 37 "C:\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h"
 void vfnLedCtrl_Configure(void);
 
 
@@ -18766,7 +18766,25 @@ void vfnLedCtrl_ToggleLed0(void);
 
 
 void vfnLedCtrl_ToggleLed1(void);
-# 18 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
+# 18 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\event_driven.h" 1
+# 12 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\event_driven.h"
+#define __EVENT_DRIVEN 
+
+
+
+
+
+
+# 1 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 1
+# 20 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\event_driven.h" 2
+
+
+
+void EVT_vfnConfigureButtons(void);
+
+void EVT_vfnConfigureGPIO(void);
+# 19 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h" 2
 
 
 
@@ -18776,7 +18794,7 @@ extern tPtr_to_function ptrTask_2ms;
 extern tPtr_to_function ptrTask_10ms;
 extern tPtr_to_function ptrTask_50ms;
 extern tPtr_to_function ptrTask_100ms;
-# 40 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h"
+# 41 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.h"
 void TASKS_LIST_1MS(void);
 
 
@@ -18793,7 +18811,8031 @@ void TASKS_LIST_50MS(void);
 
 
 void TASKS_LIST_100MS(void);
-# 17 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c" 2
+# 17 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c" 2
+
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 1
+# 77 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define _BOARD_H_ 
+
+
+
+
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h"
+#define SAMS7_CHIP_H 
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/compiler.h" 1
+# 34 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+
+
+
+
+
+#define SHAREABLE 1
+#define NON_SHAREABLE 0
+
+
+
+
+#define STRONGLY_ORDERED_SHAREABLE_TYPE (( 0x00 << MPU_RASR_TEX_Pos ) | ( DISABLE << MPU_RASR_C_Pos ) | ( DISABLE << MPU_RASR_B_Pos ))
+#define SHAREABLE_DEVICE_TYPE (( 0x00 << MPU_RASR_TEX_Pos ) | ( DISABLE << MPU_RASR_C_Pos ) | ( ENABLE << MPU_RASR_B_Pos ))
+#define INNER_OUTER_NORMAL_WT_NWA_TYPE(x) (( 0x00 << MPU_RASR_TEX_Pos ) | ( ENABLE << MPU_RASR_C_Pos ) | ( DISABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define INNER_OUTER_NORMAL_WB_NWA_TYPE(x) (( 0x00 << MPU_RASR_TEX_Pos ) | ( ENABLE << MPU_RASR_C_Pos ) | ( ENABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define INNER_OUTER_NORMAL_NOCACHE_TYPE(x) (( 0x01 << MPU_RASR_TEX_Pos ) | ( DISABLE << MPU_RASR_C_Pos ) | ( DISABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define INNER_OUTER_NORMAL_WB_RWA_TYPE(x) (( 0x01 << MPU_RASR_TEX_Pos ) | ( ENABLE << MPU_RASR_C_Pos ) | ( ENABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define NON_SHAREABLE_DEVICE_TYPE (( 0x02 << MPU_RASR_TEX_Pos ) | ( DISABLE << MPU_RASR_C_Pos ) | ( DISABLE << MPU_RASR_B_Pos ))
+
+
+
+#define INNER_NORMAL_NOCACHE_TYPE(x) (( 0x04 << MPU_RASR_TEX_Pos ) | ( DISABLE << MPU_RASR_C_Pos ) | ( DISABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define INNER_NORMAL_WB_RWA_TYPE(x) (( 0x04 << MPU_RASR_TEX_Pos ) | ( DISABLE << MPU_RASR_C_Pos ) | ( ENABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define INNER_NORMAL_WT_NWA_TYPE(x) (( 0x04 << MPU_RASR_TEX_Pos ) | ( ENABLE << MPU_RASR_C_Pos ) | ( DISABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+#define INNER_NORMAL_WB_NWA_TYPE(x) (( 0x04 << MPU_RASR_TEX_Pos ) | ( ENABLE << MPU_RASR_C_Pos ) | ( ENABLE << MPU_RASR_B_Pos ) | ( x << MPU_RASR_S_Pos ))
+
+
+
+#define SCB_VTOR_TBLBASE_Pos 29
+#define SCB_VTOR_TBLBASE_Msk (1UL << SCB_VTOR_TBLBASE_Pos)
+
+
+
+
+
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/acc.h" 1
+# 48 "C:\\SAMV71x\\hal\\libchip_samv7/include/acc.h"
+#define _ACC_ 
+
+
+
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 1
+# 54 "C:\\SAMV71x\\hal\\libchip_samv7/include/acc.h" 2
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 1 3
+# 11 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+#undef assert
+
+
+
+
+#define assert(__e) ((__e) ? (void)0 : __assert_func (__FILE__, __LINE__, __ASSERT_FUNC, #__e))
+# 30 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+#define __ASSERT_FUNC __FUNCTION__
+# 39 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+void __assert (const char *, int, const char *) __attribute__ ((__noreturn__))
+                                 ;
+void __assert_func (const char *, int, const char *, const char *) __attribute__ ((__noreturn__))
+                                 ;
+# 57 "C:\\SAMV71x\\hal\\libchip_samv7/include/acc.h" 2
+
+
+
+
+#define ACC_SELPLUS_AD12B0 0
+#define ACC_SELPLUS_AD12B1 1
+#define ACC_SELPLUS_AD12B2 2
+#define ACC_SELPLUS_AD12B3 3
+#define ACC_SELPLUS_AD12B4 4
+#define ACC_SELPLUS_AD12B5 5
+#define ACC_SELPLUS_AD12B6 6
+#define ACC_SELPLUS_AD12B7 7
+#define ACC_SELMINUS_TS 0
+#define ACC_SELMINUS_ADVREF 1
+#define ACC_SELMINUS_DAC0 2
+#define ACC_SELMINUS_DAC1 3
+#define ACC_SELMINUS_AD12B0 4
+#define ACC_SELMINUS_AD12B1 5
+#define ACC_SELMINUS_AD12B2 6
+#define ACC_SELMINUS_AD12B3 7
+# 85 "C:\\SAMV71x\\hal\\libchip_samv7/include/acc.h"
+#define ACC_CfgModeReg(pAcc,mode) { (pAcc)->ACC_MR = (mode); }
+
+
+
+#define ACC_GetModeReg(pAcc) ((pAcc)->ACC_MR)
+
+#define ACC_StartConversion(pAcc) ((pAcc)->ACC_CR = ACC_CR_START)
+
+#define ACC_SoftReset(pAcc) ((pAcc)->ACC_CR = ACC_CR_SWRST)
+
+#define ACC_EnableChannel(pAcc,dwChannel) { assert( dwChannel < 16 ) ; (pAcc)->ACC_CHER = (1 << (dwChannel)); }
+
+
+
+
+#define ACC_DisableChannel(pAcc,dwChannel) { assert( dwChannel < 16 ) ; (pAcc)->ACC_CHDR = (1 << (dwChannel)); }
+
+
+
+
+#define ACC_EnableIt(pAcc,dwMode) { assert( ((dwMode)&0xFFF00000)== 0 ) ; (pAcc)->ACC_IER = (dwMode); }
+
+
+
+
+#define ACC_DisableIt(pAcc,dwMode) { assert( ((dwMode)&0xFFF00000)== 0 ) ; (pAcc)->ACC_IDR = (dwMode); }
+
+
+
+
+#define ACC_EnableDataReadyIt(pAcc) ((pAcc)->ACC_IER = AT91C_ACC_DRDY)
+
+#define ACC_GetStatus(pAcc) ((pAcc)->ACC_ISR)
+
+#define ACC_GetChannelStatus(pAcc) ((pAcc)->ACC_CHSR)
+
+#define ACC_GetInterruptMaskStatus(pAcc) ((pAcc)->ACC_IMR)
+
+#define ACC_GetLastConvertedData(pAcc) ((pAcc)->ACC_LCDR)
+
+#define ACC_CfgAnalogCtrlReg(pAcc,dwMode) { assert( ((dwMode) & 0xFFFCFF3C) == 0 ) ; (pAcc)->ACC_ACR = (dwMode); }
+
+
+
+
+#define ACC_CfgExtModeReg(pAcc,extmode) { assert( ((extmode) & 0xFF00FFFE) == 0 ) ; (pAcc)->ACC_EMR = (extmode); }
+
+
+
+
+#define ACC_GetAnalogCtrlReg(pAcc) ((pAcc)->ACC_ACR)
+
+
+
+
+extern void ACC_Configure( Acc *pAcc, uint8_t idAcc, uint8_t ucSelplus,
+  uint8_t ucSelminus, uint16_t wAc_en, uint16_t wEdge, uint16_t wInvert ) ;
+
+extern void ACC_SetComparisonPair( Acc *pAcc, uint8_t ucSelplus, uint8_t ucSelminus ) ;
+
+extern uint32_t ACC_GetComparisonResult( Acc* pAcc, uint32_t dwStatus ) ;
+# 71 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/aes.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/aes.h"
+#define _AES_ 
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/aes.h"
+#define AES_MR_CIPHER_ENCRYPT 1
+#define AES_MR_CIPHER_DECRYPT 0
+
+
+
+
+extern void AES_Start(void);
+extern void AES_SoftReset(void);
+extern void AES_Recount(void);
+extern void AES_Configure(uint32_t mode);
+extern void AES_EnableIt(uint32_t sources);
+extern void AES_DisableIt(uint32_t sources);
+extern uint32_t AES_GetStatus(void);
+extern void AES_WriteKey(const uint32_t *pKey, uint32_t keyLength);
+extern void AES_SetInput(uint32_t *data);
+extern void AES_GetOutput(uint32_t *data);
+extern void AES_SetVector(const uint32_t *pVector);
+extern void AES_SetAadLen(uint32_t len);
+extern void AES_SetDataLen(uint32_t len);
+extern void AES_SetGcmHash(uint32_t * hash);
+extern void AES_GetGcmTag(uint32_t * tag);
+extern void AES_GetGcmCounter(uint32_t * counter);
+extern void AES_GetGcmH(uint32_t *h);
+# 72 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/afec.h" 1
+# 50 "C:\\SAMV71x\\hal\\libchip_samv7/include/afec.h"
+#define _AFEC_ 
+
+
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 1 3
+# 11 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+#undef assert
+
+
+
+
+#define assert(__e) ((__e) ? (void)0 : __assert_func (__FILE__, __LINE__, __ASSERT_FUNC, #__e))
+# 39 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+void __assert (const char *, int, const char *) __attribute__ ((__noreturn__))
+                                 ;
+void __assert_func (const char *, int, const char *, const char *) __attribute__ ((__noreturn__))
+                                 ;
+# 56 "C:\\SAMV71x\\hal\\libchip_samv7/include/afec.h" 2
+
+
+
+
+
+
+
+#define AFEC_MR_SETTLING_Pos 20
+#define AFEC_MR_SETTLING_Msk (0x3u << AFEC_MR_SETTLING_Pos)
+
+#define AFEC_MR_SETTLING_AST3 (0x0u << 20)
+
+#define AFEC_MR_SETTLING_AST5 (0x1u << 20)
+
+#define AFEC_MR_SETTLING_AST9 (0x2u << 20)
+
+#define AFEC_MR_SETTLING_AST17 (0x3u << 20)
+
+
+
+#define AFEC_EMR_STM_Pos 25
+#define AFEC_EMR_STM_Msk (0x1u << AFEC_EMR_STM_Pos)
+
+#define AFEC_EMR_STM_MULTI_TRIG (0x0u << 25)
+
+
+#define AFEC_EMR_STM_SINGLE_TRIG (0x1u << 25)
+
+
+
+
+#define AFEC_EMR_TAG_Pos 24
+#define AFEC_EMR_TAG_Msk (0x1u << AFEC_EMR_TAG_Pos)
+
+#define AFEC_EMR_TAG_CHNB_ZERO (0x0u << 24)
+
+
+#define AFEC_EMR_TAG_APPENDS (0x1u << 24)
+
+
+
+
+#define AFEC_EMR_CMPALL_Pos 9
+#define AFEC_EMR_CMPALL_Msk (0x1u << AFEC_EMR_TAG_Pos)
+
+#define AFEC_EMR_CMPALL_ONE_CHANNEL_COMP (0x0u << 9)
+
+
+#define AFEC_EMR_CMPALL_ALL_CHANNELS_COMP (0x1u << 9)
+
+
+#define AFEC_ACR_PGA0_ON (0x1u << 2)
+#define AFEC_ACR_PGA1_ON (0x1u << 3)
+# 118 "C:\\SAMV71x\\hal\\libchip_samv7/include/afec.h"
+#define AFEC_GetModeReg(pAFEC) ((pAFEC)->AFEC_MR)
+#define AFEC_SetModeReg(pAFEC,mode) ((pAFEC)->AFEC_MR = mode)
+
+#define AFEC_GetExtModeReg(pAFEC) ((pAFEC)->AFEC_EMR)
+#define AFEC_SetExtModeReg(pAFEC,mode) ((pAFEC)->AFEC_EMR = mode)
+
+#define AFEC_StartConversion(pAFEC) ((pAFEC)->AFEC_CR = AFEC_CR_START)
+
+#define AFEC_EnableChannel(pAFEC,dwChannel) { (pAFEC)->AFEC_CHER = (1 << (dwChannel)); }
+
+
+
+#define AFEC_DisableChannel(pAFEC,dwChannel) { (pAFEC)->AFEC_CHDR = (1 << (dwChannel)); }
+
+
+
+#define AFEC_EnableIt(pAFEC,dwMode) { (pAFEC)->AFEC_IER = (dwMode); }
+
+
+
+#define AFEC_DisableIt(pAFEC,dwMode) { (pAFEC)->AFEC_IDR = (dwMode); }
+
+
+
+#define AFEC_SetChannelGain(pAFEC,dwMode) { (pAFEC)->AFEC_CGR = dwMode; }
+
+
+
+#define AFEC_EnableDataReadyIt(pAFEC) ((pAFEC)->AFEC_IER = AFEC_IER_DRDY)
+
+#define AFEC_GetStatus(pAFEC) ((pAFEC)->AFEC_ISR)
+
+#define AFEC_GetCompareMode(pAFEC) (((pAFEC)->AFEC_EMR)& (AFEC_EMR_CMPMODE_Msk))
+
+#define AFEC_GetChannelStatus(pAFEC) ((pAFEC)->AFEC_CHSR)
+
+#define AFEC_GetInterruptMaskStatus(pAFEC) ((pAFEC)->AFEC_IMR)
+
+#define AFEC_GetLastConvertedData(pAFEC) ((pAFEC)->AFEC_LCDR)
+
+
+
+
+extern void AFEC_Initialize( Afec* pAFEC, uint32_t dwId );
+extern uint32_t AFEC_SetClock( Afec* pAFEC, uint32_t dwPres, uint32_t dwMck );
+extern void AFEC_SetTiming( Afec* pAFEC, uint32_t dwStartup, uint32_t dwTracking,
+ uint32_t dwSettling );
+extern void AFEC_SetTrigger( Afec* pAFEC, uint32_t dwTrgSel );
+extern void AFEC_SetAnalogChange( Afec* pAFE, uint8_t bEnDis );
+extern void AFEC_SetSleepMode( Afec* pAFEC, uint8_t bEnDis );
+extern void AFEC_SetFastWakeup( Afec* pAFEC, uint8_t bEnDis );
+extern void AFEC_SetSequenceMode( Afec* pAFEC, uint8_t bEnDis );
+extern void AFEC_SetSequence( Afec* pAFEC, uint32_t dwSEQ1, uint32_t dwSEQ2 );
+extern void AFEC_SetSequenceByList( Afec* pAFEC, uint8_t ucChList[], uint8_t ucNumCh );
+extern void AFEC_SetTagEnable( Afec* pAFEC, uint8_t bEnDis );
+extern void AFEC_SetCompareChannel( Afec* pAFEC, uint32_t dwChannel ) ;
+extern void AFEC_SetCompareMode( Afec* pAFEC, uint32_t dwMode ) ;
+extern void AFEC_SetComparisonWindow( Afec* pAFEC, uint32_t dwHi_Lo ) ;
+extern uint8_t AFEC_CheckConfiguration( Afec* pAFEC, uint32_t dwMcK ) ;
+extern uint32_t AFEC_GetConvertedData( Afec* pAFEC, uint32_t dwChannel ) ;
+extern void AFEC_SetStartupTime( Afec* pAFEC, uint32_t dwUs );
+extern void AFEC_SetTrackingTime( Afec* pAFEC, uint32_t dwNs );
+extern void AFEC_SetAnalogOffset( Afec *pAFE, uint32_t dwChannel,uint32_t aoffset );
+extern void AFEC_SetAnalogControl( Afec *pAFE, uint32_t control);
+# 73 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/efc.h" 1
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/efc.h"
+#define _EEFC_ 
+# 65 "C:\\SAMV71x\\hal\\libchip_samv7/include/efc.h"
+#define IFLASH_SECTOR_SIZE 65536u
+
+
+
+#define EFC_FCMD_GETD 0x00
+#define EFC_FCMD_WP 0x01
+#define EFC_FCMD_WPL 0x02
+#define EFC_FCMD_EWP 0x03
+#define EFC_FCMD_EWPL 0x04
+#define EFC_FCMD_EA 0x05
+#define EFC_FCMD_EPA 0x07
+#define EFC_FCMD_SLB 0x08
+#define EFC_FCMD_CLB 0x09
+#define EFC_FCMD_GLB 0x0A
+#define EFC_FCMD_SFB 0x0B
+#define EFC_FCMD_CFB 0x0C
+#define EFC_FCMD_GFB 0x0D
+#define EFC_FCMD_STUI 0x0E
+#define EFC_FCMD_SPUI 0x0F
+#define EFC_FCMD_GCALB 0x10
+#define EFC_FCMD_ES 0x11
+#define EFC_FCMD_WUS 0x12
+#define EFC_FCMD_EUS 0x13
+#define EFC_FCMD_STUS 0x14
+#define EFC_FCMD_SPUS 0x15
+
+
+#define CHIP_FLASH_IAP_ADDRESS (0x00800008)
+# 102 "C:\\SAMV71x\\hal\\libchip_samv7/include/efc.h"
+extern void EFC_EnableFrdyIt( Efc* efc ) ;
+
+extern void EFC_DisableFrdyIt( Efc* efc ) ;
+
+extern void EFC_SetWaitState( Efc* efc, uint8_t cycles ) ;
+
+extern void EFC_TranslateAddress( Efc** pEfc, uint32_t dwAddress,
+  uint16_t *pwPage, uint16_t *pwOffset ) ;
+
+extern void EFC_ComputeAddress( Efc* efc, uint16_t wPage, uint16_t wOffset,
+  uint32_t *pdwAddress ) ;
+
+extern uint32_t EFC_PerformCommand( Efc* efc, uint32_t dwCommand,
+    uint32_t dwArgument, uint32_t dwUseIAP ) ;
+
+extern uint32_t EFC_GetStatus( Efc* efc ) ;
+
+extern uint32_t EFC_GetResult( Efc* efc ) ;
+
+extern void EFC_SetFlashAccessMode(Efc* efc, uint32_t dwMode) ;
+# 74 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h" 1
+# 68 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h"
+#define _PIO_ 
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h"
+#define PIO_PERIPH_A 0
+
+#define PIO_PERIPH_B 1
+
+#define PIO_PERIPH_C 2
+
+#define PIO_PERIPH_D 3
+
+#define PIO_INPUT 4
+
+#define PIO_OUTPUT_0 5
+
+#define PIO_OUTPUT_1 6
+
+
+#define PIO_DEFAULT (0 << 0)
+
+#define PIO_PULLUP (1 << 0)
+
+#define PIO_DEGLITCH (1 << 1)
+
+#define PIO_OPENDRAIN (1 << 2)
+
+
+#define PIO_DEBOUNCE (1 << 3)
+
+
+#define PIO_IT_AIME (1 << 4)
+
+
+#define PIO_IT_RE_OR_HL (1 << 5)
+
+#define PIO_IT_EDGE (1 << 6)
+
+
+#define PIO_IT_LOW_LEVEL (0 | 0 | PIO_IT_AIME)
+
+#define PIO_IT_HIGH_LEVEL (PIO_IT_RE_OR_HL | 0 | PIO_IT_AIME)
+
+#define PIO_IT_FALL_EDGE (0 | PIO_IT_EDGE | PIO_IT_AIME)
+
+#define PIO_IT_RISE_EDGE (PIO_IT_RE_OR_HL | PIO_IT_EDGE | PIO_IT_AIME)
+
+#define PIO_WPMR_WPEN_EN ( 0x01 << 0 )
+
+#define PIO_WPMR_WPEN_DIS ( 0x00 << 0 )
+
+#define PIO_WPMR_WPKEY_VALID ( 0x50494F << 8 )
+# 145 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h"
+#define PIO_LISTSIZE(pPins) (sizeof(pPins) / sizeof(Pin))
+# 172 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h"
+typedef struct _Pin
+{
+
+ uint32_t mask;
+
+ Pio *pio;
+
+ uint8_t id;
+
+ uint8_t type;
+
+ uint8_t attribute;
+} Pin ;
+# 194 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h"
+extern uint8_t PIO_Configure( const Pin *list, uint32_t size ) ;
+
+extern void PIO_Set( const Pin *pin ) ;
+
+extern void PIO_Clear( const Pin *pin ) ;
+
+extern uint8_t PIO_Get( const Pin *pin ) ;
+
+extern uint8_t PIO_GetOutputDataStatus( const Pin *pin ) ;
+
+extern void PIO_SetDebounceFilter( const Pin *pin, uint32_t cuttoff );
+
+extern void PIO_EnableWriteProtect( const Pin *pin );
+
+extern void PIO_DisableWriteProtect( const Pin *pin );
+
+extern void PIO_SetPinType( Pin * pin, uint8_t pinType);
+
+extern uint32_t PIO_GetWriteProtectViolationInfo( const Pin * pin );
+# 75 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_it.h" 1
+# 62 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_it.h"
+#define _PIO_IT_ 
+
+
+
+
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio.h" 1
+# 69 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_it.h" 2
+# 78 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_it.h"
+extern void PIO_InitializeInterrupts( uint32_t dwPriority ) ;
+
+extern void PIO_ConfigureIt( const Pin *pPin, void (*handler)( const Pin* ) ) ;
+
+extern void PIO_EnableIt( const Pin *pPin ) ;
+
+extern void PIO_DisableIt( const Pin *pPin ) ;
+
+extern void PIO_IT_InterruptHandler( void ) ;
+
+extern void PioInterruptHandler( uint32_t id, Pio *pPio ) ;
+
+extern void PIO_CaptureHandler( void ) ;
+# 76 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/rstc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/rstc.h"
+#define _RSTC_H 
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/rstc.h"
+void RSTC_ConfigureMode(uint32_t rmr);
+
+void RSTC_SetUserResetEnable(uint8_t enable);
+
+void RSTC_SetUserResetInterruptEnable(uint8_t enable);
+
+void RSTC_SetExtResetLength(uint8_t powl);
+
+void RSTC_ProcessorReset(void);
+
+void RSTC_ExtReset(void);
+
+uint8_t RSTC_GetNrstLevel(void);
+
+uint8_t RSTC_IsUserResetDetected(void);
+
+uint8_t RSTC_IsBusy(void);
+
+uint32_t RSTC_GetStatus(void);
+# 78 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/mpu.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/mpu.h"
+#define _MPU_H_ 
+
+
+
+
+#define ARM_MODE_USR 0x10
+
+#define PRIVILEGE_MODE 0
+#define USER_MODE 1
+
+#define MPU_DEFAULT_ITCM_REGION ( 1 )
+#define MPU_DEFAULT_IFLASH_REGION ( 2 )
+#define MPU_DEFAULT_DTCM_REGION ( 3 )
+#define MPU_DEFAULT_SRAM_REGION_1 ( 4 )
+#define MPU_DEFAULT_SRAM_REGION_2 ( 5 )
+#define MPU_PERIPHERALS_REGION ( 6 )
+#define MPU_EXT_EBI_REGION ( 7 )
+#define MPU_DEFAULT_SDRAM_REGION ( 8 )
+#define MPU_QSPIMEM_REGION ( 9 )
+#define MPU_USBHSRAM_REGION ( 10 )
+
+
+
+
+#define MPU_REGION_VALID ( 0x10 )
+#define MPU_REGION_ENABLE ( 0x01 )
+#define MPU_REGION_DISABLE ( 0x0 )
+
+#define MPU_ENABLE ( 0x1 << MPU_CTRL_ENABLE_Pos)
+#define MPU_HFNMIENA ( 0x1 << MPU_CTRL_HFNMIENA_Pos )
+#define MPU_PRIVDEFENA ( 0x1 << MPU_CTRL_PRIVDEFENA_Pos )
+
+
+#define MPU_REGION_BUFFERABLE ( 0x01 << MPU_RASR_B_Pos )
+#define MPU_REGION_CACHEABLE ( 0x01 << MPU_RASR_C_Pos )
+#define MPU_REGION_SHAREABLE ( 0x01 << MPU_RASR_S_Pos )
+
+#define MPU_REGION_EXECUTE_NEVER ( 0x01 << MPU_RASR_XN_Pos )
+
+#define MPU_AP_NO_ACCESS ( 0x00 << MPU_RASR_AP_Pos )
+#define MPU_AP_PRIVILEGED_READ_WRITE ( 0x01 << MPU_RASR_AP_Pos )
+#define MPU_AP_UNPRIVILEGED_READONLY ( 0x02 << MPU_RASR_AP_Pos )
+#define MPU_AP_FULL_ACCESS ( 0x03 << MPU_RASR_AP_Pos )
+#define MPU_AP_RES ( 0x04 << MPU_RASR_AP_Pos )
+#define MPU_AP_PRIVILEGED_READONLY ( 0x05 << MPU_RASR_AP_Pos )
+#define MPU_AP_READONLY ( 0x06 << MPU_RASR_AP_Pos )
+#define MPU_AP_READONLY2 ( 0x07 << MPU_RASR_AP_Pos )
+
+#define MPU_TEX_B000 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B001 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B010 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B011 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B100 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B101 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B110 ( 0x01 << MPU_RASR_TEX_Pos )
+#define MPU_TEX_B111 ( 0x01 << MPU_RASR_TEX_Pos )
+# 101 "C:\\SAMV71x\\hal\\libchip_samv7/include/mpu.h"
+#define ITCM_START_ADDRESS 0x00000000UL
+#define ITCM_END_ADDRESS 0x003FFFFFUL
+#define IFLASH_START_ADDRESS 0x00400000UL
+#define IFLASH_END_ADDRESS 0x005FFFFFUL
+
+
+#define IFLASH_PRIVILEGE_START_ADDRESS (IFLASH_START_ADDRESS)
+#define IFLASH_PRIVILEGE_END_ADDRESS (IFLASH_START_ADDRESS + 0xFFF)
+
+#define IFLASH_UNPRIVILEGE_START_ADDRESS (IFLASH_PRIVILEGE_END_ADDRESS + 1)
+#define IFLASH_UNPRIVILEGE_END_ADDRESS (IFLASH_END_ADDRESS)
+
+
+#define DTCM_START_ADDRESS 0x20000000UL
+#define DTCM_END_ADDRESS 0x203FFFFFUL
+
+
+
+
+#define SRAM_START_ADDRESS 0x20400000UL
+#define SRAM_END_ADDRESS 0x2045FFFFUL
+
+
+
+
+
+
+#define SRAM_FIRST_START_ADDRESS (SRAM_START_ADDRESS)
+#define SRAM_FIRST_END_ADDRESS (SRAM_FIRST_START_ADDRESS + 0x3FFFF)
+
+
+
+
+
+
+
+#define SRAM_SECOND_START_ADDRESS (SRAM_FIRST_END_ADDRESS + 1)
+#define SRAM_SECOND_END_ADDRESS (SRAM_END_ADDRESS)
+
+
+#define PERIPHERALS_START_ADDRESS 0x40000000UL
+#define PERIPHERALS_END_ADDRESS 0x5FFFFFFFUL
+
+
+#define EXT_EBI_START_ADDRESS 0x60000000UL
+#define EXT_EBI_END_ADDRESS 0x6FFFFFFFUL
+
+
+#define SDRAM_START_ADDRESS 0x70000000UL
+#define SDRAM_END_ADDRESS 0x7FFFFFFFUL
+
+
+#define QSPI_START_ADDRESS 0x80000000UL
+#define QSPI_END_ADDRESS 0x9FFFFFFFUL
+
+
+#define USBHSRAM_START_ADDRESS 0xA0100000UL
+#define USBHSRAM_END_ADDRESS 0xA01FFFFFUL
+
+
+
+
+void MPU_Enable( uint32_t dwMPUEnable );
+void MPU_SetRegion( uint32_t dwRegionBaseAddr, uint32_t dwRegionAttr );
+void MPU_SetRegionNum( uint32_t dwRegionNum );
+void MPU_DisableRegion( void );
+uint32_t MPU_CalMPURegionSize( uint32_t dwActualSizeInBytes );
+void MPU_UpdateRegions( uint32_t dwRegionNum, uint32_t dwRegionBaseAddr,
+      uint32_t dwRegionAttr);
+# 79 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmac.h" 1
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmac.h"
+#define _GMAC_H 
+# 102 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmac.h"
+#define NUM_GMAC_QUEUES 3
+
+
+#define GMAC_DUPLEX_HALF 0
+#define GMAC_DUPLEX_FULL 1
+
+
+#define GMAC_SPEED_10M 0
+#define GMAC_SPEED_100M 1
+#define GMAC_SPEED_1000M 2
+# 120 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmac.h"
+#define GMAC_ADDRESS_MASK ((unsigned int)0xFFFFFFFC)
+#define GMAC_LENGTH_FRAME ((unsigned int)0x3FFF)
+
+
+#define GMAC_RX_OWNERSHIP_BIT (1u << 0)
+#define GMAC_RX_WRAP_BIT (1u << 1)
+#define GMAC_RX_SOF_BIT (1u << 14)
+#define GMAC_RX_EOF_BIT (1u << 15)
+
+
+#define GMAC_TX_LAST_BUFFER_BIT (1u << 15)
+#define GMAC_TX_WRAP_BIT (1u << 30)
+#define GMAC_TX_USED_BIT (1u << 31)
+#define GMAC_TX_RLE_BIT (1u << 29)
+#define GMAC_TX_UND_BIT (1u << 28)
+#define GMAC_TX_ERR_BIT (1u << 27)
+#define GMAC_TX_ERR_BITS (GMAC_TX_RLE_BIT | GMAC_TX_UND_BIT | GMAC_TX_ERR_BIT)
+
+
+
+#define GMAC_INT_RX_BITS (GMAC_IER_RCOMP | GMAC_IER_RXUBR | GMAC_IER_ROVR)
+
+#define GMAC_INT_TX_ERR_BITS (GMAC_IER_TUR | GMAC_IER_RLEX | GMAC_IER_TFC | GMAC_IER_HRESP)
+
+#define GMAC_INT_TX_BITS (GMAC_INT_TX_ERR_BITS | GMAC_IER_TCOMP)
+# 153 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmac.h"
+typedef enum {
+ GMAC_QUE_0 = 0,
+ GMAC_QUE_1 = 1,
+ GMAC_QUE_2 = 2
+}gmacQueList_t;
+
+
+typedef struct _GmacRxDescriptor {
+ union _GmacRxAddr {
+  uint32_t val;
+  struct _GmacRxAddrBM {
+   uint32_t bOwnership:1,
+
+
+      bWrap:1,
+      addrDW:30;
+  } bm;
+ } addr;
+ union _GmacRxStatus {
+  uint32_t val;
+  struct _GmacRxStatusBM {
+   uint32_t len:12,
+      offset:2,
+
+
+      bSof:1,
+      bEof:1,
+      bCFI:1,
+      vlanPriority:3,
+      bPriorityDetected:1,
+      bVlanDetected:1,
+      bTypeIDMatch:1,
+      bAddr4Match:1,
+      bAddr3Match:1,
+      bAddr2Match:1,
+      bAddr1Match:1,
+      reserved:1,
+      bExtAddrMatch:1,
+      bUniHashMatch:1,
+      bMultiHashMatch:1,
+      bBroadcastDetected:1;
+
+  } bm;
+ } status;
+} sGmacRxDescriptor ;
+
+
+typedef struct _GmacTxDescriptor {
+ uint32_t addr;
+ union _GmacTxStatus {
+  uint32_t val;
+  struct _GmacTxStatusBM {
+   uint32_t len:11,
+      reserved:4,
+      bLastBuffer:1,
+      bNoCRC:1,
+      reserved1:10,
+      bExhausted:1,
+      bUnderrun:1,
+      bError:1,
+      bWrap:1,
+      bUsed:1;
+
+  } bm;
+ } status;
+} sGmacTxDescriptor;
+
+
+
+
+
+
+extern uint8_t GMAC_IsIdle(Gmac *pGmac);
+extern void GMAC_PHYMaintain(Gmac *pGmac,
+        uint8_t bPhyAddr,
+        uint8_t bRegAddr,
+        uint8_t bRW,
+        uint16_t wData);
+extern uint16_t GMAC_PHYData(Gmac *pGmac);
+extern void GMAC_ClearStatistics(Gmac *pGmac);
+extern void GMAC_IncreaseStatistics(Gmac *pGmac);
+extern void GMAC_StatisticsWriteEnable(Gmac *pGmac, uint8_t bEnaDis);
+extern uint8_t GMAC_SetMdcClock(Gmac *pGmac, uint32_t mck );
+extern void GMAC_EnableMdio(Gmac *pGmac );
+extern void GMAC_DisableMdio(Gmac *pGmac );
+extern void GMAC_EnableMII(Gmac *pGmac );
+extern void GMAC_EnableRMII(Gmac *pGmac );
+extern void GMAC_EnableGMII( Gmac *pGmac );
+extern void GMAC_SetLinkSpeed(Gmac *pGmac, uint8_t speed, uint8_t fullduplex);
+extern void GMAC_EnableIt(Gmac *pGmac, uint32_t dwSources, gmacQueList_t queueIdx);
+extern void GMAC_EnableAllQueueIt(Gmac *pGmac, uint32_t dwSources);
+extern void GMAC_DisableIt(Gmac *pGmac, uint32_t dwSources, gmacQueList_t queueIdx);
+extern void GMAC_DisableAllQueueIt(Gmac *pGmac, uint32_t dwSources);
+extern uint32_t GMAC_GetItStatus(Gmac *pGmac, gmacQueList_t queueIdx);
+extern uint32_t GMAC_GetItMask(Gmac *pGmac, gmacQueList_t queueIdx);
+extern uint32_t GMAC_GetTxStatus(Gmac *pGmac);
+extern void GMAC_ClearTxStatus(Gmac *pGmac, uint32_t dwStatus);
+extern uint32_t GMAC_GetRxStatus(Gmac *pGmac);
+extern void GMAC_ClearRxStatus(Gmac *pGmac, uint32_t dwStatus);
+extern void GMAC_ReceiveEnable(Gmac* pGmac, uint8_t bEnaDis);
+extern void GMAC_TransmitEnable(Gmac *pGmac, uint8_t bEnaDis);
+extern uint32_t GMAC_SetLocalLoopBack(Gmac *pGmac);
+extern void GMAC_SetRxQueue(Gmac *pGmac, uint32_t dwAddr, gmacQueList_t queueIdx);
+extern uint32_t GMAC_GetRxQueue(Gmac *pGmac, gmacQueList_t queueIdx);
+extern void GMAC_SetTxQueue(Gmac *pGmac, uint32_t dwAddr, gmacQueList_t queueIdx);
+extern uint32_t GMAC_GetTxQueue(Gmac *pGmac, gmacQueList_t queueIdx);
+extern void GMAC_NetworkControl(Gmac *pGmac, uint32_t bmNCR);
+extern uint32_t GMAC_GetNetworkControl(Gmac *pGmac);
+extern void GMAC_SetAddress(Gmac *pGmac, uint8_t bIndex, uint8_t *pMacAddr);
+extern void GMAC_SetAddress32(Gmac *pGmac, uint8_t bIndex, uint32_t dwMacT, uint32_t dwMacB);
+extern void GMAC_SetAddress64(Gmac *pGmac, uint8_t bIndex, uint64_t ddwMac);
+extern void GMAC_Configure(Gmac *pGmac, uint32_t dwCfg);
+extern void GMAC_SetDMAConfig(Gmac *pGmac, uint32_t dwDmaCfg, gmacQueList_t queueIdx);
+extern uint32_t GMAC_GetDMAConfig(Gmac *pGmac, gmacQueList_t queueIdx);
+extern uint32_t GMAC_GetConfigure(Gmac *pGmac);
+extern void GMAC_TransmissionStart(Gmac *pGmac);
+extern void GMAC_TransmissionHalt(Gmac *pGmac);
+extern void GMAC_EnableRGMII(Gmac *pGmac, uint32_t duplex, uint32_t speed);
+
+void GMAC_ClearScreener1Reg (Gmac* pGmac, gmacQueList_t queueIdx);
+
+void GMAC_WriteScreener1Reg(Gmac* pGmac, gmacQueList_t queueIdx, uint32_t regVal);
+
+void GMAC_ClearScreener2Reg (Gmac* pGmac, gmacQueList_t queueIdx);
+
+void GMAC_WriteScreener2Reg (Gmac* pGmac, gmacQueList_t queueIdx, uint32_t regVal);
+
+void GMAC_WriteEthTypeReg (Gmac* pGmac, gmacQueList_t queueIdx, uint16_t etherType);
+
+void GMAC_WriteCompareReg(Gmac* pGmac, gmacQueList_t queueIdx, uint32_t c0Reg, uint16_t c1Reg);
+
+void GMAC_EnableCbsQueA(Gmac *pGmac);
+
+void GMAC_DisableCbsQueA(Gmac *pGmac);
+
+void GMAC_EnableCbsQueB(Gmac *pGmac);
+
+void GMAC_DisableCbsQueB(Gmac *pGmac);
+
+void GMAC_ConfigIdleSlopeA(Gmac *pGmac, uint32_t idleSlopeA);
+
+void GMAC_ConfigIdleSlopeB(Gmac *pGmac, uint32_t idleSlopeB);
+
+void GMAC_SetTsuTmrIncReg( Gmac *pGmac, uint32_t nanoSec);
+
+uint16_t GMAC_GetPtpEvtMsgRxdMsbSec( Gmac *pGmac );
+
+uint32_t GMAC_GetPtpEvtMsgRxdLsbSec( Gmac *pGmac );
+
+uint32_t GMAC_GetPtpEvtMsgRxdNanoSec( Gmac *pGmac );
+
+void GMAC_SetTsuCompare(Gmac *pGmac, uint32_t seconds47, uint32_t seconds31, uint32_t nanosec );
+
+void GMAC_SetTsuCompareNanoSec(Gmac *pGmac, uint32_t nanosec);
+
+void GMAC_SetTsuCompareSec31(Gmac *pGmac, uint32_t seconds31);
+
+void GMAC_SetTsuCompareSec47(Gmac *pGmac, uint16_t seconds47);
+
+uint32_t GMAC_GetRxEvtFrameSec(Gmac *pGmac);
+
+uint32_t GMAC_GetRxEvtFrameNsec(Gmac *pGmac);
+
+uint32_t GMAC_GetRxPeerEvtFrameSec(Gmac *pGmac);
+
+uint32_t GMAC_GetRxPeerEvtFrameNsec(Gmac *pGmac);
+
+uint32_t GMAC_GetTxEvtFrameSec(Gmac *pGmac);
+
+uint32_t GMAC_GetTxEvtFrameNsec(Gmac *pGmac);
+
+uint32_t GMAC_GetTxPeerEvtFrameSec(Gmac *pGmac);
+
+uint32_t GMAC_GetTxPeerEvtFrameNsec(Gmac *pGmac);
+# 80 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmacd.h" 1
+# 61 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmacd.h"
+#define _GMACD_H_ 
+# 79 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmacd.h"
+#define GMACD_OK 0
+#define GMACD_TX_BUSY 1
+#define GMACD_RX_NULL 1
+
+#define GMACD_SIZE_TOO_SMALL 2
+
+#define GMACD_PARAM 3
+
+#define GMACD_NOT_INITIALIZED 4
+
+
+
+
+
+
+
+#define EFRS_BUFFER_LEN (1u)
+
+
+
+
+
+
+
+typedef enum ptpMsgType_t
+{
+ SYNC_MSG_TYPE = 0,
+ DELAY_REQ_MSG_TYPE = 1,
+ PDELAY_REQ_TYPE = 2,
+ PDELAY_RESP_TYPE = 3,
+ FOLLOW_UP_MSG_TYPE = 8,
+ DELAY_RESP_MSG_TYPE = 9
+}ptpMsgType;
+
+
+
+
+typedef void (*fGmacdTransferCallback)(uint32_t status);
+
+typedef void (*fGmacdWakeupCallback)(void);
+
+typedef void (*fGmacdTxPtpEvtCallBack) (ptpMsgType msg, uint32_t sec,
+     uint32_t nanosec, uint16_t seqId);
+
+
+
+
+typedef struct _GmacSG {
+ uint32_t size;
+ void *pBuffer;
+} sGmacSG;
+
+
+
+
+typedef struct _GmacSGList {
+ uint32_t len;
+ sGmacSG *sg;
+} sGmacSGList;
+
+
+
+
+typedef struct _GmacQueueDriver {
+ uint8_t *pTxBuffer;
+
+ uint8_t *pRxBuffer;
+
+
+ sGmacRxDescriptor *pRxD;
+
+ sGmacTxDescriptor *pTxD;
+
+
+ fGmacdTransferCallback fRxCb;
+
+ fGmacdWakeupCallback fWakupCb;
+
+ fGmacdTransferCallback *fTxCbList;
+
+
+  fGmacdTxPtpEvtCallBack fTxPtpEvtCb;
+
+
+ uint16_t wRxListSize;
+
+ uint16_t wRxI;
+
+
+ uint16_t wTxListSize;
+
+ uint16_t wTxHead;
+
+ uint16_t wTxTail;
+
+
+ uint8_t bWakeupThreshold;
+
+
+ uint16_t wTxBufferSize;
+ uint16_t wRxBufferSize;
+
+} sGmacQd;
+
+
+
+
+typedef struct _GmacDriver {
+
+
+ Gmac *pHw;
+
+ uint8_t bId;
+
+ sGmacQd queueList[3];
+} sGmacd;
+
+
+
+
+typedef struct _GmacInit {
+ uint32_t bIsGem:1;
+ uint32_t reserved:31;
+
+ uint8_t bDmaBurstLength;
+
+
+ uint8_t *pRxBuffer;
+
+
+ sGmacRxDescriptor *pRxD;
+
+
+ uint16_t wRxBufferSize;
+ uint16_t wRxSize;
+
+
+
+
+ uint8_t *pTxBuffer;
+
+
+ sGmacTxDescriptor *pTxD;
+
+ uint16_t wTxBufferSize;
+
+ uint16_t wTxSize;
+
+ fGmacdTransferCallback *pTxCb;
+} sGmacInit;
+# 238 "C:\\SAMV71x\\hal\\libchip_samv7/include/gmacd.h"
+extern void GMACD_Handler(sGmacd *pGmacd , gmacQueList_t queIdx);
+
+extern void GMACD_Init(sGmacd *pGmacd,
+        Gmac *pHw,
+        uint8_t bID,
+        uint8_t enableCAF,
+        uint8_t enableNBC );
+
+extern uint8_t GMACD_InitTransfer(sGmacd *pGmacd,
+           const sGmacInit *pInit, gmacQueList_t queIdx);
+
+extern void GMACD_Reset(sGmacd *pGmacd);
+
+extern uint8_t GMACD_SendSG(sGmacd *pGmacd,
+       const sGmacSGList *sgl,
+       fGmacdTransferCallback fTxCb,
+       gmacQueList_t queIdx);
+
+extern uint8_t GMACD_Send(sGmacd *pGmacd,
+       void *pBuffer,
+       uint32_t size,
+       fGmacdTransferCallback fTxCb,
+       gmacQueList_t queIdx );
+
+extern uint32_t GMACD_TxLoad(sGmacd *pGmacd, gmacQueList_t queIdx);
+
+extern uint8_t GMACD_Poll(sGmacd * pGmacd,
+        uint8_t *pFrame,
+        uint32_t frameSize,
+        uint32_t *pRcvSize,
+        gmacQueList_t queIdx);
+
+extern void GMACD_SetRxCallback(sGmacd * pGmacd, fGmacdTransferCallback
+  fRxCb, gmacQueList_t queIdx);
+
+extern uint8_t GMACD_SetTxWakeupCallback(sGmacd * pGmacd,
+           fGmacdWakeupCallback fWakeup,
+           uint8_t bThreshold,
+           gmacQueList_t queIdx);
+
+extern void GMACD_TxPtpEvtMsgCBRegister (sGmacd * pGmacd,
+            fGmacdTxPtpEvtCallBack pTxPtpEvtCb,
+            gmacQueList_t queIdx);
+# 81 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/video.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/video.h"
+#define _VIDEO_H 
+
+
+
+
+
+#define YUV 0
+
+#define RGB 1
+
+
+
+
+typedef struct _isi_Video
+{
+
+ uint32_t lcd_vsize;
+
+ uint32_t lcd_hsize;
+
+ uint32_t lcd_nbpp;
+
+ uint32_t lcd_fb_addr;
+
+ uint32_t Isi_fbd_base;
+
+ uint32_t Hblank;
+
+ uint32_t Vblank;
+
+ uint32_t codec_vsize;
+
+ uint32_t codec_hsize;
+
+ uint32_t codec_fb_addr;
+
+ uint32_t codec_fbd_base;
+
+ uint32_t IsiPrevBuffIndex;
+
+ uint8_t rgb_or_yuv;
+}isi_Video, *pIsi_Video;
+
+
+
+
+extern void VIDEO_Ycc2Rgb(uint8_t *ycc, uint16_t *rgb, uint32_t len);
+# 82 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/icm.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/icm.h"
+#define _ICM_ 
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/icm.h"
+#define ICM_RCFG_CDWBN (0x1u << 0)
+
+#define ICM_RCFG_WRAP (0x1u << 1)
+
+#define ICM_RCFG_EOM (0x1u << 2)
+
+#define ICM_RCFG_RHIEN (0x1u << 4)
+
+#define ICM_RCFG_DMIEN (0x1u << 5)
+
+#define ICM_RCFG_BEIEN (0x1u << 6)
+
+#define ICM_RCFG_WCIEN (0x1u << 7)
+
+#define ICM_RCFG_ECIEN (0x1u << 8)
+
+#define ICM_RCFG_SUIEN (0x1u << 9)
+
+#define ICM_RCFG_PROCDLY (0x1u << 10)
+
+#define ICM_RCFG_UALGO_Pos 12
+#define ICM_RCFG_UALGO_Msk (0x7u << ICM_RCFG_UALGO_Pos)
+
+#define ICM_RCFG_ALGO_SHA1 (0x0u << 12)
+
+#define ICM_RCFG_ALGO_SHA256 (0x1u << 12)
+
+#define ICM_RCFG_ALGO_SHA224 (0x4u << 12)
+
+#define ICM_RCFG_MRPROT_Pos 24
+#define ICM_RCFG_MRPROT_Msk (0x3fu << ICM_RCFG_MRPROT_Pos)
+
+#define ICM_RCFG_MRPROT(value) ((ICM_RCFG_MRPROT_Msk & ((value) << ICM_RCFG_MRPROT_Pos)))
+
+
+
+
+
+
+
+typedef struct _LinkedListDescriporIcmRegion
+{
+
+ uint32_t icm_raddr;
+
+ uint32_t icm_rcfg;
+
+ uint32_t icm_rctrl;
+
+ uint32_t icm_rnext;
+}LinkedListDescriporIcmRegion;
+
+
+
+
+extern void ICM_Enable(void);
+extern void ICM_Disable(void);
+extern void ICM_SoftReset(void);
+extern void ICM_ReComputeHash(uint8_t region);
+extern void ICM_EnableMonitor(uint8_t region);
+extern void ICM_DisableMonitor(uint8_t region);
+extern void ICM_Configure(uint32_t mode);
+extern void ICM_EnableIt(uint32_t sources);
+extern void ICM_DisableIt(uint32_t sources);
+extern uint32_t ICM_GetIntStatus(void);
+extern uint32_t ICM_GetStatus(void);
+extern uint32_t ICM_GetUStatus(void);
+extern void ICM_SetDescStartAddress(uint32_t addr);
+extern void ICM_SetHashStartAddress(uint32_t addr);
+extern void ICM_SetInitHashValue(uint32_t val);
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/isi.h" 1
+# 49 "C:\\SAMV71x\\hal\\libchip_samv7/include/isi.h"
+#define ISI_H 
+
+
+
+
+
+
+#define YUV_INPUT 0
+#define RGB_INPUT 1
+#define GRAYSCALE_INPUT 2
+
+
+
+
+
+
+typedef struct
+{
+
+ uint32_t CurrentLcdIndex;
+
+ volatile uint32_t DisplayCodec;
+
+ uint32_t nb_codec_ovf;
+
+ uint32_t nb_prev_ovf;
+}ISI_Descriptors;
+
+
+typedef struct
+{
+
+ uint32_t Current;
+
+ uint32_t Control;
+
+ uint32_t Next;
+}ISI_FrameBufferDescriptors;
+
+
+
+typedef struct
+{
+
+ uint8_t C0;
+
+ uint8_t C1;
+
+ uint8_t C2;
+
+ uint8_t C3;
+
+ uint8_t Croff;
+
+ uint8_t Cboff;
+
+ uint8_t Yoff;
+
+ uint16_t C4;
+}ISI_Y2R;
+
+
+typedef struct
+{
+
+ uint8_t C0;
+
+ uint8_t C1;
+
+ uint8_t C2;
+
+ uint8_t Roff;
+
+ uint8_t C3;
+
+ uint8_t C4;
+
+ uint8_t C5;
+
+ uint8_t Goff;
+
+ uint8_t C6;
+
+ uint8_t C7;
+
+ uint8_t C8;
+
+ uint8_t Boff;
+}ISI_R2Y;
+
+
+
+
+extern void ISI_Enable(void);
+
+extern void ISI_Disable(void);
+
+void ISI_DmaChannelEnable(uint32_t channel);
+
+void ISI_DmaChannelDisable(uint32_t channel);
+
+extern void ISI_EnableInterrupt(uint32_t flag);
+
+extern void ISI_DisableInterrupt(uint32_t flag);
+
+extern void ISI_CodecPathFull(void);
+
+extern void ISI_SetFrameRate(uint32_t frame);
+
+extern uint8_t ISI_BytesForOnePixel(uint8_t bmpRgb);
+
+extern void ISI_Reset(void);
+
+extern void ISI_Init(pIsi_Video pVideo);
+
+extern uint32_t ISI_StatusRegister(void);
+
+extern void ISI_SetBlank(
+ uint8_t hBlank,
+ uint8_t vBlank);
+
+extern void ISI_SetSensorSize(
+ uint32_t hSize,
+ uint32_t vSize);
+
+extern void ISI_RgbPixelMapping(uint32_t wRgbPixelMapping);
+
+extern void ISI_RgbSwapMode(uint32_t swapMode);
+
+extern void ISI_YCrCbFormat(uint32_t wYuvSwapMode);
+
+extern void ISI_setGrayScaleMode(uint32_t wPixelFormat);
+
+extern void ISI_setInputStream(uint32_t wStreamMode);
+
+extern void ISI_setPreviewSize(
+ uint32_t hSize,
+ uint32_t vSize);
+
+extern void ISI_calcScalerFactor( void );
+
+extern void ISI_setDmaInPreviewPath(
+ uint32_t baseFrameBufDesc,
+ uint32_t dmaCtrl,
+ uint32_t frameBufferStartAddr);
+
+extern void ISI_setDmaInCodecPath(
+ uint32_t baseFrameBufDesc,
+ uint32_t dmaCtrl,
+ uint32_t frameBufferStartAddr);
+
+extern void ISI_SetMatrix4Yuv2Rgb (ISI_Y2R* yuv2rgb);
+extern void ISI_SetMatrix4Rgb2Yuv (ISI_R2Y* rgb2yuv);
+# 84 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/exceptions.h" 1
+# 36 "C:\\SAMV71x\\hal\\libchip_samv7/include/exceptions.h"
+#define _EXCEPTIONS_ 
+
+
+
+
+
+
+typedef void( *IntFunc )( void ) ;
+
+
+
+
+
+
+extern void IrqHandlerNotUsed( void ) ;
+# 85 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_capture.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_capture.h"
+#define PIO_CAPTURE_H 
+# 41 "C:\\SAMV71x\\hal\\libchip_samv7/include/pio_capture.h"
+typedef struct _SpioCaptureInit {
+
+
+ uint8_t dsize;
+
+ uint16_t dPDCsize;
+
+ uint32_t *pData;
+
+ uint8_t alwaysSampling;
+
+ uint8_t halfSampling;
+
+ uint8_t modeFirstSample;
+
+ void (*CbkDataReady)( struct _SpioCaptureInit* );
+
+ void (*CbkOverrun)( struct _SpioCaptureInit* );
+
+ void (*CbkEndReception)( struct _SpioCaptureInit* );
+
+ void (*CbkBuffFull)( struct _SpioCaptureInit* );
+
+ void *pParam;
+
+} SpioCaptureInit ;
+
+
+
+
+
+extern void PIO_CaptureDisableIt( uint32_t itToDisable ) ;
+extern void PIO_CaptureEnableIt( uint32_t itToEnable ) ;
+extern void PIO_CaptureEnable( void ) ;
+extern void PIO_CaptureDisable( void ) ;
+extern void PIO_CaptureInit( SpioCaptureInit* pInit ) ;
+# 86 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtc.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtc.h"
+#define _RTC_ 
+# 51 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtc.h"
+#define RTC_HOUR_BIT_LEN_MASK 0x3F
+#define RTC_MIN_BIT_LEN_MASK 0x7F
+#define RTC_SEC_BIT_LEN_MASK 0x7F
+#define RTC_CENT_BIT_LEN_MASK 0x7F
+#define RTC_YEAR_BIT_LEN_MASK 0xFF
+#define RTC_MONTH_BIT_LEN_MASK 0x1F
+#define RTC_DATE_BIT_LEN_MASK 0x3F
+#define RTC_WEEK_BIT_LEN_MASK 0x07
+# 68 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtc.h"
+extern void RTC_SetHourMode( Rtc* pRtc, uint32_t dwMode ) ;
+
+extern uint32_t RTC_GetHourMode( Rtc* pRtc ) ;
+
+extern void RTC_EnableIt( Rtc* pRtc, uint32_t dwSources ) ;
+
+extern void RTC_DisableIt( Rtc* pRtc, uint32_t dwSources ) ;
+
+extern int RTC_SetTime( Rtc* pRtc, uint8_t ucHour, uint8_t ucMinute,
+  uint8_t ucSecond ) ;
+
+extern void RTC_GetTime( Rtc* pRtc, uint8_t *pucHour, uint8_t *pucMinute,
+  uint8_t *pucSecond ) ;
+
+extern int RTC_SetTimeAlarm( Rtc* pRtc, uint8_t *pucHour, uint8_t *pucMinute,
+  uint8_t *pucSecond ) ;
+
+extern void RTC_GetDate( Rtc* pRtc, uint16_t *pwYear, uint8_t *pucMonth,
+  uint8_t *pucDay, uint8_t *pucWeek ) ;
+
+extern int RTC_SetDate( Rtc* pRtc, uint16_t wYear, uint8_t ucMonth,
+  uint8_t ucDay, uint8_t ucWeek ) ;
+
+extern int RTC_SetDateAlarm( Rtc* pRtc, uint8_t *pucMonth, uint8_t *pucDay ) ;
+
+extern void RTC_ClearSCCR( Rtc* pRtc, uint32_t dwMask ) ;
+
+extern uint32_t RTC_GetSR( Rtc* pRtc, uint32_t dwMask ) ;
+# 87 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtt.h" 1
+# 49 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtt.h"
+#define _RTT_ 
+# 67 "C:\\SAMV71x\\hal\\libchip_samv7/include/rtt.h"
+extern void RTT_SetPrescaler( Rtt* pRtt, uint16_t wPrescaler ) ;
+
+extern uint32_t RTT_GetTime( Rtt* pRtt ) ;
+
+extern void RTT_EnableIT( Rtt* pRtt, uint32_t dwSources ) ;
+
+extern uint32_t RTT_GetStatus( Rtt *pRtt ) ;
+
+extern void RTT_SetAlarm( Rtt *pRtt, uint32_t dwTime ) ;
+# 88 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/tc.h" 1
+# 45 "C:\\SAMV71x\\hal\\libchip_samv7/include/tc.h"
+#define _TC_ 
+# 63 "C:\\SAMV71x\\hal\\libchip_samv7/include/tc.h"
+extern void TC_Configure( Tc *pTc, uint32_t dwChannel, uint32_t dwMode ) ;
+
+extern void TC_Start( Tc *pTc, uint32_t dwChannel ) ;
+
+extern void TC_Stop( Tc *pTc, uint32_t dwChannel ) ;
+
+extern uint32_t TC_FindMckDivisor( uint32_t dwFreq, uint32_t dwMCk,
+  uint32_t *dwDiv, uint32_t *dwTcClks, uint32_t dwBoardMCK ) ;
+# 89 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/timetick.h" 1
+# 52 "C:\\SAMV71x\\hal\\libchip_samv7/include/timetick.h"
+#define _TIMETICK_ 
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/include/timetick.h"
+typedef struct
+{
+ volatile uint32_t *pTimer1;
+ volatile uint32_t *pTimer2;
+ volatile uint32_t *pTimer3;
+ volatile uint32_t *pTimer4;
+}SyTickDelayCounter_t;
+
+
+
+
+typedef struct _TimeEvent
+{
+ uint32_t event;
+ uint32_t time_tick;
+ uint32_t time_start;
+ uint32_t occur;
+ struct _TimeEvent *pPreEvent;
+ struct _TimeEvent *pNextEvent;
+}TimeEvent;
+
+
+
+
+
+uint32_t TimeTick_Configure( void ) ;
+
+void TimeTick_Increment( uint32_t dwInc ) ;
+
+uint32_t GetDelayInTicks(uint32_t startTick,uint32_t endTick);
+
+uint32_t GetTicks(void);
+
+void Wait( volatile uint32_t dwMs ) ;
+
+void Sleep( volatile uint32_t dwMs ) ;
+
+extern void SetTimeEvent(TimeEvent* pEvent);
+# 90 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/twi.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/twi.h"
+#define _TWI_ 
+# 53 "C:\\SAMV71x\\hal\\libchip_samv7/include/twi.h"
+#define TWI_STATUS_TXRDY(status) ((status & TWIHS_SR_TXRDY) == TWIHS_SR_TXRDY)
+
+
+
+#define TWI_STATUS_RXRDY(status) ((status & TWIHS_SR_RXRDY) == TWIHS_SR_RXRDY)
+
+
+
+#define TWI_STATUS_TXCOMP(status) ((status & TWIHS_SR_TXCOMP) == TWIHS_SR_TXCOMP)
+# 71 "C:\\SAMV71x\\hal\\libchip_samv7/include/twi.h"
+extern void TWI_ConfigureMaster(Twihs *pTwi, uint32_t twck, uint32_t mck);
+
+extern void TWI_ConfigureSlave(Twihs *pTwi, uint8_t slaveAddress);
+
+extern void TWI_Stop(Twihs *pTwi);
+
+extern void TWI_StartRead(
+ Twihs *pTwi,
+ uint8_t address,
+ uint32_t iaddress,
+ uint8_t isize);
+
+extern uint8_t TWI_ReadByte(Twihs *pTwi);
+
+extern void TWI_WriteByte(Twihs *pTwi, uint8_t byte);
+
+extern void TWI_StartWrite(
+ Twihs *pTwi,
+ uint8_t address,
+ uint32_t iaddress,
+ uint8_t isize,
+ uint8_t byte);
+
+extern uint8_t TWI_ByteReceived(Twihs *pTwi);
+
+extern uint8_t TWI_ByteSent(Twihs *pTwi);
+
+extern uint8_t TWI_TransferComplete(Twihs *pTwi);
+
+extern void TWI_EnableIt(Twihs *pTwi, uint32_t sources);
+
+extern void TWI_DisableIt(Twihs *pTwi, uint32_t sources);
+
+extern uint32_t TWI_GetStatus(Twihs *pTwi);
+
+extern uint32_t TWI_GetMaskedStatus(Twihs *pTwi);
+
+extern void TWI_SendSTOPCondition(Twihs *pTwi);
+# 91 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/flashd.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/flashd.h"
+#define _FLASHD_ 
+
+
+
+
+
+
+
+#define GPNVBit_SecurityBit 0
+#define GPNVBit_BootMode 1
+#define GPNVBit_TCMBit1 6
+#define GPNVBit_TCMBit2 7
+
+
+
+
+
+extern void FLASHD_Initialize( uint32_t dwMCk, uint32_t dwUseIAP ) ;
+
+extern uint32_t FLASHD_Erase( uint32_t dwAddress ) ;
+
+extern uint32_t FLASHD_EraseSector( uint32_t dwAddress ) ;
+
+extern uint32_t FLASHD_ErasePages( uint32_t dwAddress, uint32_t dwPageNum ) ;
+
+extern uint32_t FLASHD_Write( uint32_t dwAddress, const void *pvBuffer,
+  uint32_t dwSize ) ;
+
+extern uint32_t FLASHD_Lock( uint32_t dwStart, uint32_t dwEnd,
+  uint32_t *pdwActualStart, uint32_t *pdwActualEnd ) ;
+
+extern uint32_t FLASHD_Unlock( uint32_t dwStart, uint32_t dwEnd,
+  uint32_t *pdwActualStart, uint32_t *pdwActualEnd ) ;
+
+extern uint32_t FLASHD_IsLocked( uint32_t dwStart, uint32_t dwEnd ) ;
+
+extern uint32_t FLASHD_SetGPNVM( uint8_t gpnvm ) ;
+
+extern uint32_t FLASHD_ClearGPNVM( uint8_t gpnvm ) ;
+
+extern uint32_t FLASHD_IsGPNVMSet( uint8_t gpnvm ) ;
+
+#define FLASHD_IsSecurityBitSet() FLASHD_IsGPNVMSet( 0 )
+
+#define FLASHD_SetSecurityBit() FLASHD_SetGPNVM( 0 )
+
+extern uint32_t FLASHD_ReadUniqueID( uint32_t* pdwUniqueID ) ;
+# 92 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/pmc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/pmc.h"
+#define _PMC_ 
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/pmc.h"
+#define FAST_RC_4MHZ CKGR_MOR_MOSCRCF_4MHz
+#define FAST_RC_8MHZ CKGR_MOR_MOSCRCF_8MHz
+#define FAST_RC_12MHZ CKGR_MOR_MOSCRCF_12MHz
+
+
+
+
+
+#define DEFAUTL_FAST_RC_COUNT 1
+
+#define DEFAUTL_MAIN_OSC_COUNT 8
+
+#define DEFAUTL_PLLA_COUNT 1
+
+#define DEFAUTL_UPLL_COUNT 3
+
+#define DEFAUTL_COUNT_NO_CHANGE 0xFFFF
+# 70 "C:\\SAMV71x\\hal\\libchip_samv7/include/pmc.h"
+extern void PMC_EnablePeripheral( uint32_t dwId ) ;
+extern void PMC_DisablePeripheral( uint32_t dwId ) ;
+
+extern void PMC_EnableAllPeripherals( void ) ;
+extern void PMC_DisableAllPeripherals( void ) ;
+
+extern uint32_t PMC_IsPeriphEnabled( uint32_t dwId ) ;
+
+extern void PMC_SelectExtOsc(void);
+extern void PMC_EnableExtOsc(void);
+extern void PMC_DisableExtOsc(void);
+extern void PMC_SelectExtBypassOsc(void);
+extern void PMC_EnableIntRC4_8_12MHz(uint32_t fastRcFreq);
+extern void PMC_DisableIntRC4_8_12MHz(void);
+extern void PMC_SetPllaClock(uint32_t mul, uint32_t div);
+extern void PMC_SetPllbClock(uint32_t mul, uint32_t div);
+extern void PMC_SetMckSelection(uint32_t clockSource, uint32_t prescaler);
+extern void PMC_DisableAllClocks(void);
+extern void PMC_ConfigureMckWithPlla(uint32_t mul, uint32_t div,
+  uint32_t prescaler);
+extern void PMC_ConfigureMckWithPllb(uint32_t mul, uint32_t div,
+  uint32_t prescaler);
+extern void PMC_EnableXT32KFME(void);
+extern void PMC_ConfigurePCK0(uint32_t MasterClk, uint32_t prescaler);
+extern void PMC_ConfigurePCK1(uint32_t MasterClk, uint32_t prescaler);
+extern void PMC_ConfigurePCK2(uint32_t MasterClk, uint32_t prescaler);
+# 93 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/pwmc.h" 1
+# 62 "C:\\SAMV71x\\hal\\libchip_samv7/include/pwmc.h"
+#define _PWMC_ 
+# 80 "C:\\SAMV71x\\hal\\libchip_samv7/include/pwmc.h"
+extern void PWMC_ConfigureChannel(
+ Pwm* pPwm,
+ uint8_t channel,
+ uint32_t prescaler,
+ uint32_t alignment,
+ uint32_t polarity);
+extern void PWMC_ConfigureChannelExt(
+ Pwm* pPwm,
+ uint8_t channel,
+ uint32_t prescaler,
+ uint32_t alignment,
+ uint32_t polarity,
+ uint32_t countEventSelect,
+ uint32_t DTEnable,
+ uint32_t DTHInverte,
+ uint32_t DTLInverte);
+extern void PWMC_ConfigureClocks(Pwm* pPwm, uint32_t clka, uint32_t clkb,
+ uint32_t mck);
+extern void PWMC_SetPeriod( Pwm* pPwm, uint8_t channel, uint16_t period);
+extern void PWMC_SetDutyCycle( Pwm* pPwm, uint8_t channel, uint16_t duty);
+extern void PWMC_SetDeadTime( Pwm* pPwm, uint8_t channel, uint16_t timeH,
+ uint16_t timeL);
+extern void PWMC_ConfigureSyncChannel( Pwm* pPwm,
+ uint32_t channels,
+ uint32_t updateMode,
+ uint32_t requestMode,
+ uint32_t requestComparisonSelect);
+extern void PWMC_SetSyncChannelUpdatePeriod( Pwm* pPwm, uint8_t period);
+extern void PWMC_SetSyncChannelUpdateUnlock( Pwm* pPwm );
+extern void PWMC_EnableChannel( Pwm* pPwm, uint8_t channel);
+extern void PWMC_DisableChannel( Pwm* pPwm, uint8_t channel);
+extern void PWMC_EnableChannelIt( Pwm* pPwm, uint8_t channel);
+extern void PWMC_DisableChannelIt( Pwm* pPwm, uint8_t channel);
+extern void PWMC_EnableIt( Pwm* pPwm, uint32_t sources1, uint32_t sources2);
+extern void PWMC_DisableIt( Pwm* pPwm, uint32_t sources1, uint32_t sources2);
+extern uint8_t PWMC_WriteBuffer(Pwm *pwmc,
+ void *buffer,
+ uint32_t length);
+extern void PWMC_SetOverrideValue( Pwm* pPwm, uint32_t value);
+extern void PWMC_EnableOverrideOutput( Pwm* pPwm, uint32_t value, uint32_t sync);
+extern void PWMC_OutputOverrideSelection( Pwm* pPwm, uint32_t value );
+extern void PWMC_DisableOverrideOutput( Pwm* pPwm, uint32_t value, uint32_t sync);
+extern void PWMC_SetFaultMode( Pwm* pPwm, uint32_t mode);
+extern void PWMC_FaultClear( Pwm* pPwm, uint32_t fault);
+extern void PWMC_SetFaultProtectionValue( Pwm* pPwm, uint32_t value);
+extern void PWMC_EnableFaultProtection( Pwm* pPwm, uint32_t value);
+extern void PWMC_ConfigureComparisonUnit( Pwm* pPwm, uint32_t x,
+ uint32_t value, uint32_t mode);
+extern void PWMC_ConfigureEventLineMode( Pwm* pPwm, uint32_t x, uint32_t mode);
+extern uint32_t PWMC_GetStatus2( Pwm* pPwm);
+# 94 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcan.h" 1
+# 45 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcan.h"
+#define _MCAN_ 
+# 63 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcan.h"
+typedef enum
+{
+ CAN_STD_ID = 0,
+ CAN_EXT_ID = 1
+} MCan_IdType;
+
+typedef enum
+{
+ CAN_DLC_0 = 0,
+ CAN_DLC_1 = 1,
+ CAN_DLC_2 = 2,
+ CAN_DLC_3 = 3,
+ CAN_DLC_4 = 4,
+ CAN_DLC_5 = 5,
+ CAN_DLC_6 = 6,
+ CAN_DLC_7 = 7,
+ CAN_DLC_8 = 8,
+ CAN_DLC_12 = 9,
+ CAN_DLC_16 = 10,
+ CAN_DLC_20 = 11,
+ CAN_DLC_24 = 12,
+ CAN_DLC_32 = 13,
+ CAN_DLC_48 = 14,
+ CAN_DLC_64 = 15
+} MCan_DlcType;
+
+typedef enum
+{
+ CAN_FIFO_0 = 0,
+ CAN_FIFO_1 = 1
+} MCan_FifoType;
+
+typedef enum
+{
+ CAN_INTR_LINE_0 = 0,
+ CAN_INTR_LINE_1 = 1
+} MCan_IntrLineType;
+
+typedef struct MailboxInfoTag
+{
+ uint32_t id;
+ uint32_t length;
+ uint32_t timestamp;
+} MailboxInfoType;
+
+
+typedef struct MailBox8Tag
+{
+ MailboxInfoType info;
+ uint8_t data[8];
+} Mailbox8Type;
+
+typedef struct MailBox12Tag
+{
+ MailboxInfoType info;
+ uint8_t data[12];
+} Mailbox12Type;
+
+typedef struct MailBox16Tag
+{
+ MailboxInfoType info;
+ uint8_t data[16];
+} Mailbox16Type;
+
+typedef struct MailBox20Tag
+{
+ MailboxInfoType info;
+ uint8_t data[20];
+} Mailbox20Type;
+
+typedef struct MailBox24Tag
+{
+ MailboxInfoType info;
+ uint8_t data[24];
+} Mailbox24Type;
+
+typedef struct MailBox32Tag
+{
+ MailboxInfoType info;
+ uint8_t data[32];
+} Mailbox32ype;
+
+typedef struct MailBox48Tag
+{
+ MailboxInfoType info;
+ uint8_t data[48];
+} Mailbox48Type;
+
+typedef struct MailBox64Tag
+{
+ MailboxInfoType info;
+ uint8_t data[64];
+} Mailbox64Type;
+
+
+
+typedef struct MCan_MsgRamPntrsTag
+{
+ uint32_t * pStdFilts;
+ uint32_t * pExtFilts;
+ uint32_t * pRxFifo0;
+ uint32_t * pRxFifo1;
+ uint32_t * pRxDedBuf;
+ uint32_t * pTxEvtFifo;
+ uint32_t * pTxDedBuf;
+ uint32_t * pTxFifoQ;
+} MCan_MsgRamPntrs;
+
+typedef struct MCan_ConfigTag
+{
+ Mcan * pMCan;
+ uint32_t bitTiming;
+ uint32_t fastBitTiming;
+ uint32_t nmbrStdFilts;
+ uint32_t nmbrExtFilts;
+ uint32_t nmbrFifo0Elmts;
+ uint32_t nmbrFifo1Elmts;
+ uint32_t nmbrRxDedBufElmts;
+ uint32_t nmbrTxEvtFifoElmts;
+ uint32_t nmbrTxDedBufElmts;
+ uint32_t nmbrTxFifoQElmts;
+ uint32_t rxFifo0ElmtSize;
+ uint32_t rxFifo1ElmtSize;
+ uint32_t rxBufElmtSize;
+
+ uint32_t txBufElmtSize;
+
+ MCan_MsgRamPntrs msgRam;
+} MCan_ConfigType;
+
+extern const MCan_ConfigType mcan0Config;
+extern const MCan_ConfigType mcan1Config;
+
+static inline uint32_t MCAN_IsTxComplete(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ return ( mcan->MCAN_IR & (0x1u << 9) );
+}
+
+static inline void MCAN_ClearTxComplete(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ mcan->MCAN_IR = (0x1u << 9);
+}
+
+static inline uint32_t MCAN_IsMessageStoredToRxDedBuffer(
+ const MCan_ConfigType * mcanConfig )
+{
+  Mcan * mcan = mcanConfig->pMCan;
+
+  return ( mcan->MCAN_IR & (0x1u << 19) );
+}
+
+static inline void MCAN_ClearMessageStoredToRxBuffer(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ mcan->MCAN_IR = (0x1u << 19);
+}
+
+static inline uint32_t MCAN_IsMessageStoredToRxFifo0(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ return ( mcan->MCAN_IR & (0x1u << 0) );
+}
+
+static inline void MCAN_ClearMessageStoredToRxFifo0(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ mcan->MCAN_IR = (0x1u << 0);
+}
+
+static inline uint32_t MCAN_IsMessageStoredToRxFifo1(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ return ( mcan->MCAN_IR & (0x1u << 4) );
+}
+
+static inline void MCAN_ClearMessageStoredToRxFifo1(
+ const MCan_ConfigType * mcanConfig )
+{
+ Mcan * mcan = mcanConfig->pMCan;
+ mcan->MCAN_IR = (0x1u << 4);
+}
+
+void MCAN_Init(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_InitFdEnable(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_InitFdBitRateSwitchEnable(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_InitTxQueue(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_InitLoopback(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_Enable(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_RequestIso11898_1(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_RequestFd(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_RequestFdBitRateSwitch(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_LoopbackOn(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_LoopbackOff(
+ const MCan_ConfigType * mcanConfig );
+
+void MCAN_IEnableMessageStoredToRxDedBuffer(
+ const MCan_ConfigType * mcanConfig,
+ MCan_IntrLineType line );
+
+uint8_t * MCAN_ConfigTxDedBuffer(
+ const MCan_ConfigType * mcanConfig,
+ uint8_t buffer,
+ uint32_t id,
+ MCan_IdType idType,
+ MCan_DlcType dlc );
+
+void MCAN_SendTxDedBuffer(
+ const MCan_ConfigType * mcanConfig,
+ uint8_t buffer );
+
+uint32_t MCAN_AddToTxFifoQ(
+ const MCan_ConfigType * mcanConfig,
+ uint32_t id, MCan_IdType idType,
+ MCan_DlcType dlc, uint8_t * data );
+
+uint8_t MCAN_IsBufferTxd(
+ const MCan_ConfigType * mcanConfig,
+ uint8_t buffer );
+
+void MCAN_ConfigRxBufferFilter(
+ const MCan_ConfigType * mcanConfig,
+ uint32_t buffer,
+ uint32_t filter,
+ uint32_t id,
+ MCan_IdType idType);
+
+void MCAN_ConfigRxClassicFilter(
+ const MCan_ConfigType * mcanConfig,
+ MCan_FifoType fifo,
+ uint8_t filter,
+ uint32_t id,
+ MCan_IdType idType,
+ uint32_t mask );
+
+uint8_t MCAN_IsNewDataInRxDedBuffer(
+ const MCan_ConfigType * mcanConfig,
+ uint8_t buffer );
+
+void MCAN_GetRxDedBuffer(
+ const MCan_ConfigType * mcanConfig,
+ uint8_t buffer,
+ Mailbox64Type * pRxMailbox );
+
+uint32_t MCAN_GetRxFifoBuffer(
+ const MCan_ConfigType * mcanConfig,
+ MCan_FifoType fifo,
+ Mailbox64Type * pRxMailbox );
+# 95 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/supc.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/supc.h"
+#define _SUPC_H_ 
+# 55 "C:\\SAMV71x\\hal\\libchip_samv7/include/supc.h"
+void SUPC_SelectExtCrystal32K(void);
+uint8_t SUPC_IsSlowClkExtCrystal32K(void);
+uint8_t SUPC_Read_Status(uint32_t status);
+void SUPC_DisableSupplyMonitor(void);
+void SUPC_DisableVoltageReg(void);
+void SUPC_ConfigSupplyMonitor(uint32_t Config);
+void SUPC_BrownoutDetectEnable(uint8_t enable);
+void SUPC_BrownoutResetEnable(void);
+void SUPC_SramBackupMode(uint8_t enable);
+void SUPC_BypassXtal32KOsc(void);
+void SUPC_EnablesWakeupInput(uint32_t Input, uint8_t enable);
+void SUPC_SetLowPowerDebounce(uint8_t period);
+void SUPC_SetWakeupDebounce(uint8_t period);
+void SUPC_EnablesWakeupMode(uint32_t Regs, uint8_t enable);
+# 96 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart.h" 1
+# 54 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart.h"
+#define _USART_ 
+# 77 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart.h"
+#define USART_MODE_ASYNCHRONOUS (US_MR_CHRL_8_BIT | US_MR_PAR_NO)
+
+#define MAX_RX_TIMEOUT 131071
+
+
+#define USART_MODE_IRDA (US_MR_USART_MODE_IRDA | US_MR_CHRL_8_BIT | US_MR_PAR_NO | US_MR_FILTER)
+
+
+
+#define AT91C_US_USMODE_SPIM 0xE
+#define US_SPI_CPOL_0 (0x0<<16)
+#define US_SPI_CPHA_0 (0x0<<8)
+#define US_SPI_CPOL_1 (0x1<<16)
+#define US_SPI_CPHA_1 (0x1<<8)
+#define US_SPI_BPMODE_0 (US_SPI_CPOL_0|US_SPI_CPHA_1)
+#define US_SPI_BPMODE_1 (US_SPI_CPOL_0|US_SPI_CPHA_0)
+#define US_SPI_BPMODE_2 (US_SPI_CPOL_1|US_SPI_CPHA_1)
+#define US_SPI_BPMODE_3 (US_SPI_CPOL_1|US_SPI_CPHA_0)
+# 105 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart.h"
+void USART_Configure( Usart *pUsart, uint32_t mode, uint32_t baudrate,
+     uint32_t masterClock ) ;
+
+void USART_SetBaudrate(Usart *pUsart, uint8_t OverSamp, uint32_t baudrate,
+     uint32_t masterClock);
+
+uint32_t USART_GetStatus( Usart *usart ) ;
+
+
+void USART_ResetRx(Usart *pUsart);
+
+void USART_ResetTx(Usart *pUsart);
+
+void USART_EnableTx(Usart *pUsart);
+
+void USART_EnableRx(Usart *pUsart);
+
+void USART_DisableRx(Usart *pUsart);
+
+void USART_DisableTx(Usart *pUsart);
+
+void USART_EnableIt( Usart *usart,uint32_t mode ) ;
+
+void USART_DisableIt( Usart *usart,uint32_t mode ) ;
+
+uint32_t USART_GetItMask( Usart * usart ) ;
+
+void USART_SetTransmitterEnabled( Usart *usart, uint8_t enabled ) ;
+
+void USART_SetReceiverEnabled( Usart *usart, uint8_t enabled ) ;
+
+void USART_SetRTSEnabled(Usart *usart, uint8_t enabled);
+
+void USART_Write( Usart *usart, uint16_t data, volatile uint32_t timeOut ) ;
+
+uint16_t USART_Read( Usart *usart, volatile uint32_t timeOut ) ;
+
+uint8_t USART_IsDataAvailable( Usart *usart ) ;
+
+void USART_SetIrdaFilter(Usart *pUsart, uint8_t filter);
+
+void USART_PutChar( Usart *usart, uint8_t c ) ;
+
+uint32_t USART_IsRxReady( Usart *usart ) ;
+
+uint8_t USART_GetChar( Usart *usart ) ;
+
+void USART_EnableRecvTimeOut(Usart *usart, uint32_t timeout);
+
+void USART_EnableTxTimeGaurd(Usart *pUsart, uint32_t TimeGaurd);
+
+void USART_AcknowledgeRxTimeOut(Usart *usart, uint8_t Periodic);
+# 97 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart.h" 1
+# 32 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart.h"
+#define UART_H 
+# 44 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart.h"
+void UART_Configure(Uart *uart, uint32_t mode, uint32_t baudrate,
+  uint32_t masterClock, void (*PtrFcn)(void));
+
+void UART_SetTransmitterEnabled(Uart *uart, uint8_t enabled);
+
+void UART_SetReceiverEnabled(Uart *uart, uint8_t enabled);
+
+void UART_PutChar( Uart *uart, uint8_t c);
+
+uint32_t UART_IsRxReady(Uart *uart);
+
+uint8_t UART_GetChar(Uart *uart);
+
+uint32_t UART_GetStatus(Uart *uart);
+
+void UART_EnableIt(Uart *uart,uint32_t mode);
+
+void UART_DisableIt(Uart *uart,uint32_t mode);
+
+uint32_t UART_GetItMask(Uart *uart);
+
+void UART_SendBuffer(Uart *uart, uint8_t *pBuffer, uint32_t BuffLen);
+
+void UART_ReceiveBuffer(Uart *uart, uint8_t *pBuffer, uint32_t BuffLen);
+
+void UART_CompareConfig(Uart *uart, uint8_t Val1, uint8_t Val2);
+
+void UART_WriteChar(Uart *uart, uint8_t c);
+
+uint32_t UART_IsTxReady(Uart *uart);
+# 98 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/hsmci.h" 1
+# 73 "C:\\SAMV71x\\hal\\libchip_samv7/include/hsmci.h"
+#define HSMCID_H 
+# 96 "C:\\SAMV71x\\hal\\libchip_samv7/include/hsmci.h"
+extern void HSMCI_Enable(Hsmci* pRMci);
+extern void HSMCI_Disable(Hsmci* pRMci);
+extern void HSMCI_Reset(Hsmci* pRMci, uint8_t bBackup);
+
+extern void HSMCI_Select(Hsmci * pRMci,uint8_t bSlot,uint8_t bBusWidth);
+extern void HSMCI_SetSlot(Hsmci * pRMci,uint8_t bSlot);
+extern void HSMCI_SetBusWidth(Hsmci * pRMci,uint8_t bBusWidth);
+extern uint8_t HSMCI_GetBusWidth(Hsmci * pRMci);
+
+extern void HSMCI_ConfigureMode(Hsmci *pRMci, uint32_t dwMode);
+extern uint32_t HSMCI_GetMode(Hsmci *pRMci);
+extern void HSMCI_ProofEnable(Hsmci *pRMci, uint8_t bRdProof, uint8_t bWrProof);
+extern void HSMCI_PadvCtl(Hsmci *pRMci, uint8_t bPadv);
+extern void HSMCI_FByteEnable(Hsmci *pRMci, uint8_t bFByteEn);
+extern uint8_t HSMCI_IsFByteEnabled(Hsmci * pRMci);
+extern void HSMCI_DivCtrl(Hsmci *pRMci, uint32_t bClkDiv, uint8_t bPwsDiv);
+
+extern void HSMCI_EnableIt(Hsmci *pRMci, uint32_t dwSources);
+extern void HSMCI_DisableIt(Hsmci *pRMci, uint32_t dwSources);
+extern uint32_t HSMCI_GetItMask(Hsmci *pRMci);
+
+extern void HSMCI_ConfigureTransfer(Hsmci * pRMci,uint16_t wBlkLen,uint16_t wCnt);
+extern void HSMCI_SetBlockLen(Hsmci * pRMci,uint16_t wBlkSize);
+extern void HSMCI_SetBlockCount(Hsmci * pRMci,uint16_t wBlkCnt);
+
+extern void HSMCI_ConfigureCompletionTO(Hsmci *pRMci, uint32_t dwConfigure);
+extern void HSMCI_ConfigureDataTO(Hsmci *pRMci, uint32_t dwConfigure);
+
+extern void HSMCI_SendCmd(Hsmci * pRMci,uint32_t dwCmd,uint32_t dwArg);
+extern uint32_t HSMCI_GetResponse(Hsmci *pRMci);
+extern uint32_t HSMCI_Read(Hsmci *pRMci);
+extern void HSMCI_ReadFifo(Hsmci *pRMci, uint8_t *pdwData, uint32_t dwSize);
+extern void HSMCI_Write(Hsmci *pRMci, uint32_t dwData);
+extern void HSMCI_WriteFifo(Hsmci *pRMci, uint8_t *pdwData, uint32_t dwSize);
+
+extern uint32_t HSMCI_GetStatus(Hsmci *pRMci);
+
+extern void HSMCI_ConfigureDma(Hsmci *pRMci, uint32_t dwConfigure);
+extern void HSMCI_EnableDma(Hsmci * pRMci,uint8_t bEnable);
+
+extern void HSMCI_Configure(Hsmci *pRMci, uint32_t dwConfigure);
+extern void HSMCI_HsEnable(Hsmci *pRMci, uint8_t bHsEnable);
+extern uint8_t HSMCI_IsHsEnabled(Hsmci *pRMci);
+
+extern void HSMCI_BusWidthCtl(Hsmci *pRMci, uint8_t bBusWidth);
+extern void HSMCI_SlotCtl(Hsmci *pRMci, uint8_t bSlot);
+extern uint8_t HSMCI_GetSlot(Hsmci *pRMci);
+
+extern void HSMCI_ConfigureWP(Hsmci *pRMci, uint32_t dwConfigure);
+extern uint32_t HSMCI_GetWPStatus(Hsmci *pRMci);
+# 100 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/ssc.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/ssc.h"
+#define _SSC_ 
+# 54 "C:\\SAMV71x\\hal\\libchip_samv7/include/ssc.h"
+extern void SSC_Configure(Ssc *ssc, uint32_t bitRate, uint32_t masterClock);
+extern void SSC_ConfigureTransmitter(Ssc *ssc, uint32_t tcmr, uint32_t tfmr);
+extern void SSC_ConfigureReceiver(Ssc *ssc, uint32_t rcmr, uint32_t rfmr);
+extern void SSC_EnableTransmitter(Ssc *ssc);
+extern void SSC_DisableTransmitter(Ssc *ssc);
+extern void SSC_EnableReceiver(Ssc *ssc);
+extern void SSC_DisableReceiver(Ssc *ssc );
+extern void SSC_EnableInterrupts(Ssc *ssc, uint32_t sources);
+extern void SSC_DisableInterrupts(Ssc *ssc, uint32_t sources);
+extern void SSC_Write(Ssc *ssc, uint32_t frame);
+extern uint32_t SSC_Read(Ssc *ssc );
+extern uint8_t SSC_IsRxReady(Ssc *ssc);
+# 101 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/trng.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/trng.h"
+#define _TRNG_ 
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/trng.h"
+void TRNG_Enable(void);
+void TRNG_Disable(void);
+void TRNG_EnableIt(void);
+void TRNG_DisableIt(void);
+uint32_t TRNG_GetStatus(void);
+uint32_t TRNG_GetRandData(void);
+# 103 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/wdt.h" 1
+# 45 "C:\\SAMV71x\\hal\\libchip_samv7/include/wdt.h"
+#define _WDT_ 
+# 59 "C:\\SAMV71x\\hal\\libchip_samv7/include/wdt.h"
+extern void WDT_Enable( Wdt* pWDT, uint32_t dwMode ) ;
+
+extern void WDT_Disable( Wdt* pWDT ) ;
+
+extern void WDT_Restart( Wdt* pWDT ) ;
+
+extern uint32_t WDT_GetStatus( Wdt* pWDT ) ;
+
+extern uint32_t WDT_GetPeriod( uint32_t dwMs ) ;
+# 104 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi.h"
+#define _SPI_ 
+# 63 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi.h"
+#define SPI_PCS(npcs) SPI_MR_PCS((~(1 << npcs) & 0xF))
+
+
+#define SPI_SCBR(baudrate,masterClock) SPI_CSR_SCBR((uint32_t)(masterClock / baudrate))
+
+
+
+#define SPI_DLYBS(delay,masterClock) SPI_CSR_DLYBS((uint32_t) (((masterClock / 1000000) * delay) / 1000)+1)
+
+
+
+#define SPI_DLYBCT(delay,masterClock) SPI_CSR_DLYBCT ((uint32_t) (((masterClock / 1000000) * delay) / 32000)+1)
+# 87 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi.h"
+extern void SPI_Enable( Spi* spi ) ;
+extern void SPI_Disable( Spi* spi ) ;
+
+extern void SPI_EnableIt( Spi* spi, uint32_t dwSources ) ;
+extern void SPI_DisableIt( Spi* spi, uint32_t dwSources ) ;
+
+extern void SPI_Configure( Spi* spi, uint32_t dwId, uint32_t dwConfiguration ) ;
+extern void SPI_SetMode( Spi* spi, uint32_t dwConfiguration );
+
+extern void SPI_ChipSelect( Spi* spi, uint8_t cS);
+extern void SPI_ReleaseCS( Spi* spi );
+
+extern void SPI_ConfigureNPCS( Spi* spi, uint32_t dwNpcs, uint32_t dwConfiguration ) ;
+extern void SPI_ConfigureCSMode( Spi* spi, uint32_t dwNpcs, uint32_t bReleaseOnLast );
+
+extern uint32_t SPI_Read( Spi* spi ) ;
+extern void SPI_Write( Spi* spi, uint32_t dwNpcs, uint16_t wData ) ;
+extern void SPI_WriteLast( Spi* spi, uint32_t dwNpcs, uint16_t wData );
+
+extern uint32_t SPI_GetStatus( Spi* spi ) ;
+extern uint32_t SPI_IsFinished( Spi* pSpi ) ;
+# 105 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi.h" 1
+# 39 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi.h"
+#define _QSPI_ 
+# 57 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi.h"
+#define QSPI_SCBR(baudrate,masterClock) ((uint32_t) (masterClock / baudrate) << 8)
+
+
+
+#define QSPI_DLYBS(delay,masterClock) ((uint32_t) (((masterClock / 1000000) * delay) / 1000) << 16)
+
+
+
+#define QSPI_DLYBCT(delay,masterClock) ((uint32_t) (((masterClock / 1000000) * delay) / 32000) << 24)
+# 80 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi.h"
+typedef enum{
+  CmdAccess = 0,
+  ReadAccess,
+  WriteAccess
+}Access_t;
+
+
+
+typedef enum{
+ SpiMode = (0x0u << 0),
+ QspiMemMode = (0x1u << 0)
+}QspiMode_t;
+
+
+
+
+typedef enum{
+ ClockMode_00 = 0,
+ ClockMode_10,
+ ClockMode_01,
+ ClockMode_11
+}QspiClockMode_t;
+
+
+
+
+typedef enum{
+ QSPI_SUCCESS = 0,
+ QSPI_BUSY,
+ QSPI_BUSY_SENDING,
+ QSPI_READ_ERROR,
+ QSPI_WRITE_ERROR,
+ QSPI_UNKNOWN_ERROR,
+ QSPI_INIT_ERROR,
+ QSPI_INPUT_ERROR,
+ QSPI_TOTAL_ERROR
+}QspidStatus_t;
+
+
+
+
+typedef enum {
+ IsReceived = (0x1u << 0),
+ IsTxSent = (0x1u << 1),
+ IsTxEmpty = (0x1u << 2),
+ IsOverrun = (0x1u << 3),
+ IsCsRise = (0x1u << 8),
+ IsCsAsserted = (0x1u << 9),
+ IsEofInst = (0x1u << 10),
+ IsEnabled = (0x1u << 24)
+}QspiStatus_t;
+
+
+
+typedef struct {
+ uint8_t Instruction;
+ uint8_t Option;
+}QspiMemCmd_t;
+
+
+
+typedef struct {
+ uint32_t TxDataSize;
+ uint32_t RxDataSize;
+ uint32_t *pDataTx;
+ uint32_t *pDataRx;
+}QspiBuffer_t;
+
+
+
+
+typedef struct {
+   union _QspiInstFrame {
+  uint32_t val;
+  struct _QspiInstFrameBM {
+   uint32_t bwidth:3,
+      reserved0:1,
+      bInstEn:1,
+      bAddrEn:1,
+      bOptEn:1,
+      bDataEn:1,
+      bOptLen:2,
+      bAddrLen:1,
+      reserved1:1,
+      bXfrType:2,
+      bContinuesRead:1,
+      reserved2:1,
+      bDummyCycles:5,
+      reserved3:11;
+  } bm;
+ } InstFrame;
+  uint32_t Addr;
+}QspiInstFrame_t;
+
+
+
+typedef struct {
+ uint8_t qspiId;
+ Qspi *pQspiHw;
+ QspiMode_t qspiMode;
+ QspiMemCmd_t qspiCommand;
+ QspiBuffer_t qspiBuffer;
+ QspiInstFrame_t *pQspiFrame;
+}Qspid_t;
+
+
+void QSPI_SwReset( Qspi *pQspi );
+
+void QSPI_Disable( Qspi *pQspi );
+
+void QSPI_Enable( Qspi *pQspi );
+
+QspidStatus_t QSPI_EndTransfer( Qspi *pQspi );
+
+uint32_t QSPI_GetStatus( Qspi *pQspi, const QspiStatus_t rStatus );
+
+void QSPI_ConfigureClock( Qspi *pQspi, QspiClockMode_t ClockMode,
+  uint32_t dwClockCfg );
+
+QspidStatus_t QSPI_SingleReadSPI( Qspid_t *pQspid, uint16_t* const pData );
+
+QspidStatus_t QSPI_MultiReadSPI( Qspid_t *pQspid, uint16_t*
+  const pData, uint32_t NumOfBytes );
+
+QspidStatus_t QSPI_SingleWriteSPI( Qspid_t *pQspid, uint16_t const *pData );
+
+QspidStatus_t QSPI_MultiWriteSPI( Qspid_t *pQspid, uint16_t const *pData ,
+  uint32_t NumOfBytes );
+
+QspidStatus_t QSPI_EnableIt( Qspi *pQspi, uint32_t dwSources );
+
+QspidStatus_t QSPI_DisableIt( Qspi *pQspi, uint32_t dwSources );
+
+uint32_t QSPI_GetItMask( Qspi *pQspi );
+
+uint32_t QSPI_GetEnabledItStatus( Qspi *pQspi );
+
+QspidStatus_t QSPI_ConfigureInterface( Qspid_t *pQspid, QspiMode_t Mode,
+  uint32_t dwConfiguration );
+
+QspidStatus_t QSPI_SendCommand( Qspid_t *pQspi, uint8_t const KeepCfg);
+
+QspidStatus_t QSPI_SendCommandWithData( Qspid_t *pQspi, uint8_t const KeepCfg);
+
+QspidStatus_t QSPI_ReadCommand( Qspid_t *pQspi, uint8_t const KeepCfg);
+
+QspidStatus_t QSPI_EnableMemAccess( Qspid_t *pQspi, uint8_t const KeepCfg,
+  uint8_t ScrambleFlag);
+
+QspidStatus_t QSPI_ReadWriteMem( Qspid_t *pQspid, Access_t const ReadWrite);
+# 106 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/trace.h" 1
+# 65 "C:\\SAMV71x\\hal\\libchip_samv7/include/trace.h"
+#define _TRACE_ 
+
+
+
+
+
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 1 3
+# 27 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+#define _STDIO_H_ 
+
+
+
+#define _FSTDIO 
+
+#define __need_size_t 
+#define __need_NULL 
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 1 3 4
+# 158 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef __need_ptrdiff_t
+# 234 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef __need_size_t
+# 343 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef __need_wchar_t
+# 397 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef NULL
+
+
+
+
+#define NULL ((void *)0)
+
+
+
+
+
+#undef __need_NULL
+
+
+
+
+#define offsetof(TYPE,MEMBER) __builtin_offsetof (TYPE, MEMBER)
+# 37 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 2 3
+
+#define __need___va_list 
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdarg.h" 1 3 4
+# 34 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdarg.h" 3 4
+#undef __need___va_list
+
+
+
+
+#define __GNUC_VA_LIST 
+typedef __builtin_va_list __gnuc_va_list;
+# 40 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 2 3
+# 48 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 1 3
+# 24 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+#define __INTTYPES_DEFINED__ 
+# 61 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+#define _SYS_TYPES_H 
+# 71 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 1 3 4
+# 72 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 2 3
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\machine\\types.h" 1 3
+
+#define _MACHTYPES_H_ 
+# 13 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\machine\\types.h" 3
+#define _CLOCK_T_ unsigned long
+#define _TIME_T_ long
+#define _CLOCKID_T_ unsigned long
+#define _TIMER_T_ unsigned long
+
+
+typedef long int __off_t;
+typedef int __pid_t;
+
+__extension__ typedef long long int __loff_t;
+
+
+
+
+
+typedef long __suseconds_t;
+# 73 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 2 3
+# 82 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+#define _ST_INT32 __attribute__ ((__mode__ (__SI__)))
+
+
+
+
+
+
+#define physadr physadr_t
+#define quad quad_t
+
+
+
+
+typedef unsigned char u_char;
+#define __u_char_defined 
+
+
+typedef unsigned short u_short;
+#define __u_short_defined 
+
+
+typedef unsigned int u_int;
+#define __u_int_defined 
+
+
+typedef unsigned long u_long;
+#define __u_long_defined 
+
+#define _BSDTYPES_DEFINED 
+
+
+typedef unsigned short ushort;
+typedef unsigned int uint;
+typedef unsigned long ulong;
+
+
+
+typedef unsigned long clock_t;
+#define __clock_t_defined 
+
+
+
+typedef long time_t;
+#define __time_t_defined 
+
+
+
+typedef long daddr_t;
+#define __daddr_t_defined 
+
+
+typedef char * caddr_t;
+#define __caddr_t_defined 
+
+
+
+
+
+
+
+typedef unsigned short ino_t;
+# 171 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+typedef _off_t off_t;
+typedef __dev_t dev_t;
+typedef __uid_t uid_t;
+typedef __gid_t gid_t;
+
+
+
+
+
+typedef int pid_t;
+
+
+
+
+
+
+
+typedef long key_t;
+
+typedef _ssize_t ssize_t;
+# 204 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+typedef unsigned int mode_t __attribute__ ((__mode__ (__SI__)));
+
+
+
+
+typedef unsigned short nlink_t;
+# 219 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+#define _SYS_TYPES_FD_SET 
+#define NBBY 8
+
+
+
+
+
+
+
+#define FD_SETSIZE 64
+
+
+typedef long fd_mask;
+#define NFDBITS (sizeof (fd_mask) * NBBY)
+
+#define howmany(x,y) (((x)+((y)-1))/(y))
+
+
+
+
+typedef struct _types_fd_set {
+ fd_mask fds_bits[(((64)+(((sizeof (fd_mask) * 8))-1))/((sizeof (fd_mask) * 8)))];
+} _types_fd_set;
+
+#define fd_set _types_fd_set
+
+#define FD_SET(n,p) ((p)->fds_bits[(n)/NFDBITS] |= (1L << ((n) % NFDBITS)))
+#define FD_CLR(n,p) ((p)->fds_bits[(n)/NFDBITS] &= ~(1L << ((n) % NFDBITS)))
+#define FD_ISSET(n,p) ((p)->fds_bits[(n)/NFDBITS] & (1L << ((n) % NFDBITS)))
+#define FD_ZERO(p) (__extension__ (void)({ size_t __i; char *__tmp = (char *)p; for (__i = 0; __i < sizeof (*(p)); ++__i) *__tmp++ = 0; }))
+# 257 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+#undef __MS_types__
+#undef _ST_INT32
+
+
+
+typedef unsigned long clockid_t;
+#define __clockid_t_defined 
+
+
+
+typedef unsigned long timer_t;
+#define __timer_t_defined 
+
+
+typedef unsigned long useconds_t;
+
+
+typedef __suseconds_t suseconds_t;
+#define _SUSECONDS_T_DECLARED 
+
+
+typedef __int64_t sbintime_t;
+# 512 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\types.h" 3
+#undef __need_inttypes
+# 49 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 2 3
+
+
+
+
+typedef __FILE FILE;
+#define __FILE_defined 
+
+
+
+
+
+typedef _fpos_t fpos_t;
+
+
+
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stdio.h" 1 3
+
+#define _NEWLIB_STDIO_H 
+# 13 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stdio.h" 3
+#define _flockfile(fp) (((fp)->_flags & __SSTR) ? 0 : __lock_acquire_recursive((fp)->_lock))
+
+
+
+
+
+
+
+#define _funlockfile(fp) (((fp)->_flags & __SSTR) ? 0 : __lock_release_recursive((fp)->_lock))
+# 67 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 2 3
+
+#define __SLBF 0x0001
+#define __SNBF 0x0002
+#define __SRD 0x0004
+#define __SWR 0x0008
+
+#define __SRW 0x0010
+#define __SEOF 0x0020
+#define __SERR 0x0040
+#define __SMBF 0x0080
+#define __SAPP 0x0100
+#define __SSTR 0x0200
+#define __SOPT 0x0400
+#define __SNPT 0x0800
+#define __SOFF 0x1000
+#define __SORD 0x2000
+
+
+
+#define __SL64 0x8000
+
+
+#define __SNLK 0x0001
+#define __SWID 0x2000
+# 101 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+#define _IOFBF 0
+#define _IOLBF 1
+#define _IONBF 2
+
+#define EOF (-1)
+
+
+
+
+#define BUFSIZ 1024
+
+
+
+
+
+#define FOPEN_MAX 20
+
+
+
+
+
+#define FILENAME_MAX 1024
+
+
+
+
+
+#define L_tmpnam FILENAME_MAX
+
+
+
+#define P_tmpdir "/tmp"
+
+
+
+#define SEEK_SET 0
+
+
+#define SEEK_CUR 1
+
+
+#define SEEK_END 2
+
+
+#define TMP_MAX 26
+
+#define stdin (_REENT->_stdin)
+#define stdout (_REENT->_stdout)
+#define stderr (_REENT->_stderr)
+
+#define _stdin_r(x) ((x)->_stdin)
+#define _stdout_r(x) ((x)->_stdout)
+#define _stderr_r(x) ((x)->_stderr)
+
+
+
+
+
+
+
+#define __VALIST __gnuc_va_list
+
+
+
+
+
+FILE * tmpfile (void);
+char * tmpnam (char *);
+
+char * tempnam (const char *, const char *);
+
+int fclose (FILE *);
+int fflush (FILE *);
+FILE * freopen (const char *, const char *, FILE *);
+void setbuf (FILE *, char *);
+int setvbuf (FILE *, char *, int, size_t);
+int fprintf (FILE *, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+int fscanf (FILE *, const char *, ...) __attribute__ ((__format__ (__scanf__, 2, 3)))
+                                                           ;
+int printf (const char *, ...) __attribute__ ((__format__ (__printf__, 1, 2)))
+                                                            ;
+int scanf (const char *, ...) __attribute__ ((__format__ (__scanf__, 1, 2)))
+                                                           ;
+int sscanf (const char *, const char *, ...) __attribute__ ((__format__ (__scanf__, 2, 3)))
+                                                           ;
+int vfprintf (FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int vprintf (const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 1, 0)))
+                                                            ;
+int vsprintf (char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int fgetc (FILE *);
+char * fgets (char *, int, FILE *);
+int fputc (int, FILE *);
+int fputs (const char *, FILE *);
+int getc (FILE *);
+int getchar (void);
+char * gets (char *);
+int putc (int, FILE *);
+int putchar (int);
+int puts (const char *);
+int ungetc (int, FILE *);
+size_t fread (void * , size_t _size, size_t _n, FILE *);
+size_t fwrite (const void * , size_t _size, size_t _n, FILE *);
+
+
+
+int fgetpos (FILE *, fpos_t *);
+
+int fseek (FILE *, long, int);
+
+
+
+int fsetpos (FILE *, const fpos_t *);
+
+long ftell ( FILE *);
+void rewind (FILE *);
+void clearerr (FILE *);
+int feof (FILE *);
+int ferror (FILE *);
+void perror (const char *);
+
+FILE * fopen (const char * _name, const char * _type);
+int sprintf (char *, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+int remove (const char *);
+int rename (const char *, const char *);
+# 238 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+int fseeko (FILE *, off_t, int);
+off_t ftello ( FILE *);
+
+
+
+
+
+
+
+int asiprintf (char **, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+char * asniprintf (char *, size_t *, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+char * asnprintf (char *, size_t *, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int asprintf (char **, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+
+int diprintf (int, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+
+int fiprintf (FILE *, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+int fiscanf (FILE *, const char *, ...) __attribute__ ((__format__ (__scanf__, 2, 3)))
+                                                           ;
+int iprintf (const char *, ...) __attribute__ ((__format__ (__printf__, 1, 2)))
+                                                            ;
+int iscanf (const char *, ...) __attribute__ ((__format__ (__scanf__, 1, 2)))
+                                                           ;
+int siprintf (char *, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+int siscanf (const char *, const char *, ...) __attribute__ ((__format__ (__scanf__, 2, 3)))
+                                                           ;
+int snprintf (char *, size_t, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int sniprintf (char *, size_t, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int vasiprintf (char **, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+char * vasniprintf (char *, size_t *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+char * vasnprintf (char *, size_t *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int vasprintf (char **, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int vdiprintf (int, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int vfiprintf (FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int vfiscanf (FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 2, 0)))
+                                                           ;
+int vfscanf (FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 2, 0)))
+                                                           ;
+int viprintf (const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 1, 0)))
+                                                            ;
+int viscanf (const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 1, 0)))
+                                                           ;
+int vscanf (const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 1, 0)))
+                                                           ;
+int vsiprintf (char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int vsiscanf (const char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 2, 0)))
+                                                           ;
+int vsniprintf (char *, size_t, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int vsnprintf (char *, size_t, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int vsscanf (const char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 2, 0)))
+                                                           ;
+# 316 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+FILE * fdopen (int, const char *);
+
+int fileno (FILE *);
+int getw (FILE *);
+int pclose (FILE *);
+FILE * popen (const char *, const char *);
+int putw (int, FILE *);
+void setbuffer (FILE *, char *, int);
+int setlinebuf (FILE *);
+int getc_unlocked (FILE *);
+int getchar_unlocked (void);
+void flockfile (FILE *);
+int ftrylockfile (FILE *);
+void funlockfile (FILE *);
+int putc_unlocked (int, FILE *);
+int putchar_unlocked (int);
+# 341 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+int dprintf (int, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+
+FILE * fmemopen (void *, size_t, const char *);
+
+
+FILE * open_memstream (char **, size_t *);
+
+int renameat (int, const char *, int, const char *);
+
+int vdprintf (int, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+
+
+
+
+
+
+
+int _asiprintf_r (struct _reent *, char **, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+char * _asniprintf_r (struct _reent *, char *, size_t *, const char *, ...) __attribute__ ((__format__ (__printf__, 4, 5)))
+                                                            ;
+char * _asnprintf_r (struct _reent *, char *, size_t *, const char *, ...) __attribute__ ((__format__ (__printf__, 4, 5)))
+                                                            ;
+int _asprintf_r (struct _reent *, char **, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _diprintf_r (struct _reent *, int, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _dprintf_r (struct _reent *, int, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _fclose_r (struct _reent *, FILE *);
+int _fcloseall_r (struct _reent *);
+FILE * _fdopen_r (struct _reent *, int, const char *);
+int _fflush_r (struct _reent *, FILE *);
+int _fgetc_r (struct _reent *, FILE *);
+int _fgetc_unlocked_r (struct _reent *, FILE *);
+char * _fgets_r (struct _reent *, char *, int, FILE *);
+char * _fgets_unlocked_r (struct _reent *, char *, int, FILE *);
+
+
+
+
+int _fgetpos_r (struct _reent *, FILE *, fpos_t *);
+int _fsetpos_r (struct _reent *, FILE *, const fpos_t *);
+
+int _fiprintf_r (struct _reent *, FILE *, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _fiscanf_r (struct _reent *, FILE *, const char *, ...) __attribute__ ((__format__ (__scanf__, 3, 4)))
+                                                           ;
+FILE * _fmemopen_r (struct _reent *, void *, size_t, const char *);
+FILE * _fopen_r (struct _reent *, const char *, const char *);
+FILE * _freopen_r (struct _reent *, const char *, const char *, FILE *);
+int _fprintf_r (struct _reent *, FILE *, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _fpurge_r (struct _reent *, FILE *);
+int _fputc_r (struct _reent *, int, FILE *);
+int _fputc_unlocked_r (struct _reent *, int, FILE *);
+int _fputs_r (struct _reent *, const char *, FILE *);
+int _fputs_unlocked_r (struct _reent *, const char *, FILE *);
+size_t _fread_r (struct _reent *, void * , size_t _size, size_t _n, FILE *);
+size_t _fread_unlocked_r (struct _reent *, void * , size_t _size, size_t _n, FILE *);
+int _fscanf_r (struct _reent *, FILE *, const char *, ...) __attribute__ ((__format__ (__scanf__, 3, 4)))
+                                                           ;
+int _fseek_r (struct _reent *, FILE *, long, int);
+int _fseeko_r (struct _reent *, FILE *, _off_t, int);
+long _ftell_r (struct _reent *, FILE *);
+_off_t _ftello_r (struct _reent *, FILE *);
+void _rewind_r (struct _reent *, FILE *);
+size_t _fwrite_r (struct _reent *, const void * , size_t _size, size_t _n, FILE *);
+size_t _fwrite_unlocked_r (struct _reent *, const void * , size_t _size, size_t _n, FILE *);
+int _getc_r (struct _reent *, FILE *);
+int _getc_unlocked_r (struct _reent *, FILE *);
+int _getchar_r (struct _reent *);
+int _getchar_unlocked_r (struct _reent *);
+char * _gets_r (struct _reent *, char *);
+int _iprintf_r (struct _reent *, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+int _iscanf_r (struct _reent *, const char *, ...) __attribute__ ((__format__ (__scanf__, 2, 3)))
+                                                           ;
+FILE * _open_memstream_r (struct _reent *, char **, size_t *);
+void _perror_r (struct _reent *, const char *);
+int _printf_r (struct _reent *, const char *, ...) __attribute__ ((__format__ (__printf__, 2, 3)))
+                                                            ;
+int _putc_r (struct _reent *, int, FILE *);
+int _putc_unlocked_r (struct _reent *, int, FILE *);
+int _putchar_unlocked_r (struct _reent *, int);
+int _putchar_r (struct _reent *, int);
+int _puts_r (struct _reent *, const char *);
+int _remove_r (struct _reent *, const char *);
+int _rename_r (struct _reent *, const char *_old, const char *_new)
+                                          ;
+int _scanf_r (struct _reent *, const char *, ...) __attribute__ ((__format__ (__scanf__, 2, 3)))
+                                                           ;
+int _siprintf_r (struct _reent *, char *, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _siscanf_r (struct _reent *, const char *, const char *, ...) __attribute__ ((__format__ (__scanf__, 3, 4)))
+                                                           ;
+int _sniprintf_r (struct _reent *, char *, size_t, const char *, ...) __attribute__ ((__format__ (__printf__, 4, 5)))
+                                                            ;
+int _snprintf_r (struct _reent *, char *, size_t, const char *, ...) __attribute__ ((__format__ (__printf__, 4, 5)))
+                                                            ;
+int _sprintf_r (struct _reent *, char *, const char *, ...) __attribute__ ((__format__ (__printf__, 3, 4)))
+                                                            ;
+int _sscanf_r (struct _reent *, const char *, const char *, ...) __attribute__ ((__format__ (__scanf__, 3, 4)))
+                                                           ;
+char * _tempnam_r (struct _reent *, const char *, const char *);
+FILE * _tmpfile_r (struct _reent *);
+char * _tmpnam_r (struct _reent *, char *);
+int _ungetc_r (struct _reent *, int, FILE *);
+int _vasiprintf_r (struct _reent *, char **, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+char * _vasniprintf_r (struct _reent*, char *, size_t *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 4, 0)))
+                                                            ;
+char * _vasnprintf_r (struct _reent*, char *, size_t *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 4, 0)))
+                                                            ;
+int _vasprintf_r (struct _reent *, char **, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vdiprintf_r (struct _reent *, int, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vdprintf_r (struct _reent *, int, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vfiprintf_r (struct _reent *, FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vfiscanf_r (struct _reent *, FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 3, 0)))
+                                                           ;
+int _vfprintf_r (struct _reent *, FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vfscanf_r (struct _reent *, FILE *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 3, 0)))
+                                                           ;
+int _viprintf_r (struct _reent *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int _viscanf_r (struct _reent *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 2, 0)))
+                                                           ;
+int _vprintf_r (struct _reent *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 2, 0)))
+                                                            ;
+int _vscanf_r (struct _reent *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 2, 0)))
+                                                           ;
+int _vsiprintf_r (struct _reent *, char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vsiscanf_r (struct _reent *, const char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 3, 0)))
+                                                           ;
+int _vsniprintf_r (struct _reent *, char *, size_t, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 4, 0)))
+                                                            ;
+int _vsnprintf_r (struct _reent *, char *, size_t, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 4, 0)))
+                                                            ;
+int _vsprintf_r (struct _reent *, char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__printf__, 3, 0)))
+                                                            ;
+int _vsscanf_r (struct _reent *, const char *, const char *, __gnuc_va_list) __attribute__ ((__format__ (__scanf__, 3, 0)))
+                                                           ;
+
+
+
+int fpurge (FILE *);
+ssize_t __getdelim (char **, size_t *, int, FILE *);
+ssize_t __getline (char **, size_t *, FILE *);
+
+
+void clearerr_unlocked (FILE *);
+int feof_unlocked (FILE *);
+int ferror_unlocked (FILE *);
+int fileno_unlocked (FILE *);
+int fflush_unlocked (FILE *);
+int fgetc_unlocked (FILE *);
+int fputc_unlocked (int, FILE *);
+size_t fread_unlocked (void * , size_t _size, size_t _n, FILE *);
+size_t fwrite_unlocked (const void * , size_t _size, size_t _n, FILE *);
+# 541 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+int __srget_r (struct _reent *, FILE *);
+int __swbuf_r (struct _reent *, int, FILE *);
+# 565 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+FILE *funopen (const void * __cookie, int (*__readfn)(void * __cookie, char *__buf, int __n), int (*__writefn)(void * __cookie, const char *__buf, int __n), fpos_t (*__seekfn)(void * __cookie, fpos_t __off, int __whence), int (*__closefn)(void * __cookie))
+
+
+
+
+
+                                   ;
+FILE *_funopen_r (struct _reent *, const void * __cookie, int (*__readfn)(void * __cookie, char *__buf, int __n), int (*__writefn)(void * __cookie, const char *__buf, int __n), fpos_t (*__seekfn)(void * __cookie, fpos_t __off, int __whence), int (*__closefn)(void * __cookie))
+
+
+
+
+
+                                   ;
+
+
+#define fropen(__cookie,__fn) funopen(__cookie, __fn, (int (*)())0, (fpos_t (*)())0, (int (*)())0)
+
+#define fwopen(__cookie,__fn) funopen(__cookie, (int (*)())0, __fn, (fpos_t (*)())0, (int (*)())0)
+
+
+typedef ssize_t cookie_read_function_t(void *__cookie, char *__buf, size_t __n);
+typedef ssize_t cookie_write_function_t(void *__cookie, const char *__buf,
+     size_t __n);
+
+
+
+
+typedef int cookie_seek_function_t(void *__cookie, off_t *__off, int __whence);
+
+typedef int cookie_close_function_t(void *__cookie);
+typedef struct
+{
+
+
+  cookie_read_function_t *read;
+  cookie_write_function_t *write;
+  cookie_seek_function_t *seek;
+  cookie_close_function_t *close;
+} cookie_io_functions_t;
+FILE *fopencookie (void *__cookie, const char *__mode, cookie_io_functions_t __functions)
+                                                         ;
+FILE *_fopencookie_r (struct _reent *, void *__cookie, const char *__mode, cookie_io_functions_t __functions)
+                                                         ;
+
+
+
+
+
+
+
+#define __sgetc_raw_r(__ptr,__f) (--(__f)->_r < 0 ? __srget_r(__ptr, __f) : (int)(*(__f)->_p++))
+# 645 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+#define __sgetc_r(__ptr,__p) __sgetc_raw_r(__ptr, __p)
+# 661 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+#define __sputc_raw_r(__ptr,__c,__p) (--(__p)->_w < 0 ? (__p)->_w >= (__p)->_lbfsize ? (*(__p)->_p = (__c)), *(__p)->_p != '\n' ? (int)*(__p)->_p++ : __swbuf_r(__ptr, '\n', __p) : __swbuf_r(__ptr, (int)(__c), __p) : (*(__p)->_p = (__c), (int)*(__p)->_p++))
+# 675 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+#define __sputc_r(__ptr,__c,__p) __sputc_raw_r(__ptr, __c, __p)
+
+
+
+#define __sfeof(p) ((int)(((p)->_flags & __SEOF) != 0))
+#define __sferror(p) ((int)(((p)->_flags & __SERR) != 0))
+#define __sclearerr(p) ((void)((p)->_flags &= ~(__SERR|__SEOF)))
+#define __sfileno(p) ((p)->_file)
+
+
+#define feof(p) __sfeof(p)
+#define ferror(p) __sferror(p)
+#define clearerr(p) __sclearerr(p)
+
+
+#define feof_unlocked(p) __sfeof(p)
+#define ferror_unlocked(p) __sferror(p)
+#define clearerr_unlocked(p) __sclearerr(p)
+# 702 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\stdio.h" 3
+#define getc(fp) __sgetc_r(_REENT, fp)
+#define putc(x,fp) __sputc_r(_REENT, x, fp)
+
+
+
+
+
+#define fast_putc(x,p) (--(p)->_w < 0 ? __swbuf_r(_REENT, (int)(x), p) == EOF : (*(p)->_p = (x), (p)->_p++, 0))
+
+
+#define L_cuserid 9
+
+
+
+
+
+
+
+#define getchar() getc(stdin)
+#define putchar(x) putc(x, stdout)
+
+
+#define getchar_unlocked() getc_unlocked(stdin)
+#define putchar_unlocked(x) putc_unlocked(x, stdout)
+
+
+
+# 74 "C:\\SAMV71x\\hal\\libchip_samv7/include/trace.h" 2
+
+
+
+
+
+
+#define SOFTPACK_VERSION "1.3"
+
+#define TRACE_LEVEL_DEBUG 5
+#define TRACE_LEVEL_INFO 4
+#define TRACE_LEVEL_WARNING 3
+#define TRACE_LEVEL_ERROR 2
+#define TRACE_LEVEL_FATAL 1
+#define TRACE_LEVEL_NO_TRACE 0
+
+
+
+#define TRACE_LEVEL TRACE_LEVEL_INFO
+
+
+
+
+#define DYN_TRACES 0
+
+
+
+
+
+
+#undef NOTRACE
+# 117 "C:\\SAMV71x\\hal\\libchip_samv7/include/trace.h"
+extern void TRACE_CONFIGURE( uint32_t dwBaudRate, uint32_t dwMCk ) ;
+# 127 "C:\\SAMV71x\\hal\\libchip_samv7/include/trace.h"
+#define DYNTRACE 0
+
+
+
+
+
+#define TRACE_CONFIGURE_ISP(mode,baudrate,mck) { const Pin pinsUART0[] = {PINS_UART}; PIO_Configure(pinsUART0, PIO_LISTSIZE(pinsUART0)); UART_Configure( baudrate, mck ) ; }
+# 182 "C:\\SAMV71x\\hal\\libchip_samv7/include/trace.h"
+#define TRACE_DEBUG(...) { }
+#define TRACE_DEBUG_WP(...) { }
+
+
+
+#define TRACE_INFO(...) { printf("-I- " __VA_ARGS__); }
+#define TRACE_INFO_WP(...) { printf(__VA_ARGS__); }
+
+
+
+
+
+
+#define TRACE_WARNING(...) { printf("-W- " __VA_ARGS__); }
+#define TRACE_WARNING_WP(...) { printf(__VA_ARGS__); }
+
+
+
+
+
+
+#define TRACE_ERROR(...) { printf("-E- " __VA_ARGS__); }
+#define TRACE_ERROR_WP(...) { printf(__VA_ARGS__); }
+
+
+
+
+
+
+#define TRACE_FATAL(...) { printf("-F- " __VA_ARGS__); while(1); }
+#define TRACE_FATAL_WP(...) { printf(__VA_ARGS__); while(1); }
+# 107 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmac.h" 1
+# 67 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmac.h"
+#define DMAC_H 
+# 76 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmac.h"
+# 1 "C:\\SAMV71x\\hal\\utils/utility.h" 1
+# 31 "C:\\SAMV71x\\hal\\utils/utility.h"
+#define UTILITY_H 
+
+
+
+
+
+#define RESET_CYCLE_COUNTER() do { CoreDebug->DEMCR = CoreDebug_DEMCR_TRCENA_Msk; __DSB(); DWT->LAR = 0xC5ACCE55; __DSB(); DWT->CTRL &= ~DWT_CTRL_CYCCNTENA_Msk; DWT->CYCCNT = 0; DWT->CTRL = DWT_CTRL_CYCCNTENA_Msk; }while(0)
+
+
+
+
+
+
+
+#define GET_CYCLE_COUNTER(x) x=DWT->CYCCNT;
+
+#define LockMutex(mut,timeout) get_lock(&mut, 1, &timeout)
+
+#define ReleaseMutex(mut) free_lock(&mut)
+
+#define GetResource(mut,max,timeout) get_lock(&mut, max, &timeout)
+
+#define FreeResource(mut) free_lock(&mut)
+
+
+static inline uint8_t Is_LockFree(volatile uint8_t *Lock_Variable)
+{
+
+    return __LDREXB(Lock_Variable);
+
+}
+
+static inline uint8_t get_lock(volatile uint8_t *Lock_Variable, const uint8_t maxValue, volatile uint32_t *pTimeout)
+{
+    while (*pTimeout)
+ {
+        if(__LDREXB(Lock_Variable) < maxValue)
+        {
+
+          while( __STREXB(((*Lock_Variable) + 1), Lock_Variable) )
+          {
+            if(!(*pTimeout)--)
+            {
+              return 1;
+            }
+          }
+
+          __DMB();
+          { };
+          return 0;
+        }
+
+        ((*pTimeout)--);
+ }
+    return 1;
+}
+
+
+
+static inline uint8_t free_lock(volatile uint8_t *Lock_Variable)
+{
+
+    __DSB();
+    if(__LDREXB(Lock_Variable))
+    {
+      __STREXB( ((*Lock_Variable) - 1), Lock_Variable);
+      { };
+      __DSB();
+      __DMB();
+      return 0;
+    }
+    else
+    {
+      return 1;
+    }
+
+
+}
+# 77 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmac.h" 2
+# 87 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmac.h"
+#define XDMAC_CONTROLLER_NUM 1
+
+#define XDMAC_CHANNEL_NUM 24
+
+#define XDMAC_MAX_BT_SIZE 0xFFFF
+
+
+
+
+
+#define XDMA_GET_DATASIZE(size) ((size==0)? XDMAC_CC_DWIDTH_BYTE : ((size==1)? XDMAC_CC_DWIDTH_HALFWORD : (XDMAC_CC_DWIDTH_WORD )))
+
+
+#define XDMA_GET_CC_SAM(s) ((s==0)? XDMAC_CC_SAM_FIXED_AM : ((s==1)? XDMAC_CC_SAM_INCREMENTED_AM : ((s==2)? XDMAC_CC_SAM_UBS_AM : XDMAC_CC_SAM_UBS_DS_AM )))
+
+
+
+#define XDMA_GET_CC_DAM(d) ((d==0)? XDMAC_CC_DAM_FIXED_AM : ((d==1)? XDMAC_CC_DAM_INCREMENTED_AM : ((d==2)? XDMAC_CC_DAM_UBS_AM : XDMAC_CC_DAM_UBS_DS_AM )))
+
+
+
+#define XDMA_GET_CC_MEMSET(m) ((m==0)? XDMAC_CC_MEMSET_NORMAL_MODE : XDMAC_CC_MEMSET_HW_MODE)
+# 122 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmac.h"
+extern uint32_t XDMAC_GetType( Xdmac *pXdmac);
+extern uint32_t XDMAC_GetConfig( Xdmac *pXdmac);
+extern uint32_t XDMAC_GetArbiter( Xdmac *pXdmac);
+extern void XDMAC_EnableGIt (Xdmac *pXdmac, uint8_t dwInteruptMask );
+extern void XDMAC_DisableGIt (Xdmac *pXdmac, uint8_t dwInteruptMask );
+extern uint32_t XDMAC_GetGItMask( Xdmac *pXdmac );
+extern uint32_t XDMAC_GetGIsr( Xdmac *pXdmac );
+extern uint32_t XDMAC_GetMaskedGIsr( Xdmac *pXdmac );
+extern void XDMAC_EnableChannel( Xdmac *pXdmac, uint8_t channel );
+extern void XDMAC_EnableChannels( Xdmac *pXdmac, uint32_t bmChannels );
+extern void XDMAC_DisableChannel( Xdmac *pXdmac, uint8_t channel );
+extern void XDMAC_DisableChannels( Xdmac *pXdmac, uint32_t bmChannels );
+extern uint32_t XDMAC_GetGlobalChStatus(Xdmac *pXdmac);
+extern void XDMAC_SuspendReadChannel( Xdmac *pXdmac, uint8_t channel );
+extern void XDMAC_SuspendWriteChannel( Xdmac *pXdmac, uint8_t channel );
+extern void XDMAC_SuspendReadWriteChannel( Xdmac *pXdmac, uint8_t channel );
+extern void XDMAC_ResumeReadWriteChannel( Xdmac *pXdmac, uint8_t channel );
+extern void XDMAC_SoftwareTransferReq(Xdmac *pXdmac, uint8_t channel);
+extern uint32_t XDMAC_GetSoftwareTransferStatus(Xdmac *pXdmac);
+extern void XDMAC_SoftwareFlushReq(Xdmac *pXdmac, uint8_t channel);
+extern void XDMAC_EnableChannelIt (Xdmac *pXdmac, uint8_t channel,
+   uint8_t dwInteruptMask );
+extern void XDMAC_DisableChannelIt (Xdmac *pXdmac, uint8_t channel,
+   uint8_t dwInteruptMask );
+extern uint32_t XDMAC_GetChannelItMask (Xdmac *pXdmac, uint8_t channel);
+extern uint32_t XDMAC_GetChannelIsr (Xdmac *pXdmac, uint8_t channel);
+extern uint32_t XDMAC_GetMaskChannelIsr (Xdmac *pXdmac, uint8_t channel);
+extern void XDMAC_SetSourceAddr(Xdmac *pXdmac, uint8_t channel, uint32_t addr);
+extern void XDMAC_SetDestinationAddr(Xdmac *pXdmac, uint8_t channel,
+   uint32_t addr);
+extern void XDMAC_SetDescriptorAddr(Xdmac *pXdmac, uint8_t channel,
+   uint32_t addr, uint8_t ndaif);
+extern void XDMAC_SetDescriptorControl(Xdmac *pXdmac, uint8_t channel,
+   uint8_t config);
+extern void XDMAC_SetMicroblockControl(Xdmac *pXdmac, uint8_t channel,
+   uint32_t ublen);
+extern void XDMAC_SetBlockControl(Xdmac *pXdmac, uint8_t channel,
+   uint16_t blen);
+extern void XDMAC_SetChannelConfig(Xdmac *pXdmac, uint8_t channel,
+   uint32_t config);
+extern uint32_t XDMAC_GetChannelConfig(Xdmac *pXdmac, uint8_t channel);
+extern void XDMAC_SetDataStride_MemPattern(Xdmac *pXdmac, uint8_t channel,
+   uint32_t dds_msp);
+extern void XDMAC_SetSourceMicroBlockStride(Xdmac *pXdmac, uint8_t channel,
+   uint32_t subs);
+extern void XDMAC_SetDestinationMicroBlockStride(Xdmac *pXdmac, uint8_t channel,
+   uint32_t dubs);
+extern uint32_t XDMAC_GetChDestinationAddr(Xdmac *pXdmac, uint8_t channel);
+# 108 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdma_hardware_interface.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdma_hardware_interface.h"
+#define _XDMAD_IF_H 
+# 43 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdma_hardware_interface.h"
+typedef struct _XdmaHardwareInterface {
+ uint8_t bXdmac;
+ uint32_t bPeriphID;
+ uint8_t bTransfer;
+ uint8_t bIfID;
+} XdmaHardwareInterface;
+
+
+
+
+
+extern uint8_t XDMAIF_IsValidatedPeripherOnDma( uint8_t bPeriphID);
+extern uint8_t XDMAIF_Get_ChannelNumber (uint8_t bPeriphID, uint8_t bTransfer);
+# 109 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmad.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmad.h"
+#define _XDMAD_H 
+
+
+
+
+
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 1 3
+# 11 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+#undef assert
+
+
+
+
+#define assert(__e) ((__e) ? (void)0 : __assert_func (__FILE__, __LINE__, __ASSERT_FUNC, #__e))
+# 39 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+void __assert (const char *, int, const char *) __attribute__ ((__noreturn__))
+                                 ;
+void __assert_func (const char *, int, const char *, const char *) __attribute__ ((__noreturn__))
+                                 ;
+# 40 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmad.h" 2
+
+
+
+
+
+
+
+#define XDMAD_TRANSFER_MEMORY 0xFF
+#define XDMAD_ALLOC_FAILED 0xFFFF
+
+#define XDMAD_TRANSFER_TX 0
+#define XDMAD_TRANSFER_RX 1
+
+
+#define XDMA_UBC_NDE (0x1u << 24)
+#define XDMA_UBC_NDE_FETCH_DIS (0x0u << 24)
+#define XDMA_UBC_NDE_FETCH_EN (0x1u << 24)
+#define XDMA_UBC_NSEN (0x1u << 25)
+#define XDMA_UBC_NSEN_UNCHANGED (0x0u << 25)
+#define XDMA_UBC_NSEN_UPDATED (0x1u << 25)
+#define XDMA_UBC_NDEN (0x1u << 26)
+#define XDMA_UBC_NDEN_UNCHANGED (0x0u << 26)
+#define XDMA_UBC_NDEN_UPDATED (0x1u << 26)
+#define XDMA_UBC_NVIEW_Pos 27
+#define XDMA_UBC_NVIEW_Msk (0x3u << XDMA_UBC_NVIEW_Pos)
+#define XDMA_UBC_NVIEW_NDV0 (0x0u << XDMA_UBC_NVIEW_Pos)
+#define XDMA_UBC_NVIEW_NDV1 (0x1u << XDMA_UBC_NVIEW_Pos)
+#define XDMA_UBC_NVIEW_NDV2 (0x2u << XDMA_UBC_NVIEW_Pos)
+#define XDMA_UBC_NVIEW_NDV3 (0x3u << XDMA_UBC_NVIEW_Pos)
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmad.h"
+typedef enum _XdmadStatus {
+ XDMAD_OK = 0,
+ XDMAD_PARTIAL_DONE,
+ XDMAD_DONE,
+ XDMAD_BUSY,
+ XDMAD_ERROR,
+ XDMAD_CANCELED
+} eXdmadStatus, eXdmadRC;
+
+
+typedef enum _XdmadState {
+ XDMAD_STATE_FREE = 0,
+ XDMAD_STATE_ALLOCATED,
+ XDMAD_STATE_START,
+ XDMAD_STATE_IN_XFR,
+ XDMAD_STATE_DONE,
+ XDMAD_STATE_HALTED,
+} eXdmadState;
+
+
+typedef enum _XdmadProgState {
+ XDMAD_SINGLE= 0,
+ XDMAD_MULTI,
+ XDMAD_LLI,
+} eXdmadProgState;
+
+
+typedef void (*XdmadTransferCallback)(uint32_t status, void* pArg);
+
+
+typedef struct _XdmadChannel {
+ XdmadTransferCallback fCallback;
+ void* pArg;
+ uint8_t bIrqOwner;
+ uint8_t bSrcPeriphID;
+ uint8_t bDstPeriphID;
+ uint8_t bSrcTxIfID;
+ uint8_t bSrcRxIfID;
+ uint8_t bDstTxIfID;
+ uint8_t bDstRxIfID;
+ volatile uint8_t state;
+} sXdmadChannel;
+
+
+typedef struct _Xdmad {
+ Xdmac *pXdmacs;
+ sXdmadChannel XdmaChannels[24];
+ uint8_t numControllers;
+ uint8_t numChannels;
+ uint8_t pollingMode;
+ uint8_t pollingTimeout;
+ uint8_t xdmaMutex;
+} sXdmad;
+
+typedef struct _XdmadCfg {
+
+ uint32_t mbr_ubc;
+
+ uint32_t mbr_sa;
+
+ uint32_t mbr_da;
+
+ uint32_t mbr_cfg;
+
+ uint32_t mbr_bc;
+
+ uint32_t mbr_ds;
+
+ uint32_t mbr_sus;
+
+ uint32_t mbr_dus;
+} sXdmadCfg;
+
+
+
+typedef struct _LinkedListDescriporView0
+{
+
+ uint32_t mbr_nda;
+
+ uint32_t mbr_ubc;
+
+ uint32_t mbr_ta;
+}LinkedListDescriporView0;
+
+
+
+typedef struct _LinkedListDescriporView1
+{
+
+ uint32_t mbr_nda;
+
+ uint32_t mbr_ubc;
+
+ uint32_t mbr_sa;
+
+ uint32_t mbr_da;
+}LinkedListDescriporView1;
+
+
+
+typedef struct _LinkedListDescriporView2
+{
+
+ uint32_t mbr_nda;
+
+ uint32_t mbr_ubc;
+
+ uint32_t mbr_sa;
+
+ uint32_t mbr_da;
+
+ uint32_t mbr_cfg;
+}LinkedListDescriporView2;
+
+
+
+typedef struct _LinkedListDescriporView3
+{
+
+ uint32_t mbr_nda;
+
+ uint32_t mbr_ubc;
+
+ uint32_t mbr_sa;
+
+ uint32_t mbr_da;
+
+ uint32_t mbr_cfg;
+
+ uint32_t mbr_bc;
+
+ uint32_t mbr_ds;
+
+ uint32_t mbr_sus;
+
+ uint32_t mbr_dus;
+}LinkedListDescriporView3;
+# 229 "C:\\SAMV71x\\hal\\libchip_samv7/include/xdmad.h"
+extern void XDMAD_Initialize( sXdmad *pXdmad,
+        uint8_t bPollingMode );
+
+extern void XDMAD_Handler( sXdmad *pDmad);
+
+extern uint32_t XDMAD_AllocateChannel( sXdmad *pXdmad,
+           uint8_t bSrcID, uint8_t bDstID);
+extern eXdmadRC XDMAD_FreeChannel( sXdmad *pXdmad, uint32_t dwChannel );
+
+extern eXdmadRC XDMAD_ConfigureTransfer( sXdmad *pXdmad,
+           uint32_t dwChannel,
+           sXdmadCfg *pXdmaParam,
+           uint32_t dwXdmaDescCfg,
+           uint32_t dwXdmaDescAddr,
+           uint32_t dwXdmaIntEn);
+
+extern eXdmadRC XDMAD_PrepareChannel( sXdmad *pXdmad, uint32_t dwChannel);
+
+extern eXdmadRC XDMAD_IsTransferDone( sXdmad *pXdmad, uint32_t dwChannel );
+
+extern eXdmadRC XDMAD_StartTransfer( sXdmad *pXdmad, uint32_t dwChannel );
+
+extern eXdmadRC XDMAD_SetCallback( sXdmad *pXdmad,
+           uint32_t dwChannel,
+           XdmadTransferCallback fCallback,
+           void* pArg );
+
+extern eXdmadRC XDMAD_StopTransfer( sXdmad *pXdmad, uint32_t dwChannel );
+# 110 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcid.h" 1
+# 66 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcid.h"
+#define MCID_H 
+# 88 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcid.h"
+#define MCID_IDLE 0
+#define MCID_LOCKED 1
+#define MCID_CMD 2
+#define MCID_ERROR 3
+
+
+#define MCI_INITIAL_SPEED 400000
+# 111 "C:\\SAMV71x\\hal\\libchip_samv7/include/mcid.h"
+typedef struct _Mcid
+{
+
+ Hsmci *pMciHw;
+
+ sXdmad *pXdmad;
+
+ void *pCmd;
+
+ uint32_t dwMck;
+
+ uint32_t dwDmaCh;
+
+ uint32_t dwXfrNdx;
+
+ uint32_t dwXSize;
+
+ uint8_t bID;
+
+ uint8_t bPolling;
+
+ uint8_t reserved;
+
+ volatile uint8_t bState;
+} sMcid;
+
+
+
+
+
+
+
+extern void MCID_Init(sMcid * pMcid,
+       Hsmci * pMci, uint8_t bID, uint32_t dwMck,
+       sXdmad * pXdmad,
+       uint8_t bPolling);
+
+extern void MCID_Reset(sMcid * pMcid);
+
+extern void MCID_SetSlot(Hsmci *pMci, uint8_t slot);
+
+extern uint32_t MCID_Lock(sMcid * pMcid, uint8_t bSlot);
+
+extern uint32_t MCID_Release(sMcid * pMcid);
+
+extern void MCID_Handler(sMcid * pMcid);
+
+extern uint32_t MCID_SendCmd(sMcid * pMcid, void * pCmd);
+
+extern uint32_t MCID_CancelCmd(sMcid * pMcid);
+
+extern uint32_t MCID_IsCmdCompleted(sMcid * pMcid);
+
+extern uint32_t MCID_IOCtrl(sMcid * pMcid,uint32_t bCtl,uint32_t param);
+# 111 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/twid.h" 1
+# 31 "C:\\SAMV71x\\hal\\libchip_samv7/include/twid.h"
+#define _TWID_ 
+# 46 "C:\\SAMV71x\\hal\\libchip_samv7/include/twid.h"
+#define TWID_ERROR_BUSY 1
+
+
+#define ASYNC_STATUS_PENDING 0xFF
+# 62 "C:\\SAMV71x\\hal\\libchip_samv7/include/twid.h"
+typedef struct _Async
+{
+
+ volatile uint32_t status ;
+
+ void *callback ;
+
+ uint8_t pStorage[9] ;
+} Async ;
+
+
+typedef struct _Twid
+{
+
+ Twihs *pTwi ;
+
+ Async *pTransfer ;
+} Twid;
+
+
+typedef struct
+{
+ uint8_t Twi_id;
+
+ Twid *pTwid ;
+
+ sXdmad *pTwiDma;
+} TwihsDma;
+
+
+
+
+extern void TWID_Initialize( Twid *pTwid, Twihs *pTwi ) ;
+extern void TWID_DmaInitialize(TwihsDma *pTwidma, Twihs *pTwi, uint8_t bPolling);
+
+extern void TWID_Handler( Twid *pTwid ) ;
+
+extern uint32_t ASYNC_IsFinished( Async* pAsync ) ;
+
+extern uint8_t TWID_Read(
+ Twid *pTwid,
+ uint8_t address,
+ uint32_t iaddress,
+ uint8_t isize,
+ uint8_t *pData,
+ uint32_t num,
+ Async *pAsync);
+
+extern uint8_t TWID_Write(
+ Twid *pTwid,
+ uint8_t address,
+ uint32_t iaddress,
+ uint8_t isize,
+ uint8_t *pData,
+ uint32_t num,
+ Async *pAsync);
+
+extern uint8_t TWID_DmaRead(
+ TwihsDma *pTwiXdma,
+ uint8_t address,
+ uint32_t iaddress,
+ uint8_t isize,
+ uint8_t *pData,
+ uint32_t num,
+ Async *pAsync);
+
+extern uint8_t TWID_DmaWrite(
+ TwihsDma *pTwiXdma,
+ uint8_t address,
+ uint32_t iaddress,
+ uint8_t isize,
+ uint8_t *pData,
+ uint32_t num,
+ Async *pAsync);
+# 112 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi_dma.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi_dma.h"
+#define _SPI_DMA_ 
+# 51 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi_dma.h"
+#define SPID_ERROR 1
+
+
+#define SPID_ERROR_LOCK 2
+
+
+
+
+
+
+
+#define SPID_CSR_SCBR(mck,spck) SPI_CSR_SCBR((mck) / (spck))
+
+
+
+#define SPID_CSR_DLYBS(mck,delay) SPI_CSR_DLYBS((((delay) * ((mck) / 1000000)) / 1000) + 1)
+
+
+
+
+#define SPID_CSR_DLYBCT(mck,delay) SPI_CSR_DLYBCT((((delay) / 32 * ((mck) / 1000000)) / 1000) + 1)
+# 83 "C:\\SAMV71x\\hal\\libchip_samv7/include/spi_dma.h"
+typedef void (*SpidCallback)( uint8_t, void* ) ;
+
+
+
+
+
+
+typedef struct _SpidCmd
+{
+
+ uint8_t *pTxBuff;
+
+ uint8_t TxSize;
+
+ uint8_t *pRxBuff;
+
+ uint16_t RxSize;
+
+ uint8_t spiCs;
+
+ SpidCallback callback;
+
+ void *pArgument;
+} SpidCmd ;
+
+
+
+typedef struct _Spid
+{
+
+ Spi* pSpiHw ;
+
+ SpidCmd *pCurrentCommand ;
+
+ sXdmad* pXdmad;
+
+ uint8_t spiId ;
+
+ volatile int8_t semaphore ;
+} Spid ;
+
+
+
+
+
+extern uint32_t SPID_Configure( Spid* pSpid,
+        Spi* pSpiHw,
+        uint8_t spiId,
+        uint32_t SpiMode,
+        sXdmad* pXdmad ) ;
+
+extern void SPID_ConfigureCS( Spid* pSpid, uint32_t dwCS, uint32_t dwCsr ) ;
+
+extern uint32_t SPID_SendCommand( Spid* pSpid, SpidCmd* pCommand ) ;
+
+extern void SPID_Handler( Spid* pSpid ) ;
+
+extern void SPID_DmaHandler( Spid *pSpid );
+
+extern uint32_t SPID_IsBusy( const Spid* pSpid ) ;
+# 113 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi_dma.h" 1
+# 39 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi_dma.h"
+#define QSPI_DMA_H 
+# 53 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi_dma.h"
+#define QSPID_ERROR 1
+
+
+#define QSPID_ERROR_LOCK 2
+
+#define QSPID_CH_NOT_ENABLED 0xFF
+
+
+
+
+
+typedef void (*QspidCallback)( uint8_t, void* ) ;
+
+
+
+typedef struct _Qspid
+{
+ Qspid_t Qspid;
+
+ sXdmad* pXdmad;
+
+ uint8_t Polling ;
+
+ uint8_t TxChNum ;
+
+ uint8_t RxChNum ;
+
+ volatile uint8_t progress ;
+} QspiDma_t ;
+# 90 "C:\\SAMV71x\\hal\\libchip_samv7/include/qspi_dma.h"
+uint32_t QSPID_Configure( QspiDma_t *pQspidma, QspiMode_t Mode,
+  uint32_t dwConfiguration, sXdmad* pXdmad);
+
+uint32_t QSPID_EnableQspiRxChannel(QspiDma_t *pQspidma);
+
+uint32_t QSPID_EnableQspiTxChannel(QspiDma_t *pQspidma);
+
+uint32_t QSPID_DisableQspiRxChannel(QspiDma_t *pQspidma);
+
+uint32_t QSPID_DisableQspiTxChannel(QspiDma_t *pQspidma);
+
+uint32_t QSPID_DisableSpiChannel(QspiDma_t *pQspidma);
+
+uint32_t QSPID_EnableSpiChannel(QspiDma_t *pQspidma);
+
+uint32_t QSPID_ReadWriteQSPI( QspiDma_t *pQspidma, Access_t const ReadWrite);
+
+uint32_t QSPID_ReadWriteSPI(QspiDma_t *pQspidma, Access_t const ReadWrite);
+
+uint32_t QSPID_IsBusy( volatile uint8_t *QspiSemaphore) ;
+# 114 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart_dma.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart_dma.h"
+#define _UART_DMA_ 
+# 51 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart_dma.h"
+#define UARTD_ERROR 1
+
+
+#define UARTD_ERROR_LOCK 2
+# 66 "C:\\SAMV71x\\hal\\libchip_samv7/include/uart_dma.h"
+typedef void (*UartdCallback)( uint8_t, void* ) ;
+
+
+
+
+
+
+typedef struct
+{
+
+ uint8_t *pBuff;
+
+ uint32_t BuffSize;
+
+ uint32_t ChNum;
+
+ UartdCallback callback;
+
+ void *pArgument;
+
+ volatile uint8_t sempaphore;
+
+ LinkedListDescriporView1 *pLLIview;
+
+ eXdmadProgState dmaProgrammingMode;
+
+ uint16_t dmaBlockSize;
+
+ uint8_t dmaRingBuffer;
+} UartChannel ;
+
+
+
+typedef struct
+{
+
+ uint8_t uartId ;
+
+ sXdmad* pXdmad;
+
+ Uart* pUartHw ;
+
+ UartChannel *pRxChannel ;
+
+ UartChannel *pTxChannel ;
+} UartDma;
+
+
+
+
+
+uint32_t UARTD_Configure( UartDma *pUartd ,
+         uint8_t uartId,
+         uint32_t uartMode,
+         uint32_t baud,
+         uint32_t clk );
+
+uint32_t UARTD_EnableTxChannels( UartDma *pUartd, UartChannel *pTxCh);
+
+uint32_t UARTD_EnableRxChannels( UartDma *pUartd, UartChannel *pRxCh);
+
+uint32_t UARTD_DisableTxChannels( UartDma *pUartd, UartChannel *pTxCh);
+
+uint32_t UARTD_DisableRxChannels( UartDma *pUartd, UartChannel *pRxCh);
+
+uint32_t UARTD_SendData( UartDma* pUartd ) ;
+
+uint32_t UARTD_RcvData( UartDma *pUartd);
+# 115 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart_dma.h" 1
+# 38 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart_dma.h"
+#define _USART_DMA_H_ 
+# 51 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart_dma.h"
+#define USARTD_ERROR 1
+
+
+#define USARTD_ERROR_LOCK 2
+# 66 "C:\\SAMV71x\\hal\\libchip_samv7/include/usart_dma.h"
+typedef void (*UsartdCallback)( uint8_t, void* ) ;
+
+
+
+
+
+
+typedef struct
+{
+
+ uint8_t *pBuff;
+
+ uint32_t BuffSize;
+
+ uint8_t ChNum;
+
+ UsartdCallback callback;
+
+ void *pArgument;
+
+ volatile uint8_t dmaProgress;
+
+ LinkedListDescriporView1 *pLLIview;
+
+ eXdmadProgState dmaProgrammingMode;
+
+ uint16_t dmaBlockSize;
+
+ uint8_t dmaRingBuffer;
+} UsartChannel ;
+
+
+
+typedef struct
+{
+
+ uint8_t usartId ;
+
+ Usart* pUsartHw ;
+
+ UsartChannel *pRxChannel ;
+
+ UsartChannel *pTxChannel ;
+
+ sXdmad* pXdmad;
+} UsartDma;
+
+
+
+
+
+uint32_t USARTD_Configure( UsartDma *pUsartd ,
+         uint8_t USARTId,
+         uint32_t UsartMode,
+         uint32_t BaudRate,
+         uint32_t UsartClk);
+
+uint32_t USARTD_EnableTxChannels( UsartDma *pUsartd, UsartChannel *pTxCh);
+
+uint32_t USARTD_EnableRxChannels( UsartDma *pUsartd, UsartChannel *pRxCh);
+
+uint32_t USARTD_DisableTxChannels( UsartDma *pUsartd, UsartChannel *pTxCh);
+
+uint32_t USARTD_DisableRxChannels( UsartDma *pUsartd, UsartChannel *pTxCh);
+
+uint32_t USARTD_SendData( UsartDma* pUsartd ) ;
+
+uint32_t USARTD_RcvData( UsartDma *pUsartd);
+# 116 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/afe_dma.h" 1
+# 50 "C:\\SAMV71x\\hal\\libchip_samv7/include/afe_dma.h"
+#define _AFE_DMA_ 
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/include/afe_dma.h"
+typedef void (*AfeCallback)( uint8_t, void* ) ;
+
+
+
+
+
+
+typedef struct
+{
+
+ uint32_t *pRxBuff;
+
+ uint16_t RxSize;
+
+ AfeCallback callback;
+
+ void *pArgument;
+} AfeCmd ;
+
+
+
+
+typedef struct
+{
+
+ Afec* pAfeHw ;
+
+ AfeCmd *pCurrentCommand ;
+
+ sXdmad* pXdmad;
+
+ uint8_t afeId ;
+
+ volatile int8_t semaphore ;
+} AfeDma;
+
+
+
+
+
+#define AFE_OK 0
+#define AFE_ERROR 1
+#define AFE_ERROR_LOCK 2
+
+
+
+extern uint32_t Afe_ConfigureDma( AfeDma *pAfed ,
+         Afec *pAfeHw ,
+         uint8_t AfeId,
+         sXdmad *pXdmad );
+extern uint32_t Afe_SendData( AfeDma *pAfed, AfeCmd *pCommand);
+# 118 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/dac_dma.h" 1
+# 47 "C:\\SAMV71x\\hal\\libchip_samv7/include/dac_dma.h"
+#define _DAC_DMA_ 
+
+
+
+
+
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 1 3
+# 11 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+#undef assert
+
+
+
+
+#define assert(__e) ((__e) ? (void)0 : __assert_func (__FILE__, __LINE__, __ASSERT_FUNC, #__e))
+# 39 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\assert.h" 3
+void __assert (const char *, int, const char *) __attribute__ ((__noreturn__))
+                                 ;
+void __assert_func (const char *, int, const char *, const char *) __attribute__ ((__noreturn__))
+                                 ;
+# 56 "C:\\SAMV71x\\hal\\libchip_samv7/include/dac_dma.h" 2
+# 68 "C:\\SAMV71x\\hal\\libchip_samv7/include/dac_dma.h"
+typedef void (*DacCallback)( uint8_t, void* ) ;
+
+
+
+
+
+
+typedef struct
+{
+
+ uint8_t *pTxBuff;
+
+ uint16_t TxSize;
+
+ uint16_t loopback;
+
+ uint8_t dacChannel;
+
+ DacCallback callback;
+
+ void *pArgument;
+} DacCmd ;
+
+
+
+
+typedef struct
+{
+
+ Dacc* pDacHw ;
+
+ DacCmd *pCurrentCommand ;
+
+ sXdmad* pXdmad ;
+
+ uint8_t dacId ;
+
+ volatile int8_t semaphore ;
+} DacDma;
+
+
+
+
+
+#define DAC_OK 0
+#define DAC_ERROR 1
+#define DAC_ERROR_LOCK 2
+
+#define DACC_CHANNEL_0 0
+#define DACC_CHANNEL_1 1
+
+
+
+
+extern uint32_t Dac_ConfigureDma( DacDma *pDacd ,
+         Dacc *pDacHw ,
+         uint8_t DacId,
+         sXdmad *pXdmad );
+extern uint32_t Dac_SendData( DacDma *pDacd, DacCmd *pCommand);
+
+
+
+
+
+#define DACC_SoftReset(pDACC) ((pDACC)->DACC_CR = DACC_CR_SWRST)
+#define DACC_CfgModeReg(pDACC,mode) { (pDACC)->DACC_MR = (mode); }
+#define DACC_GetModeReg(pDACC) ((pDACC)->DACC_MR)
+#define DACC_CfgTrigger(pDACC,mode) { (pDACC)->DACC_TRIGR = (mode); }
+
+#define DACC_EnableChannel(pDACC,channel) {(pDACC)->DACC_CHER = (1 << (channel));}
+#define DACC_DisableChannel(pDACC,channel) {(pDACC)->DACC_CHDR = (1 << (channel));}
+
+#define DACC_EnableIt(pDACC,mode) {(pDACC)->DACC_IER = (mode);}
+#define DACC_DisableIt(pDACC,mode) {(pDACC)->DACC_IDR = (mode);}
+#define DACC_GetStatus(pDACC) ((pDACC)->DACC_ISR)
+#define DACC_GetChannelStatus(pDACC) ((pDACC)->DACC_CHSR)
+#define DACC_GetInterruptMaskStatus(pDACC) ((pDACC)->DACC_IMR)
+# 119 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h" 1
+# 33 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+#define USBHS_H 
+
+
+
+
+#define USB_DEVICE_HS_SUPPORT 
+
+
+#define USB_DEVICE_EP_CTRL_SIZE 64
+
+
+#define CHIP_USB_UDP 
+
+
+#define CHIP_USB_PULLUP_INTERNAL 
+
+
+#define CHIP_USB_NUMENDPOINTS 10
+
+
+#define CHIP_USB_ENDPOINTS_MAXPACKETSIZE(ep) ((ep == 0) ? 64 : 1024)
+
+
+
+#define CHIP_USB_ENDPOINTS_BANKS(ep) ((ep==0)?1:((ep<=2)?3:2))
+
+
+#define CHIP_USB_ENDPOINTS_HBW(ep) ((((ep)>=1) &&((ep)<=2))?true:false)
+
+
+#define CHIP_USB_ENDPOINTS_DMA(ep) ((((ep)>=1)&&((ep)<=7))?true:false)
+
+
+#define DMA_MAX_FIFO_SIZE (65536/1)
+
+#define EPT_VIRTUAL_SIZE 16384
+
+
+
+
+
+
+#define uhd_get_pipe_max_nbr() (9)
+#define USBHS_EPT_NUM (uhd_get_pipe_max_nbr()+1)
+
+#define uhd_get_pipe_bank_max_nbr(ep) ((ep == 0) ? 1 : (( ep <= 2) ? 3 : 2))
+
+#define uhd_get_pipe_size_max(ep) (((ep) == 0) ? 64 : 1024)
+
+#define Is_uhd_pipe_dma_supported(ep) ((((ep) >= 1) && ((ep) <= 6)) ? true : false)
+
+#define Is_uhd_pipe_high_bw_supported(ep) (((ep) >= 2) ? true : false)
+
+
+typedef enum
+{
+  HOST_MODE= 0,
+  DEVICE_MODE=1
+}USB_Mode_t;
+
+
+#define UHD_PIPE_MAX_TRANS 0x8000
+# 107 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_FreezeClock(Usbhs *pUsbhs)
+{
+ pUsbhs->USBHS_CTRL |= (0x1u << 14);
+}
+
+
+
+
+
+
+static inline void USBHS_UnFreezeClock(Usbhs *pUsbhs)
+{
+  pUsbhs->USBHS_CTRL &= ~((uint32_t)(0x1u << 14));
+}
+
+
+
+
+
+static inline void USBHS_VBusHWC(Usbhs *pUsbhs, uint8_t Enable)
+{
+
+    if(!Enable) {
+        pUsbhs->USBHS_CTRL |= (1<<8);
+    } else {
+        pUsbhs->USBHS_CTRL &= ~((uint32_t)(1<<8));
+    }
+}
+
+
+
+
+
+
+
+static inline void USBHS_UsbEnable(Usbhs *pUsbhs, uint8_t Enable)
+{
+ if(Enable) {
+  pUsbhs->USBHS_CTRL |= (0x1u << 15);
+ } else {
+  pUsbhs->USBHS_CTRL &= ~((uint32_t)(0x1u << 15));
+ }
+}
+# 158 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_UsbMode(Usbhs *pUsbhs, USB_Mode_t Mode)
+{
+ if(Mode) {
+  pUsbhs->USBHS_CTRL |= (0x1u << 25);
+ } else {
+  pUsbhs->USBHS_CTRL &= ~((uint32_t)(0x1u << 25));
+ }
+}
+# 175 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline uint8_t USBHS_ISUsableClock(Usbhs *pUsbhs)
+{
+ return (( pUsbhs->USBHS_SR & (0x1u << 14)) >> 14);
+}
+# 187 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline uint32_t USBHS_ReadStatus(Usbhs *pUsbhs)
+{
+ return (pUsbhs->USBHS_SR);
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_GetUsbSpeed(Usbhs *pUsbhs)
+{
+ return ( (pUsbhs->USBHS_SR & (0x3u << 12)) );
+}
+# 210 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline _Bool USBHS_IsUsbFullSpeed(Usbhs *pUsbhs)
+{
+  return ( (pUsbhs->USBHS_SR & (0x3u << 12)) == (0x0u << 12)) ? 1:0;
+}
+# 222 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline _Bool USBHS_IsUsbHighSpeed(Usbhs *pUsbhs)
+{
+    return ( (pUsbhs->USBHS_SR & (0x3u << 12)) == (0x1u << 12)) ? 1:0;
+}
+
+
+
+
+
+
+
+static inline _Bool USBHS_IsUsbLowSpeed(Usbhs *pUsbhs)
+{
+    return ( (pUsbhs->USBHS_SR & (0x3u << 12)) == (0x2u << 12)) ? 1:0;
+}
+# 245 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_Ack(Usbhs *pUsbhs, uint32_t AckType)
+{
+ pUsbhs->USBHS_SCR |= AckType;
+}
+# 258 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_Set(Usbhs *pUsbhs, uint32_t SetStatus)
+{
+ pUsbhs->USBHS_SFR |= SetStatus;
+}
+# 274 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_EnableAddress(Usbhs *pUsbhs, uint8_t Enable)
+{
+ if(Enable) {
+  pUsbhs->USBHS_DEVCTRL |= (0x1u << 7);
+ } else {
+  pUsbhs->USBHS_DEVCTRL &= ~((uint32_t)(0x1u << 7));
+ }
+}
+
+
+
+
+
+
+
+static inline void USBHS_SetAddress(Usbhs *pUsbhs, uint8_t Addr)
+{
+ pUsbhs->USBHS_DEVCTRL |= (((0x7fu << 0) & ((Addr) << 0)));
+ pUsbhs->USBHS_DEVCTRL |= (0x1u << 7);
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_GetAddress(Usbhs *pUsbhs)
+{
+ return ( pUsbhs->USBHS_DEVCTRL & (0x7fu << 0));
+}
+
+
+
+
+
+
+
+static inline void USBHS_DetachUsb(Usbhs *pUsbhs, uint8_t Enable)
+{
+ if(Enable) {
+  pUsbhs->USBHS_DEVCTRL |= (0x1u << 8);
+ } else {
+  pUsbhs->USBHS_DEVCTRL &= ~((uint32_t)(0x1u << 8));
+ }
+
+}
+
+
+
+
+
+
+
+static inline void USBHS_ForceLowSpeed(Usbhs *pUsbhs, uint8_t Enable)
+{
+ if(Enable) {
+  pUsbhs->USBHS_DEVCTRL |= (0x1u << 12);
+ } else {
+  pUsbhs->USBHS_DEVCTRL &= ~((uint32_t)(0x1u << 12));
+ }
+}
+
+
+
+
+
+
+
+static inline void USBHS_EnableHighSpeed(Usbhs *pUsbhs, uint8_t Enable)
+{
+ uint32_t cfg = pUsbhs->USBHS_DEVCTRL;
+ cfg &= ~((uint32_t)(0x3u << 10));
+ if(Enable) {
+  pUsbhs->USBHS_DEVCTRL |= cfg;
+ } else {
+  pUsbhs->USBHS_DEVCTRL |= (cfg | (0x3u << 10));
+ }
+
+}
+
+
+
+
+
+
+static inline void USBHS_SetRemoteWakeUp(Usbhs *pUsbhs)
+{
+ pUsbhs->USBHS_DEVCTRL |= (0x1u << 9);
+}
+
+
+
+
+
+
+
+static inline void USBHS_EnableTestMode(Usbhs *pUsbhs, uint32_t mode)
+{
+ pUsbhs->USBHS_DEVCTRL |= mode;
+}
+
+
+
+
+
+
+
+static inline void USBHS_EnableHSTestMode(Usbhs *pUsbhs)
+{
+ pUsbhs->USBHS_DEVCTRL |= (0x2u << 10);
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_ReadIntStatus(Usbhs *pUsbhs, uint32_t IntType)
+{
+ return (pUsbhs->USBHS_DEVISR & IntType);
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_ReadEpIntStatus(Usbhs *pUsbhs, uint8_t EpNum)
+{
+ return (pUsbhs->USBHS_DEVISR & ( (0x1u << 12) << EpNum) );
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_ReadDmaIntStatus(Usbhs *pUsbhs, uint8_t DmaNum)
+{
+ return (pUsbhs->USBHS_DEVISR & ( (0x1u << 25) << DmaNum) );
+}
+
+
+
+
+
+
+
+static inline void USBHS_AckInt(Usbhs *pUsbhs, uint32_t IntType)
+{
+ pUsbhs->USBHS_DEVICR |= IntType;
+}
+# 436 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_RaiseInt(Usbhs *pUsbhs, uint32_t IntType)
+{
+ pUsbhs->USBHS_DEVIFR |= IntType;
+}
+
+
+
+
+
+
+static inline void USBHS_RaiseDmaInt(Usbhs *pUsbhs, uint8_t Dma)
+{
+ ((Dma< 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 448, __FUNCTION__, "Dma< USBHSDEVDMA_NUMBER"));
+ pUsbhs->USBHS_DEVIFR |= ( (0x1u << 25) << Dma );
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_IsIntEnable(Usbhs *pUsbhs, uint32_t IntType)
+{
+ return (pUsbhs->USBHS_DEVIMR & IntType);
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_IsIntEnableEP(Usbhs *pUsbhs, uint8_t EpNum)
+{
+ return (pUsbhs->USBHS_DEVIMR & ((0x1u << 12) << EpNum ));
+}
+# 482 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline uint32_t USBHS_IsDmaIntEnable(Usbhs *pUsbhs, uint8_t DmaNum)
+{
+ return (pUsbhs->USBHS_DEVIMR & ((0x1u << 25) << DmaNum));
+}
+
+
+
+
+
+
+
+static inline void USBHS_EnableInt(Usbhs *pUsbhs, uint32_t IntType)
+{
+ pUsbhs->USBHS_DEVIER |= IntType;
+}
+
+
+
+
+
+
+static inline void USBHS_EnableIntEP(Usbhs *pUsbhs, uint8_t EpNum)
+{
+ pUsbhs->USBHS_DEVIER |= ((0x1u << 12) << EpNum);
+}
+
+
+
+
+
+
+
+static inline void USBHS_EnableDMAIntEP(Usbhs *pUsbhs, uint32_t DmaEp)
+{
+ ((DmaEp< 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 516, __FUNCTION__, "DmaEp< USBHSDEVDMA_NUMBER"));
+ pUsbhs->USBHS_DEVIER |= ((0x1u << 25) << DmaEp);
+}
+
+
+
+
+
+
+
+static inline void USBHS_DisableInt(Usbhs *pUsbhs, uint32_t IntType)
+{
+ pUsbhs->USBHS_DEVIDR |= IntType;
+}
+
+
+
+
+
+
+
+static inline void USBHS_DisableIntEP(Usbhs *pUsbhs, uint8_t Ep)
+{
+ pUsbhs->USBHS_DEVIDR |= ((0x1u << 12) << Ep);
+}
+
+
+
+
+
+
+static inline void USBHS_DisableDMAIntEP(Usbhs *pUsbhs, uint8_t DmaEp)
+{
+ ((DmaEp< 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 549, __FUNCTION__, "DmaEp< USBHSDEVDMA_NUMBER"));
+ pUsbhs->USBHS_DEVIDR |= ((0x1u << 25) << DmaEp);
+}
+# 560 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_EnableEP(Usbhs *pUsbhs, uint8_t Ep, uint8_t Enable)
+{
+ if(Enable) {
+  pUsbhs->USBHS_DEVEPT |= ((0x1u << 0) << Ep);
+ } else {
+  pUsbhs->USBHS_DEVEPT &= ~(uint32_t)((0x1u << 0) << Ep);
+ }
+
+}
+# 577 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_ResetEP(Usbhs *pUsbhs, uint8_t Ep)
+{
+ pUsbhs->USBHS_DEVEPT |= ((0x1u << 16) << Ep);
+
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_IsEPEnabled(Usbhs *pUsbhs, uint8_t Ep)
+{
+ return (pUsbhs->USBHS_DEVEPT & ((0x1u << 0) << Ep) );
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_GetMicroFrameNum(Usbhs *pUsbhs)
+{
+ return (pUsbhs->USBHS_DEVFNUM & (0x7u << 0));
+}
+
+
+
+
+
+
+
+static inline uint8_t USBHS_GetFrameNum(Usbhs *pUsbhs)
+{
+ return ( (pUsbhs->USBHS_DEVFNUM & (0x7ffu << 3))
+   >> 3);
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_GetFrameNumCrcErr(Usbhs *pUsbhs)
+{
+ return ( (pUsbhs->USBHS_DEVFNUM & (0x1u << 15)) >> 15);
+}
+# 634 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_ConfigureEPs(Usbhs *pUsbhs, const uint8_t Ep,
+  const uint8_t Type, const uint8_t Dir,
+  const uint8_t Size, const uint8_t Bank)
+{
+
+ pUsbhs->USBHS_DEVEPTCFG[Ep] |=
+  ((Size << 4) & (0x7u << 4));
+ pUsbhs->USBHS_DEVEPTCFG[Ep] |=
+  ((Dir << 8 ) & (0x1u << 8));
+ pUsbhs->USBHS_DEVEPTCFG[Ep] |=
+  (( (Type) << 11) & (0x3u << 11));
+ pUsbhs->USBHS_DEVEPTCFG[Ep] |=
+  (( (Bank) << 2) & (0x3u << 2));
+}
+
+
+
+
+
+static inline void USBHS_AutoSwitchBankEnable(Usbhs *pUsbhs, uint8_t Ep, uint8_t Enable)
+{
+ if(Enable) {
+  pUsbhs->USBHS_DEVEPTCFG[Ep] |=(0x1u << 9);
+ } else {
+  pUsbhs->USBHS_DEVEPTCFG[Ep] &= ~((uint32_t)(0x1u << 9));
+ }
+}
+
+
+
+
+
+static inline void USBHS_AllocateMemory(Usbhs *pUsbhs, uint8_t Ep)
+{
+ pUsbhs->USBHS_DEVEPTCFG[Ep] |=(0x1u << 1);
+}
+
+
+
+
+
+static inline void USBHS_FreeMemory(Usbhs *pUsbhs, uint8_t Ep)
+{
+ pUsbhs->USBHS_DEVEPTCFG[Ep] &= ~((uint32_t)(0x1u << 1));
+}
+
+
+
+
+
+static inline uint32_t USBHS_GetConfigureEPs(Usbhs *pUsbhs, uint8_t Ep,
+            uint32_t IntType)
+{
+ return ((pUsbhs->USBHS_DEVEPTCFG[Ep] ) & IntType);
+}
+
+
+
+
+static inline uint8_t USBHS_GetEpType(Usbhs *pUsbhs, uint8_t Ep)
+{
+ return ((pUsbhs->USBHS_DEVEPTCFG[Ep] & (0x3u << 11))
+   >> 11);
+}
+
+
+
+
+static inline uint32_t USBHS_GetEpSize(Usbhs *pUsbhs, uint8_t Ep)
+{
+ return ( 8 << ( (pUsbhs->USBHS_DEVEPTCFG[Ep] & (0x7u << 4))
+   >> 4) );
+}
+
+
+
+
+
+static inline void USBHS_SetIsoTrans(Usbhs *pUsbhs, uint8_t Ep,
+  uint8_t nbTrans)
+{
+ pUsbhs->USBHS_DEVEPTCFG[Ep] |= (((0x3u << 13) & ((nbTrans) << 13))) ;
+}
+
+
+
+
+static inline uint32_t USBHS_IsEpIntEnable(Usbhs *pUsbhs, uint8_t Ep,
+  uint32_t EpIntType)
+{
+ return (pUsbhs->USBHS_DEVEPTIMR[Ep] & EpIntType);
+}
+
+
+
+
+
+static inline void USBHS_EnableEPIntType(Usbhs *pUsbhs, uint8_t Ep,
+  uint32_t EpInt)
+{
+ pUsbhs->USBHS_DEVEPTIER[Ep] |= EpInt;
+}
+
+
+
+
+static inline uint32_t USBHS_IsBankKilled(Usbhs *pUsbhs, uint8_t Ep)
+{
+ return (pUsbhs->USBHS_DEVEPTIMR[Ep] & (0x1u << 13));
+}
+
+
+
+
+static inline void USBHS_KillBank(Usbhs *pUsbhs, uint8_t Ep)
+{
+ pUsbhs->USBHS_DEVEPTIER[Ep] = (0x1u << 13);
+}
+
+
+
+static inline void USBHS_DisableEPIntType(Usbhs *pUsbhs, uint8_t Ep,
+  uint32_t EpInt)
+{
+ pUsbhs->USBHS_DEVEPTIDR[Ep] |= EpInt;
+}
+
+
+
+
+static inline void USBHS_AckEpInterrupt(Usbhs *pUsbhs, uint8_t Ep, uint32_t EpInt)
+{
+ pUsbhs->USBHS_DEVEPTICR[Ep] |= EpInt;
+}
+
+
+
+
+static inline void USBHS_RaiseEPInt(Usbhs *pUsbhs, uint8_t Ep, uint32_t EpInt)
+{
+ pUsbhs->USBHS_DEVEPTIFR[Ep] |= EpInt;
+}
+
+
+
+
+static inline uint32_t USBHS_ReadEPStatus(Usbhs *pUsbhs, uint8_t Ep,
+  uint32_t EpInt)
+{
+ return (pUsbhs->USBHS_DEVEPTISR[Ep] & EpInt);
+}
+
+
+
+
+static inline uint8_t USBHS_IsBankFree(Usbhs *pUsbhs, uint8_t Ep)
+{
+ if( (pUsbhs->USBHS_DEVEPTISR[Ep] & (0x3u << 12))) {
+  return 0;
+ } else {
+  return 1;
+ }
+}
+
+
+
+
+static inline uint8_t USBHS_NumOfBanksInUse(Usbhs *pUsbhs, uint8_t Ep)
+{
+ return ( (pUsbhs->USBHS_DEVEPTISR[Ep] & (0x3u << 12))
+  >> 12);
+}
+
+
+
+
+
+static inline uint16_t USBHS_ByteCount(Usbhs *pUsbhs, uint8_t Ep)
+{
+ return (uint16_t)( (pUsbhs->USBHS_DEVEPTISR[Ep] & (0x7ffu << 20))
+  >> 20);
+}
+# 826 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_SetDmaNDA(UsbhsDevdma *pUsbDma, uint32_t Desc)
+{
+ pUsbDma->USBHS_DEVDMANXTDSC = Desc;
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_GetDmaNDA(UsbhsDevdma *pUsbDma)
+{
+ return (pUsbDma->USBHS_DEVDMANXTDSC);
+}
+
+
+
+
+
+
+static inline void USBHS_SetDmaBuffAdd(UsbhsDevdma *pUsbDma, uint32_t Addr)
+{
+ pUsbDma->USBHS_DEVDMAADDRESS = Addr;
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_GetDmaBuffAdd(UsbhsDevdma *pUsbDma)
+{
+ return (pUsbDma->USBHS_DEVDMAADDRESS);
+}
+
+
+
+
+
+
+static inline void USBHS_ConfigureDma(UsbhsDevdma *pUsbDma, uint32_t Cfg)
+{
+ pUsbDma->USBHS_DEVDMACONTROL |= Cfg;
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_GetDmaConfiguration(UsbhsDevdma *pUsbDma)
+{
+ return (pUsbDma->USBHS_DEVDMACONTROL);
+}
+
+
+
+
+
+
+
+static inline void USBHS_SetDmaStatus(UsbhsDevdma *pUsbDma, uint32_t Status)
+{
+ pUsbDma->USBHS_DEVDMASTATUS = Status;
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_GetDmaStatus(UsbhsDevdma *pUsbDma)
+{
+ return (pUsbDma->USBHS_DEVDMASTATUS);
+}
+
+
+
+
+
+
+
+static inline uint16_t USBHS_GetDmaBuffCount(UsbhsDevdma *pUsbDma)
+{
+ return ( (pUsbDma->USBHS_DEVDMASTATUS & (0xffffu << 16))
+  >> 16);
+}
+
+
+
+
+
+
+
+#define CHIP_USB_NUMPIPE 10
+
+#define CHIP_USB_DMA_NUMPIPE 7
+
+
+#define CHIP_USB_PIPE_MAXPACKETSIZE(ep) ((ep == 0) ? 64 : 1024)
+
+
+
+#define CHIP_USB_PIPE_BANKS(ep) ((ep==0)?1:((ep<=2)?3:2))
+
+
+#define CHIP_USB_PIPE_HBW(ep) ((((ep)>=1) &&((ep)<=2))?true:false)
+
+
+#define CHIP_USB_PIPE_DMA(ep) ((((ep)>=1)&&((ep)<=7))?true:false)
+
+
+
+
+
+static inline void USBHS_SetHostHighSpeed(Usbhs *pUsbhs)
+{
+   pUsbhs->USBHS_HSTCTRL |= (0x0u << 12);
+}
+
+
+
+
+
+static inline void USBHS_SetHostLowSpeed(Usbhs *pUsbhs)
+{
+   pUsbhs->USBHS_HSTCTRL |= (0x1u << 12);
+}
+
+
+
+
+
+static inline void USBHS_SetHostForcedFullSpeed(Usbhs *pUsbhs)
+{
+   pUsbhs->USBHS_HSTCTRL |= (0x3u << 12);
+}
+
+
+
+
+
+static inline void USBHS_Reset(void)
+{
+   ((Usbhs *)0x40038000U)->USBHS_HSTCTRL |= (0x1u << 9);
+}
+
+
+
+
+
+static inline void USBHS_StopReset(void)
+{
+   ((Usbhs *)0x40038000U)->USBHS_HSTCTRL &= ~(0x1u << 9);
+}
+
+
+
+
+
+static inline void USBHS_Resume(void)
+{
+   ((Usbhs *)0x40038000U)->USBHS_HSTCTRL |= (0x1u << 10);
+}
+
+
+
+
+
+static inline void USBHS_EnableSOF(Usbhs *pUsbhs)
+{
+   pUsbhs->USBHS_HSTCTRL |= (0x1u << 8);
+}
+
+
+
+
+
+static inline uint8_t USBHS_IsEnableSOF(Usbhs *pUsbhs)
+{
+    return (pUsbhs->USBHS_HSTCTRL & (0x1u << 8)) >> 8;
+}
+
+
+
+
+static inline void USBHS_DisableSOF(void)
+{
+   ((Usbhs *)0x40038000U)->USBHS_HSTCTRL &= ~(0x1u << 8);
+}
+
+
+
+
+
+static inline uint32_t USBHS_GetHostStatus(Usbhs *pUsbhs, uint8_t IntType)
+{
+   return (pUsbhs->USBHS_HSTISR & IntType);
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_GetHostPipeStatus(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+   ((PipeInt < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1035, __FUNCTION__, "PipeInt < CHIP_USB_NUMPIPE"));
+   return (pUsbhs->USBHS_HSTISR & ( (0x1u << 8) << PipeInt) );
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_GetHostDmaPipeStatus(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1046, __FUNCTION__, "PipeInt"));
+    ((PipeInt < 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1047, __FUNCTION__, "PipeInt < CHIP_USB_DMA_NUMPIPE"));
+    return (pUsbhs->USBHS_HSTISR & ( (0x1u << 25) << PipeInt) );
+}
+
+
+
+
+
+static inline void USBHS_ClearHostStatus(Usbhs *pUsbhs, uint32_t IntType)
+{
+    pUsbhs->USBHS_HSTICR = IntType;
+}
+
+
+
+
+
+static inline void USBHS_SetHostStatus(Usbhs *pUsbhs, uint32_t IntType)
+{
+    pUsbhs->USBHS_HSTIFR = IntType;
+}
+
+
+
+
+
+static inline void USBHS_SetHostDmaStatus(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1075, __FUNCTION__, "PipeInt"));
+    ((PipeInt < 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1076, __FUNCTION__, "PipeInt < CHIP_USB_DMA_NUMPIPE"));
+    pUsbhs->USBHS_HSTIFR = ((0x1u << 25) << PipeInt) ;
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_IsHostIntEnable(Usbhs *pUsbhs, uint8_t IntType)
+{
+    return (pUsbhs->USBHS_HSTIMR & IntType) ;
+}
+
+
+
+
+
+static inline uint32_t USBHS_IsHostPipeIntEnable(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1096, __FUNCTION__, "PipeInt < CHIP_USB_NUMPIPE"));
+    return ( pUsbhs->USBHS_HSTIMR & ((0x1u << 8) << PipeInt) );
+}
+
+
+
+
+
+static inline uint32_t USBHS_IsHostDmaIntEnable(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1106, __FUNCTION__, "PipeInt"));
+    ((PipeInt < 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1107, __FUNCTION__, "PipeInt < CHIP_USB_DMA_NUMPIPE"));
+    return ( pUsbhs->USBHS_HSTIMR & ((0x1u << 25) << PipeInt) );
+}
+
+
+
+
+
+
+static inline void USBHS_HostIntDisable(Usbhs *pUsbhs, uint32_t IntType)
+{
+    pUsbhs->USBHS_HSTIDR = IntType ;
+}
+
+
+
+
+
+static inline void USBHS_HostPipeIntDisable(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1127, __FUNCTION__, "PipeInt < CHIP_USB_NUMPIPE"));
+    pUsbhs->USBHS_HSTIDR = ((0x1u << 8) << PipeInt);
+}
+
+
+
+
+
+static inline void USBHS_HostDmaIntDisable(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1137, __FUNCTION__, "PipeInt"));
+    ((PipeInt < 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1138, __FUNCTION__, "PipeInt < CHIP_USB_DMA_NUMPIPE"));
+    pUsbhs->USBHS_HSTIDR = ((0x1u << 25) << PipeInt) ;
+}
+
+
+
+
+
+
+
+static inline void USBHS_HostIntEnable(Usbhs *pUsbhs, uint32_t IntType)
+{
+    pUsbhs->USBHS_HSTIER = IntType ;
+}
+
+
+
+
+
+static inline void USBHS_HostPipeIntEnable(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+     ((PipeInt < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1159, __FUNCTION__, "PipeInt < CHIP_USB_NUMPIPE"));
+     pUsbhs->USBHS_HSTIER =((0x1u << 8) << PipeInt) ;
+}
+
+
+
+
+
+static inline void USBHS_HostDmaIntEnable(Usbhs *pUsbhs, uint8_t PipeInt)
+{
+    ((PipeInt < 7) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1169, __FUNCTION__, "PipeInt < CHIP_USB_DMA_NUMPIPE"));
+    pUsbhs->USBHS_HSTIER |= ((0x1u << 25) << PipeInt);
+}
+
+
+
+
+
+static inline uint16_t USBHS_HostGetSOF(void)
+{
+   return ( (((Usbhs *)0x40038000U)->USBHS_HSTFNUM & (0x7ffu << 3)) >> 3);
+}
+
+
+
+
+
+static inline uint16_t USBHS_HostGetFramePos(void)
+{
+   return ( (((Usbhs *)0x40038000U)->USBHS_HSTFNUM & (0xffu << 16)) >> 16);
+}
+
+
+
+
+
+
+static inline uint16_t USBHS_HostGetMSOF(void)
+{
+   return ( (((Usbhs *)0x40038000U)->USBHS_HSTFNUM & (0x7u << 0)) >> 0);
+}
+
+static inline void USBHS_HostSetAddr(Usbhs *pUsbhs, uint8_t Pipe, uint8_t Addr)
+{
+  ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1203, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+  if (Pipe <4)
+  {
+    pUsbhs->USBHS_HSTADDR1 |= (Addr << (8*Pipe));
+  }
+  else if( (Pipe <8) && (Pipe >=4))
+  {
+    pUsbhs->USBHS_HSTADDR2 |= (Addr << (8* (Pipe -4)));
+  }
+  else
+  {
+    pUsbhs->USBHS_HSTADDR3 |= (Addr << (8*(Pipe -8)));
+  }
+
+}
+
+static inline uint8_t USBHS_HostGetAddr(Usbhs *pUsbhs, uint8_t Pipe)
+{
+  ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1221, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+  if (Pipe <4)
+  {
+    return ( pUsbhs->USBHS_HSTADDR1 >> (8*Pipe)) ;
+  }
+  else if( (Pipe <8) && (Pipe >=4))
+  {
+    return (pUsbhs->USBHS_HSTADDR2 >> (8*(Pipe -4)));
+  }
+  else
+  {
+    return (pUsbhs->USBHS_HSTADDR3 >> (8*(Pipe -8)));
+  }
+
+}
+
+
+
+
+
+static inline void USBHS_HostPipeEnable(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1243, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+    pUsbhs->USBHS_HSTPIP |= ((0x1u << 0) << Pipe);
+}
+
+
+
+
+
+static inline void USBHS_HostPipeDisable(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1253, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+    pUsbhs->USBHS_HSTPIP &= ~((0x1u << 0) << Pipe);
+}
+
+
+
+
+
+static inline uint32_t USBHS_IsHostPipeEnable(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1263, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+    return (pUsbhs->USBHS_HSTPIP &((0x1u << 0) << Pipe));
+}
+
+
+
+
+static inline void USBHS_HostPipeReset(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1272, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+    pUsbhs->USBHS_HSTPIP |= ((0x1u << 16) << Pipe);
+    pUsbhs->USBHS_HSTPIP &= ~((0x1u << 16) << Pipe);
+}
+
+
+
+
+
+static inline void USBHS_HostConfigure(Usbhs *pUsbhs, uint8_t Pipe, uint32_t pipeBank, uint8_t pipeSize, uint32_t pipeType, uint32_t pipeToken, uint8_t pipeEpNum, uint8_t PipeIntFreq)
+{
+    ((Pipe < 10) ? (void)0 : __assert_func ("C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h", 1283, __FUNCTION__, "Pipe < CHIP_USB_NUMPIPE"));
+    pUsbhs->USBHS_HSTPIPCFG[Pipe] |= ( pipeBank | pipeToken | (((0x7u << 4) & ((pipeSize) << 4))) | pipeType | (((0xfu << 16) & ((pipeEpNum) << 16))) | (((0xffu << 24) & ((PipeIntFreq) << 24))));
+}
+
+
+
+
+
+static inline void USBHS_HostAllocMem(Usbhs *pUsbhs, uint8_t Pipe)
+{
+  pUsbhs->USBHS_HSTPIPCFG[Pipe] |= (0x1u << 1);
+
+}
+
+
+
+
+
+static inline void USBHS_HostFreeMem(Usbhs *pUsbhs, uint8_t Pipe)
+{
+  pUsbhs->USBHS_HSTPIPCFG[Pipe] &= ~(0x1u << 1);
+
+}
+
+
+
+
+
+
+static inline uint16_t USBHS_HostGetSize(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return (8 << ((pUsbhs->USBHS_HSTPIPCFG[Pipe] & (0x7u << 4)) >> 4)) ;
+
+}
+
+
+
+
+
+static inline void USBHS_HostSetToken(Usbhs *pUsbhs, uint8_t Pipe, uint32_t Token)
+{
+    pUsbhs->USBHS_HSTPIPCFG[Pipe] &= ~(0x3u << 8);
+    pUsbhs->USBHS_HSTPIPCFG[Pipe] |= Token;
+
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_HostGetToken(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return (pUsbhs->USBHS_HSTPIPCFG[Pipe] & (0x3u << 8)) ;
+
+}
+
+
+
+
+
+
+static inline void USBHS_HostSetPipeType(Usbhs *pUsbhs, uint8_t Pipe, uint8_t PipeType)
+{
+    pUsbhs->USBHS_HSTPIPCFG[Pipe] &= ~(0x3u << 12) ;
+    pUsbhs->USBHS_HSTPIPCFG[Pipe] |= PipeType ;
+
+}
+
+
+
+
+
+static inline uint32_t USBHS_HostGetPipeType(Usbhs *pUsbhs, uint8_t Pipe )
+{
+    return (pUsbhs->USBHS_HSTPIPCFG[Pipe] & (0x3u << 12)) ;
+
+}
+
+static inline uint8_t USBHS_GetPipeEpAddr(Usbhs *pUsbhs, uint8_t Pipe)
+{
+
+   if( USBHS_HostGetToken(((Usbhs *)0x40038000U), Pipe) == (0x1u << 8))
+   {
+     return ( ((pUsbhs->USBHS_HSTPIPCFG[Pipe] & (0xfu << 16)) >> 16) | 0x80);
+   }
+   else
+   {
+     return ( ((pUsbhs->USBHS_HSTPIPCFG[Pipe] & (0xfu << 16)) >> 16) | 0x00) ;
+   }
+}
+
+
+
+
+
+
+
+static inline void USBHS_HostEnableAutoSw(Usbhs *pUsbhs, uint8_t Pipe)
+{
+  pUsbhs->USBHS_HSTPIPCFG[Pipe] |= (0x1u << 10);
+}
+
+
+
+
+
+static inline void USBHS_HostDisableAutoSw(Usbhs *pUsbhs, uint8_t Pipe)
+{
+  pUsbhs->USBHS_HSTPIPCFG[Pipe] &= ~(0x1u << 10);
+}
+
+
+
+
+
+static inline void USBHS_HostSetIntFreq(Usbhs *pUsbhs, uint8_t Pipe, uint8_t Freq)
+{
+  pUsbhs->USBHS_HSTPIPCFG[Pipe] |= (((0xffu << 24) & ((Freq) << 24)));
+}
+
+
+
+
+
+
+static inline void USBHS_HostEnablePing(Usbhs *pUsbhs, uint8_t Pipe)
+{
+  pUsbhs->USBHS_HSTPIPCFG[Pipe] |= (0x1u << 20);
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_HostGetDataTogSeq(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return ( (pUsbhs->USBHS_HSTPIPISR[Pipe] & (0x3u << 8)) >> 8 ) ;
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_HostGetNumOfBusyBank(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return ( (pUsbhs->USBHS_HSTPIPISR[Pipe] & (0x3u << 12)) >> 12 ) ;
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_HostGetCurrentBank(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return ( (pUsbhs->USBHS_HSTPIPISR[Pipe] & (0x3u << 14)) >> 14 ) ;
+}
+
+
+
+
+
+
+static inline uint8_t USBHS_HostGetPipeByteCount(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return ( (pUsbhs->USBHS_HSTPIPISR[Pipe] & (0x7ffu << 20)) >> 20 ) ;
+}
+
+
+
+
+
+static inline uint32_t USBHS_IsHostConfigOk(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return (pUsbhs->USBHS_HSTPIPISR[Pipe] & (0x1u << 18));
+}
+
+
+
+
+
+static inline uint32_t USBHS_HostGetIntTypeStatus(Usbhs *pUsbhs, uint8_t Pipe, uint32_t intType)
+{
+    return (pUsbhs->USBHS_HSTPIPISR[Pipe] & intType);
+}
+
+
+
+
+
+static inline void USBHS_HostAckPipeIntType(Usbhs *pUsbhs, uint8_t Pipe, uint32_t intType)
+{
+    pUsbhs->USBHS_HSTPIPICR[Pipe] = intType;
+}
+
+
+
+
+
+static inline void USBHS_HostSetPipeIntType(Usbhs *pUsbhs, uint8_t Pipe, uint32_t intType)
+{
+    pUsbhs->USBHS_HSTPIPIFR[Pipe] = intType;
+}
+
+
+
+
+
+static inline uint32_t USBHS_IsHostPipeIntTypeEnable(Usbhs *pUsbhs, uint8_t Pipe, uint32_t intType)
+{
+    return ( pUsbhs->USBHS_HSTPIPIMR[Pipe] & intType);
+}
+
+
+
+
+
+static inline void USBHS_HostDisablePipeIntType(Usbhs *pUsbhs, uint8_t Pipe, uint32_t intType)
+{
+    pUsbhs->USBHS_HSTPIPIDR[Pipe] = intType;
+}
+
+
+
+
+
+static inline void USBHS_HostEnablePipeIntType(Usbhs *pUsbhs, uint8_t Pipe, uint32_t intType)
+{
+    pUsbhs->USBHS_HSTPIPIER[Pipe] = intType;
+}
+
+
+
+
+
+static inline void USBHS_HostEnableInReq(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    pUsbhs->USBHS_HSTPIPINRQ[Pipe] |= (0x1u << 8);
+}
+
+
+
+
+
+static inline void USBHS_HostDisableInReq(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    pUsbhs->USBHS_HSTPIPINRQ[Pipe] &= ~(0x1u << 8);
+}
+
+
+
+
+
+static inline uint8_t USBHS_IsHostInReqEnable(Usbhs *pUsbhs, uint8_t Pipe)
+{
+    return ((pUsbhs->USBHS_HSTPIPINRQ[Pipe] & (0x1u << 8)) >> 8);
+}
+
+
+
+
+
+static inline void USBHS_HostInReq(Usbhs *pUsbhs, uint8_t Pipe, uint8_t InReq)
+{
+    pUsbhs->USBHS_HSTPIPINRQ[Pipe] = (((0xffu << 0) & ((InReq-1) << 0)));
+}
+
+
+
+
+
+
+static inline void USBHS_HostSetErr(Usbhs *pUsbhs, uint8_t Pipe, uint8_t Err)
+{
+    pUsbhs->USBHS_HSTPIPERR[Pipe] |= Err;
+}
+
+
+
+
+
+static inline uint8_t USBHS_HostGetErr(Usbhs *pUsbhs, uint8_t Pipe, uint8_t Err)
+{
+    return (pUsbhs->USBHS_HSTPIPERR[Pipe] & Err);
+}
+
+
+
+
+
+
+static inline void USBHS_HostClearErr(Usbhs *pUsbhs, uint8_t Pipe, uint8_t Err)
+{
+    pUsbhs->USBHS_HSTPIPERR[Pipe] = Err;
+}
+
+
+static inline uint8_t USBHS_GetInterruptPipeNum(void)
+{
+ uint32_t status = ((Usbhs *)0x40038000U)->USBHS_HSTISR;
+ uint32_t mask = ((Usbhs *)0x40038000U)->USBHS_HSTIMR;
+ return ((((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 0) ? 0 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 1) ? 1 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 2) ? 2 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 3) ? 3 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 4) ? 4 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 5) ? 5 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 6) ? 6 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 7) ? 7 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 8) ? 8 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 9) ? 9 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 10) ? 10 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 11) ? 11 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 12) ? 12 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 13) ? 13 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 14) ? 14 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 15) ? 15 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 16) ? 16 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 17) ? 17 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 18) ? 18 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 19) ? 19 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 20) ? 20 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 21) ? 21 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 22) ? 22 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 23) ? 23 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 24) ? 24 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 25) ? 25 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 26) ? 26 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 27) ? 27 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 28) ? 28 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 29) ? 29 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 30) ? 30 : (((status & mask) >> 8) | (1 << ((9)+1))) & (1ul << 31) ? 31 : 32);
+}
+
+static inline uint8_t USBHS_GetInterruptPipeDmaNum(void)
+{
+ uint32_t status = ((Usbhs *)0x40038000U)->USBHS_HSTISR;
+ uint32_t mask = ((Usbhs *)0x40038000U)->USBHS_HSTIMR;
+ return (((((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 0) ? 0 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 1) ? 1 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 2) ? 2 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 3) ? 3 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 4) ? 4 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 5) ? 5 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 6) ? 6 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 7) ? 7 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 8) ? 8 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 9) ? 9 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 10) ? 10 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 11) ? 11 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 12) ? 12 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 13) ? 13 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 14) ? 14 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 15) ? 15 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 16) ? 16 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 17) ? 17 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 18) ? 18 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 19) ? 19 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 20) ? 20 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 21) ? 21 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 22) ? 22 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 23) ? 23 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 24) ? 24 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 25) ? 25 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 26) ? 26 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 27) ? 27 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 28) ? 28 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 29) ? 29 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 30) ? 30 : (((status & mask) >> 25) | (1 << (((9)+1)-1))) & (1ul << 31) ? 31 : 32) + 1);
+}
+# 1605 "C:\\SAMV71x\\hal\\libchip_samv7/include/usbhs.h"
+static inline void USBHS_SetHostDmaNDA(UsbhsHstdma *pUsbDma, uint32_t Desc)
+{
+  pUsbDma->USBHS_HSTDMANXTDSC = Desc;
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_GetHostDmaNDA(UsbhsHstdma *pUsbDma)
+{
+   return (pUsbDma->USBHS_HSTDMANXTDSC);
+}
+
+
+
+
+
+
+static inline void USBHS_SetHostDmaBuffAdd(UsbhsHstdma *pUsbDma, uint32_t Addr)
+{
+  pUsbDma->USBHS_HSTDMAADDRESS = Addr;
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_GetHostDmaBuffAdd(UsbhsHstdma *pUsbDma)
+{
+   return (pUsbDma->USBHS_HSTDMAADDRESS);
+}
+
+
+
+
+
+
+static inline void USBHS_HostConfigureDma(UsbhsHstdma *pUsbDma, uint32_t Cfg)
+{
+  pUsbDma->USBHS_HSTDMACONTROL |= Cfg;
+}
+
+
+
+
+
+
+static inline uint32_t USBHS_GetHostDmaConfiguration(UsbhsHstdma *pUsbDma)
+{
+   return (pUsbDma->USBHS_HSTDMACONTROL);
+}
+
+
+
+
+
+
+
+static inline void USBHS_SetHostPipeDmaStatus(UsbhsHstdma *pUsbDma, uint32_t Status)
+{
+  pUsbDma->USBHS_HSTDMASTATUS = Status;
+}
+
+
+
+
+
+
+
+static inline uint32_t USBHS_GetHostPipeDmaStatus(UsbhsHstdma *pUsbDma)
+{
+   return (pUsbDma->USBHS_HSTDMASTATUS);
+}
+# 120 "C:\\SAMV71x\\hal\\libchip_samv7/chip.h" 2
+
+#define ENABLE_PERIPHERAL(dwId) PMC_EnablePeripheral( dwId )
+#define DISABLE_PERIPHERAL(dwId) PMC_DisablePeripheral( dwId )
+# 84 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/board_lowlevel.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/board_lowlevel.h"
+#define BOARD_LOWLEVEL_H 
+
+
+
+
+extern void LowLevelInit( void );
+extern void _SetupMemoryRegion( void );
+# 86 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/board_memories.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/board_memories.h"
+#define BOARD_MEMORIES_H 
+
+
+
+
+
+extern void BOARD_ConfigureSdram( void );
+extern uint32_t BOARD_SdramValidation(uint32_t baseAddr, uint32_t size);
+# 87 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/led.h" 1
+# 55 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/led.h"
+#define _LED_ 
+
+
+
+
+
+
+
+extern uint32_t LED_Configure( uint32_t dwLed );
+
+extern uint32_t LED_Set( uint32_t dwLed );
+
+extern uint32_t LED_Clear( uint32_t dwLed );
+
+extern uint32_t LED_Toggle( uint32_t dwLed );
+# 88 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/gmii.h" 1
+# 31 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/gmii.h"
+#define _GMII_DEFINE_H 
+
+
+
+
+
+
+
+#define GMII_BMCR 0x0
+#define GMII_BMSR 0x1
+#define GMII_PHYID1R 0x2
+#define GMII_PHYID2R 0x3
+#define GMII_ANAR 0x4
+#define GMII_ANLPAR 0x5
+#define GMII_ANER 0x6
+#define GMII_ANNPR 0x7
+#define GMII_ANLPNPAR 0x8
+#define GMII_AFEC0R 0x11
+#define GMII_AFEC3R 0x14
+#define GMII_RXERCR 0x15
+#define GMII_OMSSR 0x17
+#define GMII_ECR 0x18
+#define GMII_ICSR 0x1B
+#define GMII_FC 0x1C
+#define GMII_LCSR 0x1D
+#define GMII_PC1R 0x1E
+#define GMII_PC2R 0x1F
+
+
+#define GMII_LSB_MASK 0x0U
+
+#define GMII_OUI_MSB 0x0022
+
+#define GMII_OUI_LSB 0x1572
+
+
+
+#define GMII_RESET (1 << 15)
+#define GMII_LOOPBACK (1 << 14)
+#define GMII_SPEED_SELECT_LSB (1 << 13)
+#define GMII_AUTONEG (1 << 12)
+#define GMII_POWER_DOWN (1 << 11)
+#define GMII_ISOLATE (1 << 10)
+#define GMII_RESTART_AUTONEG (1 << 9)
+#define GMII_DUPLEX_MODE (1 << 8)
+
+#define GMII_SPEED_SELECT_MSB (1 << 6)
+
+
+
+
+
+#define GMII_100BASE_T4 (1 << 15)
+#define GMII_100BASE_TX_FD (1 << 14)
+#define GMII_100BASE_T4_HD (1 << 13)
+#define GMII_10BASE_T_FD (1 << 12)
+#define GMII_10BASE_T_HD (1 << 11)
+
+#define GMII_EXTEND_STATUS (1 << 8)
+
+#define GMII_MF_PREAMB_SUPPR (1 << 6)
+#define GMII_AUTONEG_COMP (1 << 5)
+#define GMII_REMOTE_FAULT (1 << 4)
+#define GMII_AUTONEG_ABILITY (1 << 3)
+#define GMII_LINK_STATUS (1 << 2)
+#define GMII_JABBER_DETECT (1 << 1)
+#define GMII_EXTEND_CAPAB (1 << 0)
+
+
+
+
+#define GMII_NP (1 << 15)
+
+#define GMII_RF (1 << 13)
+
+#define GMII_PAUSE_MASK (3 << 11)
+
+#define GMII_T4 (1 << 9)
+#define GMII_TX_FDX (1 << 8)
+#define GMII_TX_HDX (1 << 7)
+#define GMII_10_FDX (1 << 6)
+#define GMII_10_HDX (1 << 5)
+
+#define GMII_AN_IEEE_802_3 0x00001
+# 89 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/gmacb_phy.h" 1
+# 55 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/gmacb_phy.h"
+#define _GMACB_PHY_H 
+
+
+
+
+
+
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 1
+# 63 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/gmacb_phy.h" 2
+
+
+
+
+
+
+#define GMACB_RESET_LENGTH 0xD
+
+
+
+
+
+
+
+typedef struct _GMacb {
+
+    sGmacd *pGmacd;
+
+    uint32_t retryMax;
+
+    uint8_t phyAddress;
+  } GMacb;
+
+
+
+
+extern void GMACB_SetupTimeout(GMacb *pMacb, uint32_t toMax);
+
+extern void GMACB_Init(GMacb *pMacb, sGmacd *pGmacd, uint8_t phyAddress);
+
+extern uint8_t GMACB_InitPhy(
+    GMacb *pMacb,
+    uint32_t mck,
+    const Pin *pResetPins,
+    uint32_t nbResetPins,
+    const Pin *pEmacPins,
+    uint32_t nbEmacPins);
+
+extern uint8_t GMACB_AutoNegotiate(GMacb *pMacb);
+
+extern uint8_t GMACB_GetLinkSpeed(GMacb *pMacb, uint8_t applySettings);
+
+extern uint8_t GMACB_Send(GMacb *pMacb, void *pBuffer, uint32_t size);
+
+extern uint32_t GMACB_Poll(GMacb *pMacb, uint8_t *pBuffer, uint32_t size);
+
+extern void GMACB_DumpRegisters(GMacb *pMacb);
+
+extern uint8_t GMACB_ResetPhy(GMacb *pMacb);
+# 90 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/dbg_console.h" 1
+# 37 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/dbg_console.h"
+#define _DBG_CONSOLE_ 
+
+
+
+extern void DBG_Configure( uint32_t dwBaudrate, uint32_t dwMasterClock ) ;
+extern void DBG_PutChar( uint8_t uc ) ;
+extern uint32_t DBG_GetChar( void ) ;
+extern uint32_t DBG_IsRxReady( void ) ;
+
+
+extern void DBG_DumpFrame( uint8_t* pucFrame, uint32_t dwSize ) ;
+extern void DBG_DumpMemory( uint8_t* pucBuffer, uint32_t dwSize, uint32_t dwAddress ) ;
+extern uint32_t DBG_GetInteger( int32_t* pdwValue ) ;
+extern uint32_t DBG_GetIntegerMinMax( int32_t* pdwValue, int32_t dwMin, int32_t dwMax ) ;
+extern uint32_t DBG_GetHexa32( uint32_t* pdwValue ) ;
+# 91 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/bmp.h" 1
+# 39 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/bmp.h"
+#define BMP_H 
+
+
+#define BMP_TYPE 0x4D42
+
+
+#define BITMAPINFOHEADER 40
+
+
+
+
+
+#pragma pack( 1 )
+
+
+typedef struct _BMPHeader{
+
+    uint16_t type;
+
+    uint32_t fileSize;
+
+    uint16_t reserved1;
+
+    uint16_t reserved2;
+
+    uint32_t offset;
+
+    uint32_t headerSize;
+
+    uint32_t width;
+
+    uint32_t height;
+
+    uint16_t planes;
+
+    uint16_t bits;
+
+    uint32_t compression;
+
+    uint32_t imageSize;
+
+    uint32_t xresolution;
+
+    uint32_t yresolution;
+
+    uint32_t ncolours;
+
+    uint32_t importantcolours;
+  } BMPHeader;
+
+#pragma pack()
+
+
+
+
+extern uint8_t BMP_IsValid(void *file);
+extern uint32_t BMP_GetFileSize(void *file);
+
+extern uint8_t BMP_Decode(
+    void *file,
+    uint8_t *buffer,
+    uint32_t width,
+    uint32_t height,
+    uint8_t bpp );
+
+extern void WriteBMPheader(
+     uint32_t *pAddressHeader,
+     uint32_t bmpHSize,
+     uint32_t bmpVSize,
+     uint8_t nbByte_Pixels );
+
+extern void BMP_displayHeader(uint32_t* pAddressHeader);
+extern void RGB565toBGR555(
+    uint8_t *fileSource,
+    uint8_t *fileDestination,
+    uint32_t width,
+    uint32_t height,
+    uint8_t bpp );
+# 92 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcdd.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcdd.h"
+#define LCDD_H 
+
+
+
+
+
+extern void LCDD_Initialize(uint8_t lcdMode, sXdmad * dmad, uint8_t cRotate);
+
+extern void LCDD_On(void);
+
+extern void LCDD_Off(void);
+
+extern void LCDD_SetBacklight (uint32_t step);
+# 93 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488.h"
+#define _ILI9488_H_ 
+# 53 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488.h"
+#define ILI9488_SPIMODE 0
+#define ILI9488_EBIMODE 1
+
+
+#define ILI9488_DEVICE_CODE 0x9488
+
+#define ILI9488_LCD_WIDTH 320
+#define ILI9488_LCD_HEIGHT 480
+#define ILI9488_SELF_TEST_OK 0xC0
+
+
+#define SMC_EBI_LCD_CS 3
+
+
+
+
+typedef enum{
+  AccessInst = 0,
+  AccessRead,
+  AccessWrite
+}AccessIli_t;
+
+typedef union _union_type
+{
+ uint32_t value;
+  struct{
+   uint8_t byte_8;
+   uint8_t byte_l6;
+   uint8_t byte_24;
+   uint8_t byte_32;
+  }byte;
+  struct{
+   uint16_t half_word_l;
+   uint16_t half_word_h;
+   }half_word;
+ }union_type;
+typedef volatile uint8_t REG8;
+
+typedef uint32_t LcdColor_t;
+
+
+
+
+
+#define LCD_DATA_CACHE_SIZE BOARD_LCD_WIDTH
+
+
+
+
+#define get_0b_to_8b(x) (((union_type*)&(x))->byte.byte_8)
+#define get_8b_to_16b(x) (((union_type*)&(x))->byte.byte_l6)
+#define get_16b_to_24b(x) (((union_type*)&(x))->byte.byte_24)
+#define get_24b_to_32b(x) (((union_type*)&(x))->byte.byte_32)
+# 94 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_reg.h" 1
+# 31 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_reg.h"
+#define ILI9488_REG_H_INCLUDED 
+
+
+#define ILI9488_CMD_NOP 0x00
+#define ILI9488_CMD_SOFTWARE_RESET 0x01
+#define ILI9488_CMD_READ_DISP_ID 0x04
+#define ILI9488_CMD_READ_ERROR_DSI 0x05
+#define ILI9488_CMD_READ_DISP_STATUS 0x09
+#define ILI9488_CMD_READ_DISP_POWER_MODE 0x0A
+#define ILI9488_CMD_READ_DISP_MADCTRL 0x0B
+#define ILI9488_CMD_READ_DISP_PIXEL_FORMAT 0x0C
+#define ILI9488_CMD_READ_DISP_IMAGE_MODE 0x0D
+#define ILI9488_CMD_READ_DISP_SIGNAL_MODE 0x0E
+#define ILI9488_CMD_READ_DISP_SELF_DIAGNOSTIC 0x0F
+#define ILI9488_CMD_ENTER_SLEEP_MODE 0x10
+#define ILI9488_CMD_SLEEP_OUT 0x11
+#define ILI9488_CMD_PARTIAL_MODE_ON 0x12
+#define ILI9488_CMD_NORMAL_DISP_MODE_ON 0x13
+#define ILI9488_CMD_DISP_INVERSION_OFF 0x20
+#define ILI9488_CMD_DISP_INVERSION_ON 0x21
+#define ILI9488_CMD_PIXEL_OFF 0x22
+#define ILI9488_CMD_PIXEL_ON 0x23
+#define ILI9488_CMD_DISPLAY_OFF 0x28
+#define ILI9488_CMD_DISPLAY_ON 0x29
+#define ILI9488_CMD_COLUMN_ADDRESS_SET 0x2A
+#define ILI9488_CMD_PAGE_ADDRESS_SET 0x2B
+#define ILI9488_CMD_MEMORY_WRITE 0x2C
+#define ILI9488_CMD_MEMORY_READ 0x2E
+#define ILI9488_CMD_PARTIAL_AREA 0x30
+#define ILI9488_CMD_VERT_SCROLL_DEFINITION 0x33
+#define ILI9488_CMD_TEARING_EFFECT_LINE_OFF 0x34
+#define ILI9488_CMD_TEARING_EFFECT_LINE_ON 0x35
+#define ILI9488_CMD_MEMORY_ACCESS_CONTROL 0x36
+#define ILI9488_CMD_VERT_SCROLL_START_ADDRESS 0x37
+#define ILI9488_CMD_IDLE_MODE_OFF 0x38
+#define ILI9488_CMD_IDLE_MODE_ON 0x39
+#define ILI9488_CMD_COLMOD_PIXEL_FORMAT_SET 0x3A
+#define ILI9488_CMD_WRITE_MEMORY_CONTINUE 0x3C
+#define ILI9488_CMD_READ_MEMORY_CONTINUE 0x3E
+#define ILI9488_CMD_SET_TEAR_SCANLINE 0x44
+#define ILI9488_CMD_GET_SCANLINE 0x45
+#define ILI9488_CMD_WRITE_DISPLAY_BRIGHTNESS 0x51
+#define ILI9488_CMD_READ_DISPLAY_BRIGHTNESS 0x52
+#define ILI9488_CMD_WRITE_CTRL_DISPLAY 0x53
+#define ILI9488_CMD_READ_CTRL_DISPLAY 0x54
+#define ILI9488_CMD_WRITE_CONTENT_ADAPT_BRIGHTNESS 0x55
+#define ILI9488_CMD_READ_CONTENT_ADAPT_BRIGHTNESS 0x56
+#define ILI9488_CMD_WRITE_MIN_CAB_LEVEL 0x5E
+#define ILI9488_CMD_READ_MIN_CAB_LEVEL 0x5F
+#define ILI9488_CMD_READ_ABC_SELF_DIAG_RES 0x68
+#define ILI9488_CMD_READ_ID1 0xDA
+#define ILI9488_CMD_READ_ID2 0xDB
+#define ILI9488_CMD_READ_ID3 0xDC
+
+
+#define ILI9488_CMD_INTERFACE_MODE_CONTROL 0xB0
+#define ILI9488_CMD_FRAME_RATE_CONTROL_NORMAL 0xB1
+#define ILI9488_CMD_FRAME_RATE_CONTROL_IDLE_8COLOR 0xB2
+#define ILI9488_CMD_FRAME_RATE_CONTROL_PARTIAL 0xB3
+#define ILI9488_CMD_DISPLAY_INVERSION_CONTROL 0xB4
+#define ILI9488_CMD_BLANKING_PORCH_CONTROL 0xB5
+#define ILI9488_CMD_DISPLAY_FUNCTION_CONTROL 0xB6
+#define ILI9488_CMD_ENTRY_MODE_SET 0xB7
+#define ILI9488_CMD_BACKLIGHT_CONTROL_1 0xB9
+#define ILI9488_CMD_BACKLIGHT_CONTROL_2 0xBA
+#define ILI9488_CMD_HS_LANES_CONTROL 0xBE
+#define ILI9488_CMD_POWER_CONTROL_1 0xC0
+#define ILI9488_CMD_POWER_CONTROL_2 0xC1
+#define ILI9488_CMD_POWER_CONTROL_NORMAL_3 0xC2
+#define ILI9488_CMD_POWER_CONTROL_IDEL_4 0xC3
+#define ILI9488_CMD_POWER_CONTROL_PARTIAL_5 0xC4
+#define ILI9488_CMD_VCOM_CONTROL_1 0xC5
+#define ILI9488_CMD_CABC_CONTROL_1 0xC6
+#define ILI9488_CMD_CABC_CONTROL_2 0xC8
+#define ILI9488_CMD_CABC_CONTROL_3 0xC9
+#define ILI9488_CMD_CABC_CONTROL_4 0xCA
+#define ILI9488_CMD_CABC_CONTROL_5 0xCB
+#define ILI9488_CMD_CABC_CONTROL_6 0xCC
+#define ILI9488_CMD_CABC_CONTROL_7 0xCD
+#define ILI9488_CMD_CABC_CONTROL_8 0xCE
+#define ILI9488_CMD_CABC_CONTROL_9 0xCF
+#define ILI9488_CMD_NVMEM_WRITE 0xD0
+#define ILI9488_CMD_NVMEM_PROTECTION_KEY 0xD1
+#define ILI9488_CMD_NVMEM_STATUS_READ 0xD2
+#define ILI9488_CMD_READ_ID4 0xD3
+#define ILI9488_CMD_ADJUST_CONTROL_1 0xD7
+#define ILI9488_CMD_READ_ID_VERSION 0xD8
+#define ILI9488_CMD_POSITIVE_GAMMA_CORRECTION 0xE0
+#define ILI9488_CMD_NEGATIVE_GAMMA_CORRECTION 0xE1
+#define ILI9488_CMD_DIGITAL_GAMMA_CONTROL_1 0xE2
+#define ILI9488_CMD_DIGITAL_GAMMA_CONTROL_2 0xE3
+#define ILI9488_CMD_SET_IMAGE_FUNCTION 0xE9
+#define ILI9488_CMD_ADJUST_CONTROL_2 0xF2
+#define ILI9488_CMD_ADJUST_CONTROL_3 0xF7
+#define ILI9488_CMD_ADJUST_CONTROL_4 0xF8
+#define ILI9488_CMD_ADJUST_CONTROL_5 0xF9
+#define ILI9488_CMD_SPI_READ_SETTINGS 0xFB
+#define ILI9488_CMD_ADJUST_CONTROL_6 0xFC
+#define ILI9488_CMD_ADJUST_CONTROL_7 0xFF
+# 95 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_spi.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_spi.h"
+#define _ILI9488_SPI_H_ 
+# 49 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_spi.h"
+extern uint32_t ILI9488_SpiReadChipId (void);
+extern uint32_t ILI9488_SpiInitialize( sXdmad * dmad );
+extern void ILI9488_SpiSetPixelFormat(uint8_t format);
+extern void ILI9488_SpiNop(void);
+extern void ILI9488_SpiWriteMemory(const uint8_t *pBuf, uint32_t size);
+extern void ILI9488_SpiReadMemory( const uint8_t *pBuf, uint32_t size);
+extern void ILI9488_SpiSetCursor(uint16_t x, uint16_t y);
+extern void ILI9488_SpiSetWindow(
+    uint16_t dwX,
+    uint16_t dwY,
+    uint16_t dwWidth,
+    uint16_t dwHeight );
+
+extern void ILI9488_SpiSetFullWindow(void);
+extern void ILI9488_SpiOn(void );
+extern void ILI9488_SpiOff(void );
+extern void ILI9488_SpiSetDisplayLandscape(
+    uint8_t dwRGB, uint8_t LandscaprMode );
+# 96 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_ebi.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_ebi.h"
+#define _ILI9488_EBI_H_ 
+# 51 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_ebi.h"
+extern uint32_t ILI9488_EbiReadChipId (void);
+extern uint32_t ILI9488_EbiInitialize( sXdmad * dmad );
+extern void ILI9488_EbiSetPixelFormat(uint16_t format);
+extern void ILI9488_EbiSetCursor(uint16_t x, uint16_t y);
+extern void ILI9488_EbiSetWindow(
+  uint16_t dwX, uint16_t dwY, uint16_t dwWidth, uint16_t dwHeight );
+extern void ILI9488_EbiSetFullWindow(void);
+extern void ILI9488_EbiOn(void );
+extern void ILI9488_EbiOff(void );
+extern void ILI9488_EbiSetDisplayLandscape( uint8_t dwRGB, uint8_t LandscaprMode );
+# 97 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_dma.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_dma.h"
+#define _ILI9488_DMA_H_ 
+# 51 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_dma.h"
+#define ILI9488_ERROR_DMA_ALLOCATE_CHANNEL 1
+#define ILI9488_ERROR_DMA_CONFIGURE 2
+#define ILI9488_ERROR_DMA_TRANSFER 3
+#define ILI9488_ERROR_DMA_SIZE 4
+
+#define ILI9488_SPI SPI0
+#define ILI9488_SPI_ID ID_SPI0
+
+
+#define ILI9488_BASE_ADDRESS 0x63000000
+
+
+
+
+
+typedef struct _ILI9488_dma
+{
+
+ sXdmad *xdmaD;
+
+ uint32_t ili9488DmaTxChannel;
+
+ uint32_t ili9488DmaRxChannel;
+
+ sXdmadCfg xdmadRxCfg,xdmadTxCfg;
+
+ uint32_t xdmaInt;
+
+ Spi* pSpiHw ;
+
+ uint8_t spiId ;
+}sIli9488Dma;
+
+typedef struct _ILI9488_ctl
+{
+
+ volatile uint32_t cmdOrDataFlag;
+
+ volatile uint32_t rxDoneFlag;
+
+ volatile uint32_t txDoneFlag;
+}sIli9488DmaCtl;
+# 98 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_spi_dma.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_spi_dma.h"
+#define _ILI9488_SPI_DMA_H_ 
+# 50 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_spi_dma.h"
+extern uint8_t ILI9488_SpiInitializeWithDma(sXdmad * dmad);
+extern uint8_t ILI9488_SpiDmaTxTransfer( uint8_t *pTxBuffer, uint32_t wTxSize);
+extern uint8_t ILI9488_SpiDmaRxTransfer( uint32_t *pRxBuffer,uint32_t wRxSize);
+extern uint8_t ILI9488_SpiSendCommand(uint8_t Instr, uint8_t* pTxData,
+  uint32_t* pRxData, AccessIli_t ReadWrite, uint32_t size);
+# 99 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_ebi_dma.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_ebi_dma.h"
+#define _ILI9488_EBI_DMA_H_ 
+# 50 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ili9488_ebi_dma.h"
+extern uint8_t ILI9488_EbiInitializeWithDma(sXdmad * dmad);
+extern uint8_t ILI9488_EbiDmaTxTransfer( uint16_t *pTxBuffer, uint32_t wTxSize);
+extern uint8_t ILI9488_EbiDmaRxTransfer( uint32_t *pRxBuffer,uint32_t wRxSize);
+extern uint8_t ILI9488_EbiSendCommand(uint16_t Instr, uint16_t *pTxData,
+  uint32_t *pRxData, AccessIli_t ReadWrite, uint32_t size);
+# 100 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/frame_buffer.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/frame_buffer.h"
+#define _FRAME_BUFFER_ 
+
+
+
+
+
+extern void FB_SetFrameBuffer(
+    LcdColor_t *pBuffer,
+    uint8_t ucWidth,
+    uint8_t ucHeight);
+
+extern void FB_SetColor(uint32_t color);
+
+extern uint32_t FB_DrawLine (
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2 );
+
+extern uint32_t FB_DrawPixel( uint32_t x, uint32_t y );
+extern uint32_t FB_DrawCircle( uint32_t x, uint32_t y, uint32_t r );
+extern uint32_t FB_DrawFilledCircle(
+    uint32_t dwX,
+    uint32_t dwY,
+    uint32_t dwRadius);
+
+extern uint32_t FB_DrawRectangle(
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2 );
+
+extern uint32_t FB_DrawFilledRectangle(
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2 );
+
+extern uint32_t FB_DrawPicture(
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2,
+    const void *pBuffer );
+# 101 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_color.h" 1
+# 31 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_color.h"
+#define COLOR_H 
+# 46 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_color.h"
+#define COLOR_BLACK 0x000000
+#define COLOR_WHITE 0xFFFFFF
+
+#define COLOR_BLUE 0x0000FF
+#define COLOR_GREEN 0x00FF00
+#define COLOR_RED 0xFF0000
+
+#define COLOR_NAVY 0x000080
+#define COLOR_DARKBLUE 0x00008B
+#define COLOR_DARKGREEN 0x006400
+#define COLOR_DARKCYAN 0x008B8B
+#define COLOR_CYAN 0x00FFFF
+#define COLOR_TURQUOISE 0x40E0D0
+#define COLOR_INDIGO 0x4B0082
+#define COLOR_DARKRED 0x800000
+#define COLOR_OLIVE 0x808000
+#define COLOR_GRAY 0x808080
+#define COLOR_SKYBLUE 0x87CEEB
+#define COLOR_BLUEVIOLET 0x8A2BE2
+#define COLOR_LIGHTGREEN 0x90EE90
+#define COLOR_DARKVIOLET 0x9400D3
+#define COLOR_YELLOWGREEN 0x9ACD32
+#define COLOR_BROWN 0xA52A2A
+#define COLOR_DARKGRAY 0xA9A9A9
+#define COLOR_SIENNA 0xA0522D
+#define COLOR_LIGHTBLUE 0xADD8E6
+#define COLOR_GREENYELLOW 0xADFF2F
+#define COLOR_SILVER 0xC0C0C0
+#define COLOR_LIGHTGREY 0xD3D3D3
+#define COLOR_LIGHTCYAN 0xE0FFFF
+#define COLOR_VIOLET 0xEE82EE
+#define COLOR_AZUR 0xF0FFFF
+#define COLOR_BEIGE 0xF5F5DC
+#define COLOR_MAGENTA 0xFF00FF
+#define COLOR_TOMATO 0xFF6347
+#define COLOR_GOLD 0xFFD700
+#define COLOR_ORANGE 0xFFA500
+#define COLOR_SNOW 0xFFFAFA
+#define COLOR_YELLOW 0xFFFF00
+
+#define BLACK 0x0000
+#define BLUE 0x001F
+#define RED 0xF800
+#define GREEN 0x07E0
+#define WHITE 0xFFFF
+
+
+#define BLUE_LEV(level) ( (level)&BLUE )
+#define GREEN_LEV(level) ( (((level)*2)<<5)&GREEN )
+#define RED_LEV(level) ( ((level)<<(5+6))&RED )
+#define GRAY_LEV(level) ( BLUE_LEV(level) | GREEN_LEV(level) | RED_LEV(level))
+
+#define RGB_24_TO_RGB565(RGB) (((RGB >>19)<<11) | (((RGB & 0x00FC00) >>5)) | (RGB & 0x00001F))
+
+#define RGB_24_TO_18BIT(RGB) (((RGB >>16)&0xFC) | (((RGB & 0x00FF00) >>10) << 10) | (RGB & 0x0000FC)<<16)
+
+#define RGB_16_TO_18BIT(RGB) (((((RGB >>11)*63)/31)<<18) | (RGB & 0x00FC00) | (((RGB & 0x00001F)*63)/31))
+
+#define BGR_TO_RGB_18BIT(RGB) (RGB & 0xFF0000) | ((RGB & 0x00FF00) >> 8 ) | ( (RGB & 0x0000FC) >> 16 ))
+
+#define BGR_16_TO_18BITRGB(RGB) BGR_TO_RGB_18BIT(RGB_16_TO_18BIT(RGB))
+# 102 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h"
+#define DRAW_H 
+
+
+
+
+
+
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_gimp_image.h" 1
+# 31 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_gimp_image.h"
+#define _GIMP_IMAGE_ 
+
+
+
+typedef struct _SGIMPImage{
+ uint32_t dwWidth;
+ uint32_t dwHeight;
+ uint32_t dwBytes_per_pixel;
+ uint8_t* pucPixel_data ;
+} SGIMPImage ;
+# 46 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h" 2
+
+
+
+
+
+
+#define DIRECTION_HLINE 0
+
+#define DIRECTION_VLINE 1
+
+typedef struct _rect{
+ uint32_t x;
+ uint32_t y;
+ uint32_t width;
+ uint32_t height;
+}rect;
+
+
+# 63 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h"
+#pragma pack(1)
+# 63 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h"
+
+typedef struct _rgb{
+ uint8_t b;
+ uint8_t g;
+ uint8_t r;
+}sBGR;
+
+# 69 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h"
+#pragma pack()
+# 69 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_draw.h"
+
+
+
+
+
+extern void LCDD_SetUpdateWindowSize(rect rc);
+
+extern void LCDD_UpdateWindow(void);
+
+extern void LCDD_UpdatePartialWindow( uint8_t* pbuf, uint32_t size);
+
+extern void LCDD_DrawRectangleWithFill(
+    uint16_t* pbuf,
+    uint32_t dwX,
+    uint32_t dwY,
+    uint32_t dwWidth,
+    uint32_t dwHeight,
+    uint32_t dwColor);
+
+extern uint32_t LCDD_DrawCircle(
+    uint16_t* pbuf,
+    uint32_t x,
+    uint32_t y,
+    uint32_t r,
+    uint32_t color);
+
+extern uint32_t LCD_DrawFilledCircle(
+    uint16_t* pbuf,
+    uint32_t dwX,
+    uint32_t dwY,
+    uint32_t dwRadius,
+    uint32_t color);
+
+extern void LCDD_DrawString(
+    uint16_t* pbuf,
+    uint32_t x,
+    uint32_t y,
+    const uint8_t *pString,
+    uint32_t color );
+
+extern void LCDD_GetStringSize(
+    const uint8_t *pString,
+    uint32_t *pWidth,
+    uint32_t *pHeight );
+
+extern void LCDD_BitBlt(
+    uint16_t* pbuf,
+    uint32_t dst_x,
+    uint32_t dst_y,
+    uint32_t dst_w,
+    uint32_t dst_h,
+    const LcdColor_t *src,
+    uint32_t src_x,
+    uint32_t src_y,
+    uint32_t src_w,
+    uint32_t src_h);
+
+extern void LCDD_BitBltAlphaBlend(uint16_t* pbuf,
+        uint32_t dst_x,
+        uint32_t dst_y,
+        uint32_t dst_w,
+        uint32_t dst_h,
+        const LcdColor_t *src,
+        uint32_t src_x,
+        uint32_t src_y,
+        uint32_t src_w,
+        uint32_t src_h,
+        uint32_t alpha);
+extern void LCDD_DrawImage(
+    uint16_t* pbuf,
+    uint32_t dwX,
+    uint32_t dwY,
+    const LcdColor_t *pImage,
+    uint32_t dwWidth,
+    uint32_t dwHeight );
+
+extern void LCDD_DrawPixel(
+    uint16_t* pbuf,
+    uint32_t x,
+    uint32_t y,
+    uint32_t color );
+
+extern void LCDD_DrawLine(
+    uint16_t* pbuf,
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2,
+    uint32_t color);
+
+extern uint32_t LCDD_DrawLineBresenham(
+    uint16_t* pbuf,
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2,
+    uint32_t color);
+
+extern void LCDD_DrawRectangle(
+    uint16_t* pbuf,
+    uint32_t x,
+    uint32_t y,
+    uint32_t width,
+    uint32_t height,
+    uint32_t color);
+
+extern void LCDD_SetCavasBuffer(
+    void* pBuffer,
+    uint32_t wBufferSize);
+
+extern void LCDD_DrawStraightLine(
+    uint16_t* pbuf,
+    uint32_t dwX1,
+    uint32_t dwY1,
+    uint32_t dwX2,
+    uint32_t dwY2 ,
+    uint32_t color );
+# 103 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_font10x14.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_font10x14.h"
+#define _LCD_FONT_10x14_ 
+
+
+
+
+extern const uint8_t pCharset10x14[];
+# 104 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_font.h" 1
+# 58 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_font.h"
+#define _LCD_FONT_ 
+# 74 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_font.h"
+typedef struct _Font {
+
+ uint8_t width;
+
+ uint8_t height;
+} Font;
+
+
+
+
+
+
+extern const Font gFont;
+
+
+
+
+
+extern void LCDD_DrawChar(
+      uint16_t* pCanvasBuffer,
+      uint32_t x,
+      uint32_t y,
+      uint8_t c,
+      uint32_t color );
+
+extern void LCD_DrawString(
+     uint16_t* pCanvasBuffer,
+     uint32_t dwX,
+     uint32_t dwY,
+     const uint8_t *pString,
+     uint32_t color );
+# 105 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/lcd_gimp_image.h" 1
+# 106 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/rtc_calib.h" 1
+# 40 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/rtc_calib.h"
+typedef struct{
+    int8_t Tempr;
+    int16_t PPM;
+    uint8_t NEGPPM;
+    uint8_t HIGHPPM;
+    uint16_t CORRECTION;
+  }RTC_PPMLookup;
+
+
+extern void RTC_ClockCalibration( Rtc* pRtc, int32_t CurrentTempr);
+# 107 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/wm8904.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/wm8904.h"
+#define WM8904_H 
+
+
+
+
+
+
+#define WM8904_CSB_STATE (0x0 << 0)
+
+
+#define WM8904_SLAVE_ADDRESS 0x1a | WM8904_CSB_STATE
+#define CS2100_SLAVE_ADDRESS 0x4E
+
+
+
+#define WM8904_REG_RESET 0x00
+
+
+#define WM8904_REG_BIAS_CTRL0 0x04
+
+
+#define WM8904_REG_VMID_CTRL0 0x05
+
+
+#define WM8904_REG_MICBIAS_CTRL0 0x06
+
+
+#define WM8904_REG_BIAS_CTRL1 0x07
+
+
+#define WM8904_REG_POWER_MANG0 0x0C
+
+#define WM8904_REG_POWER_MANG2 0x0E
+
+#define WM8904_REG_POWER_MANG3 0x0F
+
+#define WM8904_REG_POWER_MANG6 0x12
+
+
+#define WM8904_REG_CLOCK_RATE0 0x14
+
+#define WM8904_REG_CLOCK_RATE1 0x15
+
+
+#define WM8904_REG_CLOCK_RATE2 0x16
+
+
+#define WM8904_REG_AUD_INF0 0x18
+
+
+#define WM8904_REG_AUD_INF1 0x19
+
+#define WM8904_REG_AUD_INF2 0x1A
+
+#define WM8904_REG_AUD_INF3 0x1B
+
+
+#define WM8904_REG_ADC_DIG0 0x20
+
+#define WM8904_REG_ADC_DIG1 0x21
+
+
+#define WM8904_REG_ANALOGUE_LIN0 0x2C
+
+#define WM8904_REG_ANALOGUE_RIN0 0x2D
+
+
+#define WM8904_REG_ANALOGUE_LIN1 0x2E
+
+#define WM8904_REG_ANALOGUE_RIN1 0x2F
+
+
+#define WM8904_REG_ANALOGUE_LOUT1 0x39
+
+#define WM8904_REG_ANALOGUE_ROUT1 0x3A
+
+
+#define WM8904_REG_ANALOGUE_LOUT2 0x3B
+
+#define WM8904_REG_ANALOGUE_ROUT2 0x3C
+
+
+#define WM8904_REG_ANALOGUE_OUT12ZC 0x3D
+
+
+#define WM8904_REG_DC_SERVO0 0x43
+
+
+#define WM8904_REG_ANALOGUE_HP0 0x5A
+
+
+#define WM8904_REG_CHARGE_PUMP0 0x62
+
+
+#define WM8904_REG_CLASS0 0x68
+
+
+#define WM8904_REG_FLL_CRTL1 0x74
+
+#define WM8904_REG_FLL_CRTL2 0x75
+
+#define WM8904_REG_FLL_CRTL3 0x76
+
+#define WM8904_REG_FLL_CRTL4 0x77
+
+#define WM8904_REG_FLL_CRTL5 0x78
+
+
+#define WM8904_REG_END 0xFF
+
+
+
+
+
+extern uint16_t WM8904_Read(Twid *pTwid, uint32_t device, uint32_t regAddr);
+extern void WM8904_Write(Twid *pTwid, uint32_t device, uint32_t regAddr,
+    uint16_t data);
+extern uint8_t WM8904_Init(Twid *pTwid, uint32_t device, uint32_t PCK);
+extern uint8_t WM8904_VolumeSet(Twid *pTwid, uint32_t device, uint16_t value);
+extern void WM8904_IN2R_IN1L(Twid *pTwid, uint32_t device);
+# 108 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/cs2100.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/cs2100.h"
+#define CS2100_H 
+
+
+
+
+
+
+
+#define CS2100_SLAVE_ADDRESS 0x4E
+
+
+#define CS2100_REG_ID 0x01
+
+
+#define CS2100_REG_CTRL 0x02
+
+
+#define CS2100_REG_DEV_CFG1 0x03
+
+
+#define CS2100_REG_CFG 0x05
+
+
+#define CS2100_REG_32_BIT_RATIO_1 0x06
+
+#define CS2100_REG_32_BIT_RATIO_2 0x07
+
+#define CS2100_REG_32_BIT_RATIO_3 0x08
+
+#define CS2100_REG_32_BIT_RATIO_4 0x09
+
+#define CS2100_REG_FUNC_CFG1 0x16
+
+#define CS2100_REG_FUNC_CFG2 0x17
+
+#define CS2100_REG_FUNC_CFG3 0x1E
+
+
+
+
+
+extern uint16_t CS2100_Read(
+    Twid *pTwid,
+    uint32_t device,
+    uint32_t regAddr);
+
+extern void CS2100_Write(
+    Twid *pTwid,
+    uint32_t device,
+    uint32_t regAddr,
+    uint16_t data);
+
+extern uint8_t CS2100_Init(Twid *pTwid, uint32_t device, uint32_t PCK);
+# 109 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/s25fl1.h" 1
+# 38 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/s25fl1.h"
+#define S25FL1_H 
+#define USE_QSPI_DMA 
+
+
+
+
+#define Size(pAt25) ((pAt25)->pDesc->size)
+#define PageSize(pAt25) ((pAt25)->pDesc->pageSize)
+#define BlockSize(pAt25) ((pAt25)->pDesc->blockSize)
+#define Name(pAt25) ((pAt25)->pDesc->name)
+#define ManId(pAt25) (((pAt25)->pDesc->jedecId) & 0xFF)
+#define PageNumber(pAt25) (Size(pAt25) / PageSize(pAt25))
+#define BlockNumber(pAt25) (Size(pAt25) / BlockSize(pAt25))
+#define PagePerBlock(pAt25) (BlockSize(pAt25) / PageSize(pAt25))
+#define BlockEraseCmd(pAt25) ((pAt25)->pDesc->blockEraseCmd)
+
+
+
+
+
+
+#define ERROR_PROTECTED 1
+
+#define ERROR_BUSY 2
+
+#define ERROR_PROGRAM 3
+
+#define ERROR_SPI 4
+
+
+#define STATUS_RDYBSY (1 << 0)
+
+#define STATUS_RDYBSY_READY (0 << 0)
+
+#define STATUS_RDYBSY_BUSY (1 << 0)
+
+#define STATUS_WEL (1 << 1)
+
+#define STATUS_WEL_DISABLED (0 << 1)
+
+#define STATUS_WEL_ENABLED (1 << 1)
+
+#define STATUS_SWP (3 << 2)
+
+#define STATUS_SWP_PROTALL (3 << 2)
+
+#define STATUS_SWP_PROTSOME (1 << 2)
+
+#define STATUS_SWP_PROTNONE (0 << 2)
+
+#define STATUS_WPP (1 << 4)
+
+#define STATUS_WPP_NOTASSERTED (0 << 4)
+
+#define STATUS_WPP_ASSERTED (1 << 4)
+
+#define STATUS_EPE (1 << 5)
+
+#define STATUS_EPE_SUCCESS (0 << 5)
+
+#define STATUS_EPE_ERROR (1 << 5)
+
+#define STATUS_SPRL (1 << 7)
+
+#define STATUS_SPRL_UNLOCKED (0 << 7)
+
+#define STATUS_SPRL_LOCKED (1 << 7)
+
+
+#define STATUS_QUAD_ENABLE (1 << 1)
+
+#define STATUS_WRAP_ENABLE (0 << 4)
+
+
+#define STATUS_LATENCY_CTRL (0xF << 0)
+
+#define STATUS_WRAP_BYTE (1 << 5)
+
+#define BLOCK_PROTECT_Msk (7 << 2)
+
+#define TOP_BTM_PROTECT_Msk (1 << 5)
+
+#define SEC_PROTECT_Msk (1 << 6)
+
+#define CHIP_PROTECT_Msk (0x1F << 2)
+
+
+#define READ_ARRAY 0x0B
+
+#define READ_ARRAY_LF 0x03
+
+#define READ_ARRAY_DUAL 0x3B
+
+#define READ_ARRAY_QUAD 0x6B
+
+#define READ_ARRAY_DUAL_IO 0xBB
+
+#define READ_ARRAY_QUAD_IO 0xEB
+
+#define BLOCK_ERASE_4K 0x20
+
+#define BLOCK_ERASE_32K 0x52
+
+#define BLOCK_ERASE_64K 0xD8
+
+#define CHIP_ERASE_1 0x60
+
+#define CHIP_ERASE_2 0xC7
+
+#define BYTE_PAGE_PROGRAM 0x02
+
+#define SEQUENTIAL_PROGRAM_1 0xAD
+
+#define SEQUENTIAL_PROGRAM_2 0xAF
+
+#define WRITE_ENABLE 0x06
+
+#define WRITE_DISABLE 0x04
+
+#define PROTECT_SECTOR 0x36
+
+#define UNPROTECT_SECTOR 0x39
+
+#define READ_SECTOR_PROT 0x3C
+
+#define READ_STATUS_1 0x05
+
+#define READ_STATUS_2 0x35
+
+#define READ_STATUS_3 0x33
+
+#define WRITE_STATUS 0x01
+
+#define READ_JEDEC_ID 0x9F
+
+#define DEEP_PDOWN 0xB9
+
+#define RES_DEEP_PDOWN 0xAB
+
+#define SOFT_RESET_ENABLE 0x66
+
+#define SOFT_RESET 0x99
+
+#define WRAP_ENABLE 0x77
+
+#define CONT_MODE_RESET 0xFF
+
+
+#define ATMEL_SPI_FLASH 0x1F
+#define ST_SPI_FLASH 0x20
+#define WINBOND_SPI_FLASH 0xEF
+#define MACRONIX_SPI_FLASH 0xC2
+#define SST_SPI_FLASH 0xBF
+
+
+
+
+
+uint32_t S25FL1D_ReadJedecId(void);
+
+void S25FL1D_InitFlashInterface(uint8_t Mode);
+
+void S25FL1D_SoftReset(void);
+
+void S25FL1D_ContReadModeReset(void);
+unsigned char S25FL1D_Unprotect(void);
+
+unsigned char S25FL1D_Protect(uint32_t StartAddr, uint32_t Size);
+
+void S25FL1D_QuadMode(uint8_t Enable);
+
+void S25FL1D_EnableWrap(uint8_t ByetAlign);
+
+void S25FL1D_SetReadLatencyControl(uint8_t Latency);
+
+unsigned char S25FL1D_EraseChip(void);
+
+unsigned char S25FL1D_EraseSector( unsigned int address);
+
+unsigned char S25FL1D_Erase64KBlock( unsigned int address);
+
+unsigned char S25FL1D_Write(
+    uint32_t *pData,
+    uint32_t size,
+    uint32_t address,
+    uint8_t Secure);
+
+extern unsigned char S25FL1D_Read(
+    uint32_t *pData,
+    uint32_t size,
+    uint32_t address);
+
+extern unsigned char S25FL1D_ReadDual(
+    uint32_t *pData,
+    uint32_t size,
+    uint32_t address);
+
+extern unsigned char S25FL1D_ReadQuad(
+    uint32_t *pData,
+    uint32_t size,
+    uint32_t address);
+
+extern unsigned char S25FL1D_ReadDualIO(
+    uint32_t *pData,
+    uint32_t size,
+    uint32_t address,
+    uint8_t ContMode,
+    uint8_t Secure);
+
+extern unsigned char S25FL1D_ReadQuadIO(
+    uint32_t *pData,
+    uint32_t size,
+    uint32_t address,
+    uint8_t ContMode,
+    uint8_t Secure);
+# 110 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/omnivision.h" 1
+# 32 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/omnivision.h"
+#define OMNIVISION_H 
+
+
+
+
+
+
+struct ov_reg
+{
+
+ uint16_t reg;
+
+ uint8_t val;
+};
+
+
+
+
+
+#define OV_2640 0x00
+#define OV_2643 0x01
+#define OV_5640 0x02
+#define OV_7740 0x03
+#define OV_9740 0x04
+#define OV_UNKNOWN 0xFF
+
+
+
+
+extern uint8_t ov_init(Twid *pTwid);
+extern void ov_DumpRegisters8(Twid *pTwid);
+extern void ov_DumpRegisters16(Twid *pTwid);
+extern uint32_t ov_write_regs8(Twid *pTwid, const struct ov_reg* pReglist);
+extern uint32_t ov_write_regs16(Twid *pTwid, const struct ov_reg* pReglist);
+extern uint8_t ov_read_reg8(Twid *pTwid, uint8_t reg, uint8_t *pData);
+extern uint8_t ov_read_reg16(Twid *pTwid, uint16_t reg, uint8_t *pData);
+extern uint8_t ov_write_reg8(Twid *pTwid, uint8_t reg, uint8_t val);
+extern uint8_t ov_write_reg16(Twid *pTwid, uint16_t reg, uint8_t val);
+extern void isOV5640_AF_InitDone(Twid *pTwid);
+extern uint32_t ov_5640_AF_single(Twid *pTwid);
+extern uint32_t ov_5640_AF_continue(Twid *pTwid);
+extern uint32_t ov_5640_AFPause(Twid *pTwid);
+extern uint32_t ov_5640_AFrelease(Twid *pTwid);
+# 111 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ovyuv.h" 1
+# 32 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ovyuv.h"
+#define _YUV_H_ 
+# 44 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ovyuv.h"
+extern const struct ov_reg ov2640_yuv_vga[];
+extern const struct ov_reg ov2640_yuv_qvga[];
+
+extern const struct ov_reg ov2643_yuv_vga[];
+extern const struct ov_reg ov2643_yuv_swvga[];
+extern const struct ov_reg ov2643_yuv_uxga[];
+extern const struct ov_reg ov2643_yuv_qvga[];
+
+extern const struct ov_reg ov5640_yuv_vga[];
+extern const struct ov_reg ov5640_yuv_sxga[];
+extern const struct ov_reg ov5640_afc[];
+
+extern const struct ov_reg OV7740_VGA_YUV422[];
+extern const struct ov_reg OV7740_QVGA_YUV422[];
+extern const struct ov_reg OV7740_QVGA_RGB888[];
+extern const struct ov_reg OV7740_QQVGA_YUV422[];
+extern const struct ov_reg OV7740_QQVGA_RGB888[];
+extern const struct ov_reg OV7740_CIF_YUV422[];
+extern const struct ov_reg OV7740_TEST_PATTERN[];
+
+
+extern const struct ov_reg ov9740_yuv_sxga[];
+extern const struct ov_reg ov9740_yuv_vga[];
+# 112 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ov.h" 1
+# 33 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/ov.h"
+#define OV_H 
+
+
+
+
+
+
+typedef struct {
+ uint32_t width;
+ uint32_t height;
+}capture_size;
+
+extern const capture_size ov_sizes[];
+
+
+
+extern void ov_configure(Twid *pTwid, uint8_t type, uint32_t width, uint32_t heigth);
+extern void ov_5640Afc_Firmware(Twid *pTwid);
+# 113 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 1 "C:\\SAMV71x\\hal\\libchip_samv7/include/iso7816_4.h" 1
+# 55 "C:\\SAMV71x\\hal\\libchip_samv7/include/iso7816_4.h"
+#define ISO7816_4_H 
+# 64 "C:\\SAMV71x\\hal\\libchip_samv7/include/iso7816_4.h"
+#define ATR_SIZE_MAX 55
+
+
+#define ISO_NULL_VAL 0x60
+
+
+
+
+
+extern void ISO7816_Init(
+ Usart *pUsart,
+ uint32_t usartId ,
+ const Pin pPinIso7816RstMC );
+
+extern void ISO7816_IccPowerOff( void );
+
+extern uint16_t ISO7816_XfrBlockTPDU_T0(
+ const uint8_t *pAPDU,
+ uint8_t *pMessage,
+ uint16_t wLength );
+
+extern void ISO7816_Escape( void );
+
+extern void ISO7816_RestartClock( void);
+
+extern void ISO7816_StopClock( void );
+
+extern void ISO7816_toAPDU( void );
+
+extern void ISO7816_Datablock_ATR(
+ uint8_t* pAtr,
+ uint8_t* pLength );
+
+extern void ISO7816_SetDataRateandClockFrequency(
+ uint32_t dwClockFrequency,
+ uint32_t dwDataRate );
+
+extern uint8_t ISO7816_StatusReset( void );
+
+extern void ISO7816_cold_reset( void );
+
+extern void ISO7816_warm_reset( void );
+
+extern void ISO7816_Decode_ATR( uint8_t* pAtr );
+# 114 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+
+
+# 1 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/syscalls.h" 1
+# 43 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/syscalls.h"
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdarg.h" 1 3 4
+# 31 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdarg.h" 3 4
+#define _STDARG_H 
+#define _ANSI_STDARG_H_ 
+
+#undef __need___va_list
+# 47 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdarg.h" 3 4
+#define va_start(v,l) __builtin_va_start(v,l)
+#define va_end(v) __builtin_va_end(v)
+#define va_arg(v,l) __builtin_va_arg(v,l)
+
+#define va_copy(d,s) __builtin_va_copy(d,s)
+
+#define __va_copy(d,s) __builtin_va_copy(d,s)
+# 98 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stdarg.h" 3 4
+typedef __gnuc_va_list va_list;
+
+
+
+
+
+#define _VA_LIST_ 
+
+
+#define _VA_LIST 
+
+
+#define _VA_LIST_DEFINED 
+
+
+#define _VA_LIST_T_H 
+
+
+#define __va_list__ 
+# 44 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/syscalls.h" 2
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stat.h" 1 3
+
+#define _SYS_STAT_H 
+
+
+
+
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\time.h" 1 3
+
+
+
+
+
+
+
+#define _TIME_H_ 
+
+
+
+
+#define __need_size_t 
+#define __need_NULL 
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 1 3 4
+# 158 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef __need_ptrdiff_t
+# 234 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef __need_size_t
+# 343 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef __need_wchar_t
+# 397 "c:\\isystem\\winidea9\\gcc\\arm\\lib\\gcc\\arm-none-eabi\\4.9.3\\include\\stddef.h" 3 4
+#undef NULL
+
+
+
+
+#define NULL ((void *)0)
+
+
+
+
+
+#undef __need_NULL
+
+
+
+
+#define offsetof(TYPE,MEMBER) __builtin_offsetof (TYPE, MEMBER)
+# 16 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\time.h" 2 3
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\machine\\time.h" 1 3
+
+#define _MACHTIME_H_ 
+
+
+
+
+#define _CLOCKS_PER_SEC_ 100
+# 19 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\time.h" 2 3
+
+
+
+
+
+#define CLOCKS_PER_SEC _CLOCKS_PER_SEC_
+#define CLK_TCK CLOCKS_PER_SEC
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\timespec.h" 1 3
+# 35 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\timespec.h" 3
+#define _SYS_TIMESPEC_H_ 
+
+
+# 1 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\_timespec.h" 1 3
+# 35 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\_timespec.h" 3
+#define _SYS__TIMESPEC_H_ 
+# 44 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\_timespec.h" 3
+struct timespec {
+ time_t tv_sec;
+ long tv_nsec;
+};
+# 39 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\timespec.h" 2 3
+
+
+#define TIMEVAL_TO_TIMESPEC(tv,ts) do { (ts)->tv_sec = (tv)->tv_sec; (ts)->tv_nsec = (tv)->tv_usec * 1000; } while (0)
+
+
+
+
+#define TIMESPEC_TO_TIMEVAL(tv,ts) do { (tv)->tv_sec = (ts)->tv_sec; (tv)->tv_usec = (ts)->tv_nsec / 1000; } while (0)
+# 58 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\timespec.h" 3
+struct itimerspec {
+ struct timespec it_interval;
+ struct timespec it_value;
+};
+# 29 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\time.h" 2 3
+
+
+
+struct tm
+{
+  int tm_sec;
+  int tm_min;
+  int tm_hour;
+  int tm_mday;
+  int tm_mon;
+  int tm_year;
+  int tm_wday;
+  int tm_yday;
+  int tm_isdst;
+
+
+
+
+
+
+};
+
+clock_t clock (void);
+double difftime (time_t _time2, time_t _time1);
+time_t mktime (struct tm *_timeptr);
+time_t time (time_t *_timer);
+
+char *asctime (const struct tm *_tblock);
+char *ctime (const time_t *_time);
+struct tm *gmtime (const time_t *_timer);
+struct tm *localtime (const time_t *_timer);
+
+size_t strftime (char * _s, size_t _maxsize, const char * _fmt, const struct tm * _t)
+
+                                        ;
+
+char *asctime_r (const struct tm *, char *)
+                       ;
+char *ctime_r (const time_t *, char *);
+struct tm *gmtime_r (const time_t *, struct tm *)
+                            ;
+struct tm *localtime_r (const time_t *, struct tm *)
+                            ;
+
+
+
+
+
+
+
+
+char *strptime (const char *, const char *, struct tm *)
+
+                            ;
+void tzset (void);
+void _tzset_r (struct _reent *);
+
+typedef struct __tzrule_struct
+{
+  char ch;
+  int m;
+  int n;
+  int d;
+  int s;
+  time_t change;
+  long offset;
+} __tzrule_type;
+
+typedef struct __tzinfo_struct
+{
+  int __tznorth;
+  int __tzyear;
+  __tzrule_type __tzrule[2];
+} __tzinfo_type;
+
+__tzinfo_type *__gettzinfo (void);
+# 130 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\time.h" 3
+extern long _timezone;
+extern int _daylight;
+extern char *_tzname[2];
+
+
+
+#define tzname _tzname
+# 217 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\time.h" 3
+#define CLOCK_ENABLED 1
+#define CLOCK_DISABLED 0
+
+
+
+#define CLOCK_ALLOWED 1
+
+
+#define CLOCK_DISALLOWED 0
+
+
+
+
+
+#define CLOCK_REALTIME (clockid_t)1
+
+
+
+
+#define TIMER_ABSTIME 4
+# 10 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stat.h" 2 3
+# 27 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stat.h" 3
+struct stat
+{
+  dev_t st_dev;
+  ino_t st_ino;
+  mode_t st_mode;
+  nlink_t st_nlink;
+  uid_t st_uid;
+  gid_t st_gid;
+  dev_t st_rdev;
+  off_t st_size;
+# 50 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stat.h" 3
+  time_t st_atime;
+  long st_spare1;
+  time_t st_mtime;
+  long st_spare2;
+  time_t st_ctime;
+  long st_spare3;
+  long st_blksize;
+  long st_blocks;
+  long st_spare4[2];
+
+
+};
+# 71 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stat.h" 3
+#define _IFMT 0170000
+#define _IFDIR 0040000
+#define _IFCHR 0020000
+#define _IFBLK 0060000
+#define _IFREG 0100000
+#define _IFLNK 0120000
+#define _IFSOCK 0140000
+#define _IFIFO 0010000
+
+#define S_BLKSIZE 1024
+
+#define S_ISUID 0004000
+#define S_ISGID 0002000
+#define S_ISVTX 0001000
+
+#define S_IREAD 0000400
+#define S_IWRITE 0000200
+#define S_IEXEC 0000100
+#define S_ENFMT 0002000
+
+
+#define S_IFMT _IFMT
+#define S_IFDIR _IFDIR
+#define S_IFCHR _IFCHR
+#define S_IFBLK _IFBLK
+#define S_IFREG _IFREG
+#define S_IFLNK _IFLNK
+#define S_IFSOCK _IFSOCK
+#define S_IFIFO _IFIFO
+# 114 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\sys\\stat.h" 3
+#define S_IRWXU (S_IRUSR | S_IWUSR | S_IXUSR)
+#define S_IRUSR 0000400
+#define S_IWUSR 0000200
+#define S_IXUSR 0000100
+#define S_IRWXG (S_IRGRP | S_IWGRP | S_IXGRP)
+#define S_IRGRP 0000040
+#define S_IWGRP 0000020
+#define S_IXGRP 0000010
+#define S_IRWXO (S_IROTH | S_IWOTH | S_IXOTH)
+#define S_IROTH 0000004
+#define S_IWOTH 0000002
+#define S_IXOTH 0000001
+
+
+#define ACCESSPERMS (S_IRWXU | S_IRWXG | S_IRWXO)
+#define ALLPERMS (S_ISUID | S_ISGID | S_ISVTX | S_IRWXU | S_IRWXG | S_IRWXO)
+#define DEFFILEMODE (S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH | S_IWOTH)
+
+
+#define S_ISBLK(m) (((m)&_IFMT) == _IFBLK)
+#define S_ISCHR(m) (((m)&_IFMT) == _IFCHR)
+#define S_ISDIR(m) (((m)&_IFMT) == _IFDIR)
+#define S_ISFIFO(m) (((m)&_IFMT) == _IFIFO)
+#define S_ISREG(m) (((m)&_IFMT) == _IFREG)
+#define S_ISLNK(m) (((m)&_IFMT) == _IFLNK)
+#define S_ISSOCK(m) (((m)&_IFMT) == _IFSOCK)
+
+
+
+
+
+
+
+int chmod ( const char *__path, mode_t __mode );
+int fchmod (int __fd, mode_t __mode);
+int fstat ( int __fd, struct stat *__sbuf );
+int mkdir ( const char *_path, mode_t __mode );
+int mkfifo ( const char *__path, mode_t __mode );
+int stat ( const char * __path, struct stat * __sbuf );
+mode_t umask ( mode_t __mask );
+
+
+
+
+
+
+
+int fchmodat (int, const char *, mode_t, int);
+
+
+int fstatat (int, const char * , struct stat *, int);
+int mkdirat (int, const char *, mode_t);
+int mkfifoat (int, const char *, mode_t);
+
+
+int mknodat (int, const char *, mode_t, dev_t);
+
+
+int utimensat (int, const char *, const struct timespec *, int);
+int futimens (int, const struct timespec *);
+# 46 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/include/syscalls.h" 2
+
+
+
+
+
+extern caddr_t _sbrk ( int incr );
+
+extern int link( char *old, char *new );
+
+extern int _close( int file );
+
+extern int _fstat( int file, struct stat *st );
+
+extern int _isatty( int file );
+
+extern int _lseek( int file, int ptr, int dir );
+
+extern int _read(int file, char *ptr, int len);
+
+extern int _write( int file, char *ptr, int len );
+# 117 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h" 2
+# 132 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_NAME "SAM V71 Xplained Ultra"
+#define NO_PUSHBUTTON 
+# 146 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_MAINOSC 12000000
+
+
+
+#define BOARD_MCK 150000000
+# 159 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define PLL_MUL 0x19
+#define PLL_DIV 0x01
+# 261 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define PIN_SSC_TD {PIO_PD26B_TD, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_SSC_TK {PIO_PB1D_TK, PIOB, ID_PIOB, PIO_PERIPH_D, PIO_DEFAULT}
+
+#define PIN_SSC_TF {PIO_PB0D_TF, PIOB, ID_PIOB, PIO_PERIPH_D, PIO_DEFAULT}
+
+#define PIN_SSC_RD {PIO_PA10C_RD, PIOA, ID_PIOA, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_SSC_RK {PIO_PA22A_RK, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_SSC_RF {PIO_PD24B_RF, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+
+#define PINS_SSC_CODEC {PIN_SSC_TD, PIN_SSC_TK, PIN_SSC_TF, PIN_SSC_RD, PIN_SSC_RK, PIN_SSC_RF}
+
+
+
+#define PINS_UART0 {PIO_PA9A_URXD0 | PIO_PA10A_UTXD0, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+
+#define PINS_UART4 {PIO_PD18C_URXD4 | PIO_PD19C_UTXD4, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+
+
+
+#define LED_YELLOW0 0
+#define LED_YELLOW1 1
+
+
+#define PIN_LED_0 {PIO_PA23, PIOA, ID_PIOA, PIO_OUTPUT_1, PIO_DEFAULT}
+
+#define PIN_LED_1 {PIO_PC9, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_DEFAULT}
+
+
+#define PINS_LEDS {PIN_LED_0, PIN_LED_1}
+
+
+
+
+
+#define PIN_PUSHBUTTON_0 {PIO_PA9, PIOA, ID_PIOA, PIO_INPUT, PIO_PULLUP | PIO_DEBOUNCE | PIO_IT_FALL_EDGE}
+
+
+
+
+
+#define PIN_PUSHBUTTON_1 {PIO_PB12, PIOB, ID_PIOB, PIO_INPUT, PIO_PULLUP | PIO_DEBOUNCE | PIO_IT_FALL_EDGE}
+
+
+
+#define PINS_PUSHBUTTONS {PIN_PUSHBUTTON_0, PIN_PUSHBUTTON_1}
+
+
+#define PUSHBUTTON_BP0 0
+
+#define PUSHBUTTON_BP1 1
+
+
+#define PIN_PWMC_PWMH0 {PIO_PD20A_PWMH0, PIOD, ID_PIOD, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_PWMC_PWMH1 {PIO_PD21A_PWMH1, PIOD, ID_PIOD, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_PWM_LED0 PIN_PWMC_PWMH0
+
+#define PIN_PWM_LED1 PIN_PWMC_PWMH1
+
+#define CHANNEL_PWM_LED0 0
+
+#define CHANNEL_PWM_LED1 1
+
+
+#define PIN_SPI_MISO {PIO_PD20B_SPI0_MISO, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_SPI_MOSI {PIO_PD21B_SPI0_MOSI, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_SPI_SPCK {PIO_PD22B_SPI0_SPCK, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_SPI_NPCS0 {PIO_PB2D_SPI0_NPCS0, PIOB, ID_PIOB, PIO_PERIPH_D, PIO_DEFAULT}
+#define PIN_SPI_NPCS1 {PIO_PD25B_SPI0_NPCS1, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+#define PIN_SPI_NPCS3 {PIO_PD27B_SPI0_NPCS3, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+
+#define PINS_SPI PIN_SPI_MISO, PIN_SPI_MOSI, PIN_SPI_SPCK
+
+
+#define PIN_PCK0 {PIO_PB13B_PCK0, PIOB, ID_PIOB, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_PCK1 {PIO_PA17B_PCK1, PIOB, ID_PIOB, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_PCK2 {PIO_PA18B_PCK2, PIOA, ID_PIOA, PIO_PERIPH_B, PIO_DEFAULT}
+
+
+
+
+#define PIN_PIODCEN1 PIO_PA15
+
+#define PIN_PIODCEN2 PIO_PA16
+
+
+#define TWI_V3XX 
+
+#define PIN_TWI_TWD0 {PIO_PA3A_TWD0, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_TWI_TWCK0 {PIO_PA4A_TWCK0, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PINS_TWI0 {PIN_TWI_TWD0, PIN_TWI_TWCK0}
+
+
+#define PIN_TWI_TWD1 {PIO_PB4A_TWD1, PIOB, ID_PIOB, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_TWI_TWCK1 {PIO_PB5A_TWCK1, PIOB, ID_PIOB, PIO_PERIPH_A,PIO_DEFAULT}
+
+#define PINS_TWI1 {PIN_TWI_TWD1, PIN_TWI_TWCK1}
+
+
+#define PIN_USART0_RXD {PIO_PB0C_RXD0, PIOB, ID_PIOB, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_USART0_TXD {PIO_PB1C_TXD0, PIOB, ID_PIOB, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_USART0_CTS {PIO_PB2C_CTS0, PIOB, ID_PIOB, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_USART0_RTS {PIO_PB3C_RTS0, PIOB, ID_PIOB, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_USART0_SCK {PIO_PB13C_SCK0, PIOB, ID_PIOB, PIO_PERIPH_C,PIO_DEFAULT}
+
+
+#define PIN_USART1_RXD {PIO_PA21A_RXD1, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_USART1_TXD {PIO_PB4D_TXD1, PIOB, ID_PIOB, PIO_PERIPH_D, PIO_DEFAULT}
+
+#define PIN_USART1_CTS {PIO_PA25A_CTS1, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_USART1_RTS {PIO_PA24A_RTS1, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_USART1_EN {PIO_PA23A_SCK1, PIOA, ID_PIOA, PIO_OUTPUT_0, PIO_DEFAULT}
+
+#define PIN_USART1_SCK {PIO_PA23A_SCK1, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+
+#define PIN_USART2_RXD {PIO_PD15B_RXD2, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_USART2_TXD {PIO_PD16B_TXD2, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_USART2_CTS {PIO_PD19B_CTS2, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_USART2_RTS {PIO_PD18B_RTS2, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define PIN_USART2_SCK {PIO_PD17B_SCK2, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+
+
+#define PIN_ISO7816_RSTMC {PIO_PB2C_CTS0, PIOB, ID_PIOB, PIO_OUTPUT_0, PIO_DEFAULT}
+
+#define PINS_ISO7816 PIN_USART0_TXD, PIN_USART0_SCK,PIN_ISO7816_RSTMC
+
+
+#define PIN_MCAN0_TXD {PIO_PB2A_CANTX0, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+#define PIN_MCAN0_RXD {PIO_PB3A_CANRX0, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+
+#define PIN_MCAN1_TXD {PIO_PC14C_CANTX1, PIOC, ID_PIOC, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_MCAN1_RXD {PIO_PC12C_CANRX1, PIOC, ID_PIOC, PIO_PERIPH_C, PIO_DEFAULT}
+# 437 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_GMAC_PHY_ADDR 1
+
+#define BOARD_GMAC_PHY_COMP_KSZ8061RNB 1
+
+#define BOARD_GMAC_POWER_ALWAYS_ON 
+
+#define BOARD_GMAC_MODE_RMII 1
+
+
+#define BOARD_GMAC_PINS { (PIO_PD0A_GTXCK | PIO_PD1A_GTXEN | PIO_PD2A_GTX0 | PIO_PD3A_GTX1 | PIO_PD4A_GRXDV | PIO_PD5A_GRX0 | PIO_PD6A_GRX1 | PIO_PD7A_GRXER | PIO_PD8A_GMDC | PIO_PD9A_GMDIO ),PIOD, ID_PIOD, PIO_PERIPH_A, PIO_DEFAULT}, {PIO_PC30, PIOC, ID_PIOC, PIO_INPUT, PIO_PULLUP}, {PIO_PA29, PIOA, ID_PIOA, PIO_INPUT, PIO_DEFAULT}
+
+
+
+
+
+
+
+#define BOARD_GMAC_RESET_PIN {PIO_PC10, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_PULLUP}
+
+
+#define BOARD_GMAC_RUN_PINS BOARD_GMAC_PINS
+# 481 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define PIN_ISI_D0 {PIO_PD22D_ISI_D0, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D1 {PIO_PD21D_ISI_D1, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D2 {PIO_PB3D_ISI_D2, PIOB, ID_PIOB, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D3 {PIO_PA9B_ISI_D3, PIOA, ID_PIOA, PIO_PERIPH_B, PIO_PULLUP}
+#define PIN_ISI_D4 {PIO_PA5B_ISI_D4, PIOA, ID_PIOA, PIO_PERIPH_B, PIO_PULLUP}
+#define PIN_ISI_D5 {PIO_PD11D_ISI_D5, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D6 {PIO_PD12D_ISI_D6, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D7 {PIO_PA27D_ISI_D7, PIOA, ID_PIOA, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D8 {PIO_PD27D_ISI_D8, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_PULLUP}
+#define PIN_ISI_D9 {PIO_PD28D_ISI_D9, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_PULLUP}
+
+#define BOARD_ISI_VSYNC {PIO_PD25D_ISI_VSYNC, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_DEFAULT}
+#define BOARD_ISI_HSYNC {PIO_PD24D_ISI_HSYNC, PIOD, ID_PIOD, PIO_PERIPH_D, PIO_DEFAULT}
+#define BOARD_ISI_PCK {PIO_PA24D_ISI_PCK, PIOA, ID_PIOA, PIO_PERIPH_D, PIO_DEFAULT}
+
+#define BOARD_ISI_PCK0 { PIO_PA6B_PCK0, PIOA, ID_PIOA, PIO_PERIPH_B, PIO_DEFAULT }
+#define BOARD_ISI_RST { 1 << 13, PIOB, ID_PIOB, PIO_OUTPUT_1, PIO_DEFAULT }
+#define BOARD_ISI_PWD { 1 << 19, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_DEFAULT }
+
+#define BOARD_ISI_PINS PIN_ISI_D0, PIN_ISI_D1, PIN_ISI_D2,PIN_ISI_D3,PIN_ISI_D4, PIN_ISI_D5, PIN_ISI_D6,PIN_ISI_D7,PIN_ISI_D8, PIN_ISI_D9,BOARD_ISI_VSYNC , BOARD_ISI_HSYNC ,BOARD_ISI_PCK, BOARD_ISI_RST, BOARD_ISI_PWD,BOARD_ISI_PCK0
+# 521 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_USB_BMATTRIBUTES USBConfigurationDescriptor_SELFPOWERED_NORWAKEUP
+
+
+#define PIN_USB_VBUS {PIO_PC16, PIOC, ID_PIOC, PIO_INPUT, PIO_DEFAULT}
+# 536 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_LCD_ILI9488 
+
+#define BOARD_LCD_SPI_EXT2 
+# 573 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define LCD_SPI_MISO {PIO_PD20B_SPI0_MISO, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define LCD_SPI_MOSI {PIO_PD21B_SPI0_MOSI, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define LCD_SPI_SPCK {PIO_PD22B_SPI0_SPCK, PIOD, ID_PIOD, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define LCD_SPI_NPCS {PIO_PD27B_SPI0_NPCS3, PIOD, ID_PIOD, PIO_PERIPH_B,PIO_DEFAULT}
+
+
+#define BOARD_SPI_LCD_PINS {LCD_SPI_MISO, LCD_SPI_MOSI, LCD_SPI_SPCK, LCD_SPI_NPCS}
+
+
+
+#define BOARD_SPI_LCD_PIN_BACKLIGHT {PIO_PC19B_PWMC0_PWMH2, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_DEFAULT}
+
+
+
+#define LCD_SPI_PIN_RESET {PIO_PA24, PIOA, ID_PIOA, PIO_OUTPUT_1, PIO_DEFAULT}
+
+
+#define BOARD_SPI_LCD_PIN_CDS {PIO_PA6, PIOA, ID_PIOA, PIO_OUTPUT_1, PIO_DEFAULT}
+
+
+#define CHANNEL_PWM_LCD 2
+
+
+
+
+
+
+#define PIN_EBI_LCD_DATAL {0xFF, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_PULLUP}
+#define PIN_EBI_LCD_DATAH_0 {0x3F, PIOE, ID_PIOE, PIO_PERIPH_A, PIO_PULLUP}
+#define PIN_EBI_LCD_DATAH_1 {PIO_PA15A_D14|PIO_PA16A_D15, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_PULLUP}
+
+#define PIN_EBI_LCD_NWE {PIO_PC8A_NWE, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_PULLUP}
+
+#define PIN_EBI_LCD_NRD {PIO_PC11A_NRD, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_PULLUP}
+
+#define PIN_EBI_LCD_CS {PIO_PD19A_NCS3, PIOD, ID_PIOD, PIO_PERIPH_A, PIO_PULLUP}
+
+#define BOARD_EBI_LCD_PIN_CDS {PIO_PC30, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_DEFAULT}
+
+#define BOARD_EBI_LCD_PIN_BACKLIGHT {PIO_PC9B_TIOB7, PIOC, ID_PIOC, PIO_PERIPH_B, PIO_DEFAULT}
+
+#define LCD_EBI_PIN_RESET {PIO_PC13, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_DEFAULT}
+
+
+#define BOARD_EBI_LCD_PINS {PIN_EBI_LCD_DATAL, PIN_EBI_LCD_DATAH_0, PIN_EBI_LCD_DATAH_1, PIN_EBI_LCD_NWE,PIN_EBI_LCD_NRD,PIN_EBI_LCD_CS}
+
+
+
+
+
+#define BOARD_LCD_WIDTH 320
+
+#define BOARD_LCD_HEIGHT 480
+# 664 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_SDRAM_SIZE (2*1024*1024)
+#define PIN_SDRAM_D0_7 {0x000000FF, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_DEFAULT}
+#define PIN_SDRAM_D8_13 {0x0000003F, PIOE, ID_PIOE, PIO_PERIPH_A, PIO_DEFAULT}
+#define PIN_SDRAM_D14_15 {0x00018000, PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+#define PIN_SDRAM_A0_9 {0x3FF00000, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_DEFAULT}
+#define PIN_SDRAM_SDA10 {0x00002000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define PIN_SDRAM_CAS {0x00020000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+#define PIN_SDRAM_RAS {0x00010000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+#define PIN_SDRAM_SDCKE {0x00004000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+#define PIN_SDRAM_SDCK {0x00800000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+#define PIN_SDRAM_SDSC {0x00008000, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_DEFAULT}
+#define PIN_SDRAM_NBS0 {0x00040000, PIOC, ID_PIOC, PIO_PERIPH_A, PIO_DEFAULT}
+#define PIN_SDRAM_NBS1 {0x00008000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+#define PIN_SDRAM_SDWE {0x20000000, PIOD, ID_PIOD, PIO_PERIPH_C, PIO_DEFAULT}
+#define PIN_SDRAM_BA0 {0x00100000, PIOA, ID_PIOA, PIO_PERIPH_C, PIO_DEFAULT}
+
+#define BOARD_SDRAM_PINS PIN_SDRAM_D0_7, PIN_SDRAM_D8_13 , PIN_SDRAM_D14_15, PIN_SDRAM_A0_9, PIN_SDRAM_SDA10, PIN_SDRAM_BA0, PIN_SDRAM_CAS, PIN_SDRAM_RAS, PIN_SDRAM_SDCKE,PIN_SDRAM_SDCK, PIN_SDRAM_SDSC,PIN_SDRAM_NBS0 ,PIN_SDRAM_NBS1,PIN_SDRAM_SDWE
+# 690 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_MCI_PIN_CD {PIO_PD18, PIOD, ID_PIOD, PIO_INPUT, PIO_PULLUP}
+
+#define BOARD_MCI_PIN_CK {PIO_PA25D_MCCK, PIOA, ID_PIOA, PIO_PERIPH_D, PIO_DEFAULT}
+
+
+#define BOARD_MCI_PINS_SLOTA {(PIO_PA30C_MCDA0 | PIO_PA31C_MCDA1 | PIO_PA26C_MCDA2 | PIO_PA27C_MCDA3 | PIO_PA28C_MCCDA), PIOA, ID_PIOA, PIO_PERIPH_C, PIO_DEFAULT}
+
+
+
+
+#define BOARD_SD_PINS {BOARD_MCI_PINS_SLOTA, BOARD_MCI_PIN_CK}
+
+#define BOARD_SD_PIN_CD BOARD_MCI_PIN_CD
+
+#define BOARD_NUM_MCI 1
+
+
+#define PINS_QSPI_IO {(PIO_PA11A_QCS | PIO_PA13A_QIO0 | PIO_PA12A_QIO1 | PIO_PA17A_QIO2 | PIO_PA14A_QSCK), PIOA, ID_PIOA, PIO_PERIPH_A, PIO_DEFAULT}
+
+
+#define PINS_QSPI_IO3 {PIO_PD31A_QIO3, PIOD, ID_PIOD, PIO_PERIPH_A, PIO_DEFAULT}
+#define PINS_QSPI {PINS_QSPI_IO, PINS_QSPI_IO3}
+# 729 "C:\\SAMV71x\\bsp\\libboard_samv7-ek/board.h"
+#define BOARD_RTC_ID ID_RTC
+
+
+#define BOARD_ID_TWI_AT42 ID_TWI0
+
+#define BOARD_BASE_TWI_AT42 TWI0
+
+#define BOARD_PINS_TWI_AT42 PINS_TWI0
+
+
+#define BOARD_PIN_USART_RXD PIN_USART1_RXD
+
+#define BOARD_PIN_USART_TXD PIN_USART1_TXD
+
+#define BOARD_PIN_USART_CTS PIN_USART1_CTS
+
+#define BOARD_PIN_USART_RTS PIN_USART1_RTS
+
+#define BOARD_PIN_USART_EN PIN_USART1_EN
+
+#define BOARD_USART_BASE USART1
+
+#define BOARD_ID_USART ID_USART1
+
+
+
+
+
+
+
+#define PINS_VBUS_EN {PIO_PC16, PIOC, ID_PIOC, PIO_OUTPUT_1, PIO_DEFAULT}
+# 19 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c" 2
 
 
 
@@ -18803,11 +26845,14 @@ tPtr_to_function ptrTask_2ms = ((void *)0);
 tPtr_to_function ptrTask_10ms = ((void *)0);
 tPtr_to_function ptrTask_50ms = ((void *)0);
 tPtr_to_function ptrTask_100ms = ((void *)0);
-# 36 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
+
+extern const Pin MeasurementGPIO[];
+# 39 "C:\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler\\app_tasks.c"
 void TASKS_LIST_1MS(void)
 {
   if (ptrTask_1ms != ((void *)0))
   {
+    PIO_Clear(&MeasurementGPIO[0]);
     ptrTask_1ms();
   }
   ptrTask_1ms = ((void *)0);
@@ -18818,6 +26863,7 @@ void TASKS_LIST_2MS_A(void)
 {
   if (ptrTask_2ms != ((void *)0))
   {
+    PIO_Clear(&MeasurementGPIO[0]);
     ptrTask_2ms();
   }
   ptrTask_2ms = ((void *)0);
@@ -18842,6 +26888,7 @@ void TASKS_LIST_50MS(void)
 {
   if (ptrTask_50ms != ((void *)0))
   {
+    PIO_Clear(&MeasurementGPIO[0]);
     ptrTask_50ms();
   }
   ptrTask_50ms = ((void *)0);

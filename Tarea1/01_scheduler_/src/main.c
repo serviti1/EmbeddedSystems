@@ -16,12 +16,12 @@
 /*~~~~~~  Headers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 /** Main group of includes for board definitions, chip definitions and type definitions */
-#include    "board.h"
+#include "board.h"
 /** Task scheduler definitions */
-#include    "app_scheduler.h"
+#include "app_scheduler.h"
 #include "event_driven.h"
 /** LED control definitions */ 
-#include    "led_ctrl.h"
+#include "led_ctrl.h"
 
 /*~~~~~~  Local definitions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
@@ -49,7 +49,9 @@ extern int main( void )
 	/* SCB_EnableDCache(); */
 	/* Configure LEDs */
 	vfnLedCtrl_Configure();
-  /* Configure LEDs */
+  /* Configure Measurement GPIO */
+  EVT_vfnConfigureGPIO();
+  /* Configure Push-Buttons */
   EVT_vfnConfigureButtons();
 	/* Configure Non-preemtive scheduler */
 	vfnScheduler_Init();

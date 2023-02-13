@@ -15,6 +15,8 @@
 /** Scheduler function prototypes definitions */
 #include "app_tasks.h"
 
+#include "board.h"
+
 /*****************************************************************************************************
  * Definition of  VARIABLEs -
  *****************************************************************************************************/
@@ -24,6 +26,7 @@ tPtr_to_function ptrTask_10ms = NULL;
 tPtr_to_function ptrTask_50ms = NULL;
 tPtr_to_function ptrTask_100ms = NULL;
 
+extern const Pin MeasurementGPIO[];
 /*****************************************************************************************************
  * Definition of module wide (CONST-) CONSTANTs
  *****************************************************************************************************/
@@ -37,6 +40,7 @@ void TASKS_LIST_1MS(void)
 {
   if (ptrTask_1ms != NULL)
   {
+    PIO_Clear(&MeasurementGPIO[0]);
     ptrTask_1ms();
   }
   ptrTask_1ms = NULL;
@@ -47,6 +51,7 @@ void TASKS_LIST_2MS_A(void)
 {
   if (ptrTask_2ms != NULL)
   {
+    PIO_Clear(&MeasurementGPIO[0]);
     ptrTask_2ms();
   }
   ptrTask_2ms = NULL;
@@ -71,6 +76,7 @@ void TASKS_LIST_50MS(void)
 {
   if (ptrTask_50ms != NULL)
   {
+    PIO_Clear(&MeasurementGPIO[0]);
     ptrTask_50ms();
   }
   ptrTask_50ms = NULL;

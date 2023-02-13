@@ -192,6 +192,36 @@
          <CompilerOptions>-x c  -mcpu=cortex-m7  -mthumb -mfloat-abi=softfp -mfpu=fpv5-sp-d16 $(DEFINES) $(INCLUDES)  -g3 -c -I $(IRFDIR) -o $(NOEXT).o $(EDNAME) -fno-builtin-fabs -save-temps=obj -o $(OUTPUTDIR)$(NOEXT).o</CompilerOptions>
         </FileOptios>
        </File.3>
+       <File.4>
+        <FileName>$(IRFDIR)..\src\Services\Scheduler\event_driven.c</FileName>
+        <FileOptios>
+         <CompilerDefines>__SAMV71Q21__</CompilerDefines>
+         <CompilerOptions>-x c  -mcpu=cortex-m7  -mthumb -mfloat-abi=softfp -mfpu=fpv5-sp-d16 $(DEFINES) $(INCLUDES)  -g3 -c -I $(IRFDIR) -o $(NOEXT).o $(EDNAME) -fno-builtin-fabs -save-temps=obj -o $(OUTPUTDIR)$(NOEXT).o</CompilerOptions>
+        </FileOptios>
+       </File.4>
+       <File.5>
+        <FileName>$(IRFDIR)..\..\..\hal\libchip_samv7\source\wdt.c</FileName>
+        <FileOptios>
+         <CompilerDefines>__SAMV71Q21__</CompilerDefines>
+         <CompilerOptions>-x c  -mcpu=cortex-m7  -mthumb -mfloat-abi=softfp -mfpu=fpv5-sp-d16 $(DEFINES) $(INCLUDES)  -g3 -c -I $(IRFDIR) -o $(NOEXT).o $(EDNAME) -fno-builtin-fabs -save-temps=obj -o $(OUTPUTDIR)$(NOEXT).o</CompilerOptions>
+        </FileOptios>
+       </File.5>
+       <File.6>
+        <FileName>$(IRFDIR)..\..\..\hal\libchip_samv7\source\pio_it.c</FileName>
+        <FileOptios>
+         <CompilerDefines>__SAMV71Q21__</CompilerDefines>
+         <CompilerOptions>-x c  -mcpu=cortex-m7  -mthumb -mfloat-abi=softfp -mfpu=fpv5-sp-d16 $(DEFINES) $(INCLUDES)  -g3 -c -I $(IRFDIR) -o $(NOEXT).o $(EDNAME) -fno-builtin-fabs -save-temps=obj -o $(OUTPUTDIR)$(NOEXT).o</CompilerOptions>
+        </FileOptios>
+       </File.6>
+       <File.7>
+        <FileName>$(IRFDIR)..\..\..\hal\libchip_samv7\include\pio_it.h</FileName>
+       </File.7>
+       <File.8>
+        <FileName>$(IRFDIR)..\src\Services\Scheduler\event_driven.h</FileName>
+       </File.8>
+       <File.9>
+        <FileName>$(IRFDIR)..\..\..\hal\libchip_samv7\include\pio.h</FileName>
+       </File.9>
       </LinkGroup.0>
       <LinkGroup.1>
        <LinkGroupName>Services</LinkGroupName>
