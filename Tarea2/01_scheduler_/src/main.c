@@ -19,6 +19,7 @@
 #include    "board.h"
 /** Task scheduler definitions */
 #include    "app_scheduler.h"
+#include    "mem_alloc.h"
 
 /*~~~~~~  Local definitions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
@@ -39,7 +40,9 @@ extern int main( void )
 {
 	/* Enable I and D cache */
 	SCB_EnableICache();
-	/* SCB_EnableDCache(); */
+  Mem_Init();
+  uint8_t* x = (uint8_t*)Mem_Alloc(10);
+  uint8_t* y = (uint8_t*)Mem_Alloc(9);
 	/* Configure Non-preemtive scheduler */
 	vfnScheduler_Init();
 	/* Start scheduler */

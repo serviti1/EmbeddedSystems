@@ -26853,12 +26853,43 @@ void vfnScheduler_Stop(void);
 
 void vfnTask_Scheduler(void);
 # 22 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c" 2
-# 38 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c"
+# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc/mem_alloc.h" 1
+# 12 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc/mem_alloc.h"
+#define __MEM_ALLOC 
+
+# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc/Mem_AllocTypes.h" 1
+# 13 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc/Mem_AllocTypes.h"
+#define __MEM_ALLOC_TYPES 
+
+
+
+
+typedef void *MemReturnType;
+
+typedef uint16_t MemSizeType;
+
+typedef struct MemHandlerType
+{
+    uint8_t *MemStart;
+    uint8_t *MemEnd;
+    uint8_t *CurrAddr;
+    uint32_t FreeBytes;
+} MemHandlerType;
+# 15 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc/mem_alloc.h" 2
+
+#define MEM_ALLOC_ALIGN 4
+
+void Mem_Init(void);
+MemReturnType Mem_Alloc(MemSizeType size);
+# 23 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c" 2
+# 39 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c"
 extern int main( void )
 {
 
  SCB_EnableICache();
-
+  Mem_Init();
+  uint8_t* x = (uint8_t*)Mem_Alloc(10);
+  uint8_t* y = (uint8_t*)Mem_Alloc(9);
 
  vfnScheduler_Init();
 

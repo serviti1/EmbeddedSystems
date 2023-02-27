@@ -1,15 +1,20 @@
 #include "mem_alloc.h"
 
-extern uint32_t _heap_mem_start;
-extern uint32_t _heap_mem_end;
+extern uint8_t _heap_mem_start[];
+extern uint8_t _heap_mem_end[];
 
 MemHandlerType MemControl = {
     .MemStart = (uint8_t *)&_heap_mem_start,                              /* Sets the start of the heap memory */
     .MemEnd = (uint8_t *)&_heap_mem_end,                                  /* Sets the end of the heap memory */
     .CurrAddr = (uint8_t *)&_heap_mem_start,                              /* Initialize the current start address */
-    .FreeBytes = 1000//(uint8_t *)&_heap_mem_end - (uint8_t *)&_heap_mem_start  /* Sets the size of the heap memory */
+    .FreeBytes = 0  /* Sets the size of the heap memory */
 };
 
+void Mem_Init(void)
+{
+  MemControl.FreeBytes = (uint8_t *)&_heap_mem_end - (uint8_t *)&_heap_mem_start;  /* Sets the size of the heap memory */
+}
+  
 MemReturnType Mem_Alloc(MemSizeType size)
 {
     if (size > MemControl.FreeBytes)
@@ -24,7 +29,7 @@ MemReturnType Mem_Alloc(MemSizeType size)
     uint8_t *ret = ptr + (uint8_t)offset;
     *(uint8_t *)(ret - 1) = offset;
     
-    MemControl.CurrAddr = MemControl.CurrAddr + request_size;
+    MemControl.CurrAddr = ret + request_size;
     MemControl.FreeBytes = MemControl.FreeBytes - request_size;
 
     return (void *)ret;

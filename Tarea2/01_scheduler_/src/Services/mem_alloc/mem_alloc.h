@@ -13,8 +13,9 @@
 
 #include "Mem_AllocTypes.h"
 
-#define MEM_ALLOC_ALIGN 32
+#define MEM_ALLOC_ALIGN 4
 
+void Mem_Init(void);
 MemReturnType Mem_Alloc(MemSizeType size);
 
 #endif

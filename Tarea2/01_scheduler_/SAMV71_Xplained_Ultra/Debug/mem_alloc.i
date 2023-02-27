@@ -18745,20 +18745,26 @@ typedef struct MemHandlerType
 } MemHandlerType;
 # 15 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc\\mem_alloc.h" 2
 
-#define MEM_ALLOC_ALIGN 32
+#define MEM_ALLOC_ALIGN 4
 
+void Mem_Init(void);
 MemReturnType Mem_Alloc(MemSizeType size);
 # 2 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc\\mem_alloc.c" 2
 
-extern uint32_t _heap_mem_start;
-extern uint32_t _heap_mem_end;
+extern uint8_t _heap_mem_start[];
+extern uint8_t _heap_mem_end[];
 
 MemHandlerType MemControl = {
     .MemStart = (uint8_t *)&_heap_mem_start,
     .MemEnd = (uint8_t *)&_heap_mem_end,
     .CurrAddr = (uint8_t *)&_heap_mem_start,
-    .FreeBytes = 1000
+    .FreeBytes = 0
 };
+
+void Mem_Init(void)
+{
+  MemControl.FreeBytes = (uint8_t *)&_heap_mem_end - (uint8_t *)&_heap_mem_start;
+}
 
 MemReturnType Mem_Alloc(MemSizeType size)
 {
@@ -18767,14 +18773,14 @@ MemReturnType Mem_Alloc(MemSizeType size)
         return ((void *)0);
     }
 
-    size_t request_size = size + 32;
+    size_t request_size = size + 4;
     uint8_t *ptr = (uint8_t *)(malloc(request_size));
-    size_t remainder = ((size_t)ptr) % 32;
-    size_t offset = 32 - remainder;
+    size_t remainder = ((size_t)ptr) % 4;
+    size_t offset = 4 - remainder;
     uint8_t *ret = ptr + (uint8_t)offset;
     *(uint8_t *)(ret - 1) = offset;
 
-    MemControl.CurrAddr = MemControl.CurrAddr + request_size;
+    MemControl.CurrAddr = ret + request_size;
     MemControl.FreeBytes = MemControl.FreeBytes - request_size;
 
     return (void *)ret;

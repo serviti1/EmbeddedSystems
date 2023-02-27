@@ -31,17 +31,58 @@ MemControl:
 	.word	_heap_mem_start
 	.word	_heap_mem_end
 	.word	_heap_mem_start
-	.word	1000
+	.word	0
 	.text
+	.align	2
+	.global	Mem_Init
+	.thumb
+	.thumb_func
+	.type	Mem_Init, %function
+Mem_Init:
+.LFB127:
+	.file 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc\\mem_alloc.c"
+	.loc 1 14 0
+	.cfi_startproc
+	@ args = 0, pretend = 0, frame = 0
+	@ frame_needed = 1, uses_anonymous_args = 0
+	@ link register save eliminated.
+	push	{r7}
+	.cfi_def_cfa_offset 4
+	.cfi_offset 7, -4
+	add	r7, sp, #0
+	.cfi_def_cfa_register 7
+	.loc 1 15 0
+	ldr	r2, .L2
+	ldr	r3, .L2+4
+	subs	r3, r2, r3
+	mov	r2, r3
+	ldr	r3, .L2+8
+	str	r2, [r3, #12]
+	.loc 1 16 0
+	mov	sp, r7
+	.cfi_def_cfa_register 13
+	@ sp needed
+	ldr	r7, [sp], #4
+	.cfi_restore 7
+	.cfi_def_cfa_offset 0
+	bx	lr
+.L3:
+	.align	2
+.L2:
+	.word	_heap_mem_end
+	.word	_heap_mem_start
+	.word	MemControl
+	.cfi_endproc
+.LFE127:
+	.size	Mem_Init, .-Mem_Init
 	.align	2
 	.global	Mem_Alloc
 	.thumb
 	.thumb_func
 	.type	Mem_Alloc, %function
 Mem_Alloc:
-.LFB127:
-	.file 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc\\mem_alloc.c"
-	.loc 1 14 0
+.LFB128:
+	.loc 1 19 0
 	.cfi_startproc
 	@ args = 0, pretend = 0, frame = 32
 	@ frame_needed = 1, uses_anonymous_args = 0
@@ -55,64 +96,63 @@ Mem_Alloc:
 	.cfi_def_cfa_register 7
 	mov	r3, r0
 	strh	r3, [r7, #6]	@ movhi
-	.loc 1 15 0
+	.loc 1 20 0
 	ldrh	r2, [r7, #6]
-	ldr	r3, .L4
+	ldr	r3, .L7
 	ldr	r3, [r3, #12]
 	cmp	r2, r3
-	bls	.L2
-	.loc 1 17 0
+	bls	.L5
+	.loc 1 22 0
 	movs	r3, #0
-	b	.L3
-.L2:
-	.loc 1 20 0
+	b	.L6
+.L5:
+	.loc 1 25 0
 	ldrh	r3, [r7, #6]
-	adds	r3, r3, #32
+	adds	r3, r3, #4
 	str	r3, [r7, #28]
-	.loc 1 21 0
+	.loc 1 26 0
 	ldr	r0, [r7, #28]
 	bl	malloc
 	mov	r3, r0
 	str	r3, [r7, #24]
-	.loc 1 22 0
+	.loc 1 27 0
 	ldr	r3, [r7, #24]
-	and	r3, r3, #31
+	and	r3, r3, #3
 	str	r3, [r7, #20]
-	.loc 1 23 0
+	.loc 1 28 0
 	ldr	r3, [r7, #20]
-	rsb	r3, r3, #32
+	rsb	r3, r3, #4
 	str	r3, [r7, #16]
-	.loc 1 24 0
+	.loc 1 29 0
 	ldr	r3, [r7, #16]
 	uxtb	r3, r3
 	mov	r2, r3
 	ldr	r3, [r7, #24]
 	add	r3, r3, r2
 	str	r3, [r7, #12]
-	.loc 1 25 0
+	.loc 1 30 0
 	ldr	r3, [r7, #12]
 	subs	r3, r3, #1
 	ldr	r2, [r7, #16]
 	uxtb	r2, r2
 	strb	r2, [r3]
-	.loc 1 27 0
-	ldr	r3, .L4
-	ldr	r2, [r3, #8]
+	.loc 1 32 0
+	ldr	r2, [r7, #12]
 	ldr	r3, [r7, #28]
 	add	r3, r3, r2
-	ldr	r2, .L4
+	ldr	r2, .L7
 	str	r3, [r2, #8]
-	.loc 1 28 0
-	ldr	r3, .L4
+	.loc 1 33 0
+	ldr	r3, .L7
 	ldr	r2, [r3, #12]
 	ldr	r3, [r7, #28]
 	subs	r3, r2, r3
-	ldr	r2, .L4
+	ldr	r2, .L7
 	str	r3, [r2, #12]
-	.loc 1 30 0
+	.loc 1 35 0
 	ldr	r3, [r7, #12]
-.L3:
-	.loc 1 31 0
+.L6:
+	.loc 1 36 0
 	mov	r0, r3
 	adds	r7, r7, #32
 	.cfi_def_cfa_offset 8
@@ -120,12 +160,12 @@ Mem_Alloc:
 	.cfi_def_cfa_register 13
 	@ sp needed
 	pop	{r7, pc}
-.L5:
+.L8:
 	.align	2
-.L4:
+.L7:
 	.word	MemControl
 	.cfi_endproc
-.LFE127:
+.LFE128:
 	.size	Mem_Alloc, .-Mem_Alloc
 .Letext0:
 	.file 2 "c:\\isystem\\winidea9\\gcc\\arm\\arm-none-eabi\\include\\machine\\_default_types.h"
@@ -136,7 +176,7 @@ Mem_Alloc:
 	.file 7 "C:\\propedeutico\\SAMV7x\\SAMV71x\\hal\\libchip_samv7\\include\\cmsis\\CMSIS\\Include/core_cm7.h"
 	.section	.debug_info,"",%progbits
 .Ldebug_info0:
-	.4byte	0x21a
+	.4byte	0x236
 	.2byte	0x4
 	.4byte	.Ldebug_abbrev0
 	.byte	0x4
@@ -298,62 +338,70 @@ Mem_Alloc:
 	.4byte	.LASF12907
 	.byte	0x1
 	.byte	0xd
-	.4byte	0xe3
 	.4byte	.LFB127
 	.4byte	.LFE127-.LFB127
 	.uleb128 0x1
 	.byte	0x9c
-	.4byte	0x1b5
 	.uleb128 0xb
 	.4byte	.LASF12908
 	.byte	0x1
-	.byte	0xd
+	.byte	0x12
+	.4byte	0xe3
+	.4byte	.LFB128
+	.4byte	.LFE128-.LFB128
+	.uleb128 0x1
+	.byte	0x9c
+	.4byte	0x1c6
+	.uleb128 0xc
+	.4byte	.LASF12909
+	.byte	0x1
+	.byte	0x12
 	.4byte	0xee
 	.uleb128 0x2
 	.byte	0x91
 	.sleb128 -34
-	.uleb128 0xc
+	.uleb128 0xd
 	.4byte	.LASF12895
 	.byte	0x1
-	.byte	0x14
+	.byte	0x19
 	.4byte	0xd1
 	.uleb128 0x2
 	.byte	0x91
 	.sleb128 -12
-	.uleb128 0xd
+	.uleb128 0xe
 	.ascii	"ptr\000"
 	.byte	0x1
-	.byte	0x15
+	.byte	0x1a
 	.4byte	0x136
 	.uleb128 0x2
 	.byte	0x91
 	.sleb128 -16
-	.uleb128 0xc
+	.uleb128 0xd
 	.4byte	.LASF12896
 	.byte	0x1
-	.byte	0x16
+	.byte	0x1b
 	.4byte	0xd1
 	.uleb128 0x2
 	.byte	0x91
 	.sleb128 -20
-	.uleb128 0xc
+	.uleb128 0xd
 	.4byte	.LASF12897
 	.byte	0x1
-	.byte	0x17
+	.byte	0x1c
 	.4byte	0xd1
 	.uleb128 0x2
 	.byte	0x91
 	.sleb128 -24
-	.uleb128 0xd
+	.uleb128 0xe
 	.ascii	"ret\000"
 	.byte	0x1
-	.byte	0x18
+	.byte	0x1d
 	.4byte	0x136
 	.uleb128 0x2
 	.byte	0x91
 	.sleb128 -28
 	.byte	0
-	.uleb128 0xe
+	.uleb128 0xf
 	.4byte	.LASF12898
 	.byte	0x6
 	.2byte	0x151
@@ -361,38 +409,43 @@ Mem_Alloc:
 	.uleb128 0x5
 	.byte	0x3
 	.4byte	cpu_irq_critical_section_counter
-	.uleb128 0xe
+	.uleb128 0xf
 	.4byte	.LASF12899
 	.byte	0x6
 	.2byte	0x152
-	.4byte	0x1d9
+	.4byte	0x1ea
 	.uleb128 0x5
 	.byte	0x3
 	.4byte	cpu_irq_prev_interrupt_state
 	.uleb128 0x6
-	.4byte	0x1de
+	.4byte	0x1ef
 	.uleb128 0x2
 	.byte	0x1
 	.byte	0x2
 	.4byte	.LASF12900
-	.uleb128 0xf
+	.uleb128 0x10
 	.4byte	.LASF12901
 	.byte	0x7
 	.2byte	0x857
-	.4byte	0x1f1
+	.4byte	0x202
 	.uleb128 0x6
 	.4byte	0xad
-	.uleb128 0x10
+	.uleb128 0x11
+	.4byte	0x97
+	.4byte	0x212
+	.uleb128 0x12
+	.byte	0
+	.uleb128 0x13
 	.4byte	.LASF12902
 	.byte	0x1
 	.byte	0x3
-	.4byte	0xb8
-	.uleb128 0x10
+	.4byte	0x207
+	.uleb128 0x13
 	.4byte	.LASF12903
 	.byte	0x1
 	.byte	0x4
-	.4byte	0xb8
-	.uleb128 0x11
+	.4byte	0x207
+	.uleb128 0x14
 	.4byte	.LASF12904
 	.byte	0x1
 	.byte	0x6
@@ -512,6 +565,29 @@ Mem_Alloc:
 	.byte	0
 	.uleb128 0xa
 	.uleb128 0x2e
+	.byte	0
+	.uleb128 0x3f
+	.uleb128 0x19
+	.uleb128 0x3
+	.uleb128 0xe
+	.uleb128 0x3a
+	.uleb128 0xb
+	.uleb128 0x3b
+	.uleb128 0xb
+	.uleb128 0x27
+	.uleb128 0x19
+	.uleb128 0x11
+	.uleb128 0x1
+	.uleb128 0x12
+	.uleb128 0x6
+	.uleb128 0x40
+	.uleb128 0x18
+	.uleb128 0x2117
+	.uleb128 0x19
+	.byte	0
+	.byte	0
+	.uleb128 0xb
+	.uleb128 0x2e
 	.byte	0x1
 	.uleb128 0x3f
 	.uleb128 0x19
@@ -537,23 +613,8 @@ Mem_Alloc:
 	.uleb128 0x13
 	.byte	0
 	.byte	0
-	.uleb128 0xb
-	.uleb128 0x5
-	.byte	0
-	.uleb128 0x3
-	.uleb128 0xe
-	.uleb128 0x3a
-	.uleb128 0xb
-	.uleb128 0x3b
-	.uleb128 0xb
-	.uleb128 0x49
-	.uleb128 0x13
-	.uleb128 0x2
-	.uleb128 0x18
-	.byte	0
-	.byte	0
 	.uleb128 0xc
-	.uleb128 0x34
+	.uleb128 0x5
 	.byte	0
 	.uleb128 0x3
 	.uleb128 0xe
@@ -571,7 +632,7 @@ Mem_Alloc:
 	.uleb128 0x34
 	.byte	0
 	.uleb128 0x3
-	.uleb128 0x8
+	.uleb128 0xe
 	.uleb128 0x3a
 	.uleb128 0xb
 	.uleb128 0x3b
@@ -586,11 +647,11 @@ Mem_Alloc:
 	.uleb128 0x34
 	.byte	0
 	.uleb128 0x3
-	.uleb128 0xe
+	.uleb128 0x8
 	.uleb128 0x3a
 	.uleb128 0xb
 	.uleb128 0x3b
-	.uleb128 0x5
+	.uleb128 0xb
 	.uleb128 0x49
 	.uleb128 0x13
 	.uleb128 0x2
@@ -608,13 +669,42 @@ Mem_Alloc:
 	.uleb128 0x5
 	.uleb128 0x49
 	.uleb128 0x13
+	.uleb128 0x2
+	.uleb128 0x18
+	.byte	0
+	.byte	0
+	.uleb128 0x10
+	.uleb128 0x34
+	.byte	0
+	.uleb128 0x3
+	.uleb128 0xe
+	.uleb128 0x3a
+	.uleb128 0xb
+	.uleb128 0x3b
+	.uleb128 0x5
+	.uleb128 0x49
+	.uleb128 0x13
 	.uleb128 0x3f
 	.uleb128 0x19
 	.uleb128 0x3c
 	.uleb128 0x19
 	.byte	0
 	.byte	0
-	.uleb128 0x10
+	.uleb128 0x11
+	.uleb128 0x1
+	.byte	0x1
+	.uleb128 0x49
+	.uleb128 0x13
+	.uleb128 0x1
+	.uleb128 0x13
+	.byte	0
+	.byte	0
+	.uleb128 0x12
+	.uleb128 0x21
+	.byte	0
+	.byte	0
+	.byte	0
+	.uleb128 0x13
 	.uleb128 0x34
 	.byte	0
 	.uleb128 0x3
@@ -631,7 +721,7 @@ Mem_Alloc:
 	.uleb128 0x19
 	.byte	0
 	.byte	0
-	.uleb128 0x11
+	.uleb128 0x14
 	.uleb128 0x34
 	.byte	0
 	.uleb128 0x3
@@ -51045,6 +51135,8 @@ Mem_Alloc:
 	.ascii	"PMC_SCER_PCK2 (0x1u << 10)\000"
 .LASF6735:
 	.ascii	"RTC_CR_TIMEVSEL_MIDNIGHT (0x2u << 8)\000"
+.LASF12907:
+	.ascii	"Mem_Init\000"
 .LASF5680:
 	.ascii	"PMC_FSMR_FSTT3 (0x1u << 3)\000"
 .LASF12410:
@@ -55281,8 +55373,6 @@ Mem_Alloc:
 	.ascii	"PIO_PC22A_A4 (1u << 22)\000"
 .LASF9850:
 	.ascii	"REG_TC1_RC1 (*(__IO uint32_t*)0x4001005CU)\000"
-.LASF12868:
-	.ascii	"MEM_ALLOC_ALIGN 32\000"
 .LASF7859:
 	.ascii	"TWIHS_CR_SVDIS (0x1u << 5)\000"
 .LASF8854:
@@ -61001,7 +61091,7 @@ Mem_Alloc:
 	.ascii	"USBHS_HSTDMASTATUS_END_BF_ST (0x1u << 5)\000"
 .LASF6871:
 	.ascii	"RTC_IDR_TDERRDIS (0x1u << 5)\000"
-.LASF12908:
+.LASF12909:
 	.ascii	"size\000"
 .LASF9674:
 	.ascii	"XDMAC_CC_CSIZE_CHK_1 (0x0u << 8)\000"
@@ -61819,7 +61909,7 @@ Mem_Alloc:
 .LASF6949:
 	.ascii	"SDRAMC_CR_TRAS(value) ((SDRAMC_CR_TRAS_Msk & ((valu"
 	.ascii	"e) << SDRAMC_CR_TRAS_Pos)))\000"
-.LASF12907:
+.LASF12908:
 	.ascii	"Mem_Alloc\000"
 .LASF11791:
 	.ascii	"ID_SPI0 (21)\000"
@@ -68055,6 +68145,8 @@ Mem_Alloc:
 	.ascii	"PIO_PA29 (1u << 29)\000"
 .LASF5467:
 	.ascii	"PMC_PCER0_PID14 (0x1u << 14)\000"
+.LASF12868:
+	.ascii	"MEM_ALLOC_ALIGN 4\000"
 .LASF5260:
 	.ascii	"PIO_DRIVER_LINE0_LOW_DRIVE (0x0u << 0)\000"
 	.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150529 (release) [ARM/embedded-4_9-branch revision 227977]"
