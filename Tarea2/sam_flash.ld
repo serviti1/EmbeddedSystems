@@ -133,7 +133,7 @@ SECTIONS
         . = ALIGN(8);
         _eheap = .;
         _heap_mem_end = .; 
-    } > ram
+    } > heap_malloc
 
     . = ALIGN(4);
     _end = . ;

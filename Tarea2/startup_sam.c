@@ -352,6 +352,11 @@ void Reset_Handler(void)
 				*pDest++ = 0;
 		}
 
+		/* Clear the zero segment */
+		for (pDest = &_heap_mem_start; pDest < &_heap_mem_end;) {
+				*pDest++ = 0;
+		}
+
 		/* Set the vector table base address */
 		pSrc = (uint32_t *) & _sfixed;
 		SCB->VTOR = ((uint32_t) pSrc & SCB_VTOR_TBLOFF_Msk);

@@ -27,22 +27,22 @@
 /* EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                           */
 /* ---------------------------------------------------------------------------- */
 
-INPUT (C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\main.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\system_sam.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\syscalls.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\app_scheduler.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\app_tasks.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\mem_alloc.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\startup_sam.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\board_lowlevel.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\dbg_console.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\led.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\pmc.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\pio.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\mpu.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\exceptions.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\systick.o 
-C:\propedeutico\SAMV7x\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\led_ctrl.o)
+INPUT (C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\main.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\system_sam.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\syscalls.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\app_scheduler.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\app_tasks.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\mem_alloc.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\startup_sam.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\board_lowlevel.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\dbg_console.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\led.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\pmc.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\pio.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\mpu.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\exceptions.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\systick.o 
+C:\SAMV71x\app\01_scheduler_\SAMV71_Xplained_Ultra\Debug\led_ctrl.o)
 
 /*------------------------------------------------------------------------------
  *      Linker script for running in internal FLASH on the ATSAMV71Q21

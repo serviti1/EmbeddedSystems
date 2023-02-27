@@ -4,14 +4,20 @@ extern uint8_t _heap_mem_start[];
 extern uint8_t _heap_mem_end[];
 
 MemHandlerType MemControl = {
-    .MemStart = (uint8_t *)&_heap_mem_start,                              /* Sets the start of the heap memory */
-    .MemEnd = (uint8_t *)&_heap_mem_end,                                  /* Sets the end of the heap memory */
-    .CurrAddr = (uint8_t *)&_heap_mem_start,                              /* Initialize the current start address */
-    .FreeBytes = 0  /* Sets the size of the heap memory */
+    .MemStart = (uint8_t *)&_heap_mem_start,   /* Sets the start of the heap memory */
+    .MemEnd = (uint8_t *)&_heap_mem_end,       /* Sets the end of the heap memory */
+    .CurrAddr = (uint8_t *)&_heap_mem_start,   /* Initialize the current start address */
+    .FreeBytes = 0,                            /* Sets the size of the heap memory */
 };
 
 void Mem_Init(void)
 {
+  uint32_t *pSrc, *pDest;
+  /* Clear the heap segment */
+	for (pDest = &_heap_mem_start; pDest < &_heap_mem_end;) {
+			*pDest++ = 0;
+	}
+                  
   MemControl.FreeBytes = (uint8_t *)&_heap_mem_end - (uint8_t *)&_heap_mem_start;  /* Sets the size of the heap memory */
 }
   

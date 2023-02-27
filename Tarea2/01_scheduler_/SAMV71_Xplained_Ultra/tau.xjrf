@@ -49,26 +49,28 @@
       </History>
       <PI.0>
        <Bookmarks_num_>0</Bookmarks_num_>
+       <L>16</L>
+       <P>..\src\Services\Scheduler\app_tasks.h</P>
+       <VL>21</VL>
+      </PI.0>
+      <PI.1>
+       <Bookmarks_num_>0</Bookmarks_num_>
+       <L>341</L>
+       <P>..\..\..\toolset\gcc\startup_sam.c</P>
+       <VL>336</VL>
+      </PI.1>
+      <PI.10>
+       <Bookmarks_num_>0</Bookmarks_num_>
        <C>35</C>
        <L>39</L>
        <P>..\src\Commons\typedefs.h</P>
        <VL>3</VL>
-      </PI.0>
-      <PI.1>
-       <Bookmarks_num_>0</Bookmarks_num_>
-       <P>..\src\Services\mem_alloc\Mem_AllocTypes.h</P>
-       <VL>29</VL>
-      </PI.1>
-      <PI.10>
+      </PI.10>
+      <PI.11>
        <Bookmarks_num_>0</Bookmarks_num_>
        <L>97</L>
        <P>..\..\..\bsp\libboard_samv7-ek\source\led.c</P>
        <VL>39</VL>
-      </PI.10>
-      <PI.11>
-       <Bookmarks_num_>0</Bookmarks_num_>
-       <L>16</L>
-       <P>..\src\Services\Scheduler\app_tasks.h</P>
       </PI.11>
       <PI.12>
        <Bookmarks_num_>0</Bookmarks_num_>
@@ -121,9 +123,9 @@
       </PI.19>
       <PI.2>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>24</C>
-       <L>13</L>
-       <P>..\src\Services\mem_alloc\mem_alloc.h</P>
+       <L>53</L>
+       <P>..\..\..\toolset\gcc\samv71q21_flash.ld</P>
+       <VL>38</VL>
       </PI.2>
       <PI.20>
        <Bookmarks_num_>0</Bookmarks_num_>
@@ -193,9 +195,9 @@
       </PI.29>
       <PI.3>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>39</C>
-       <L>15</L>
-       <P>..\src\Services\mem_alloc\mem_alloc.c</P>
+       <L>141</L>
+       <P>..\..\..\toolset\gcc\sam_flash.ld</P>
+       <VL>122</VL>
       </PI.3>
       <PI.30>
        <Bookmarks_num_>0</Bookmarks_num_>
@@ -265,10 +267,10 @@
       </PI.39>
       <PI.4>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>57</C>
-       <L>54</L>
-       <P>..\..\..\toolset\gcc\samv71q21_flash.ld</P>
-       <VL>28</VL>
+       <C>38</C>
+       <L>33</L>
+       <P>..\src\Services\Scheduler\app_tasks.c</P>
+       <VL>21</VL>
       </PI.4>
       <PI.40>
        <Bookmarks_num_>0</Bookmarks_num_>
@@ -335,37 +337,37 @@
       </PI.49>
       <PI.5>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>115</C>
-       <L>125</L>
-       <P>..\..\..\toolset\gcc\sam_flash.ld</P>
-       <VL>63</VL>
+       <C>8</C>
+       <L>227</L>
+       <P>..\src\Services\Scheduler\app_scheduler.c</P>
+       <VL>222</VL>
       </PI.5>
       <PI.6>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <L>42</L>
-       <P>..\..\..\toolset\gcc\startup_sam.c</P>
-       <VL>33</VL>
+       <C>22</C>
+       <L>26</L>
+       <P>..\src\Services\mem_alloc\Mem_AllocTypes.h</P>
+       <VL>11</VL>
       </PI.6>
       <PI.7>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>38</C>
-       <L>33</L>
-       <P>..\src\Services\Scheduler\app_tasks.c</P>
-       <VL>21</VL>
+       <C>24</C>
+       <L>13</L>
+       <P>..\src\Services\mem_alloc\mem_alloc.h</P>
+       <VL>3</VL>
       </PI.7>
       <PI.8>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>68</C>
-       <L>316</L>
-       <P>..\src\Services\Scheduler\app_scheduler.c</P>
-       <VL>301</VL>
+       <C>32</C>
+       <L>37</L>
+       <P>..\src\Services\mem_alloc\mem_alloc.c</P>
+       <VL>15</VL>
       </PI.8>
       <PI.9>
        <Bookmarks_num_>0</Bookmarks_num_>
-       <C>8</C>
-       <L>51</L>
+       <L>48</L>
        <P>..\src\main.c</P>
-       <VL>33</VL>
+       <VL>36</VL>
       </PI.9>
      </REG_ROOT>
     </EditorOptions>
@@ -837,10 +839,10 @@
      <Documents.0>
       <ActiveDocument>
        <Maximized>True</Maximized>
-       <RelativeFileName>..\src\Services\mem_alloc\mem_alloc.c</RelativeFileName>
+       <RelativeFileName>..\src\main.c</RelativeFileName>
       </ActiveDocument>
       <Editor.0>
-       <FileBarIndex>0</FileBarIndex>
+       <FileBarIndex>1</FileBarIndex>
        <RectPosBottom>506</RectPosBottom>
        <RectPosLeft>128</RectPosLeft>
        <RectPosRight>1491</RectPosRight>
@@ -848,15 +850,23 @@
        <RelativeFileName>..\src\Commons\typedefs.h</RelativeFileName>
       </Editor.0>
       <Editor.1>
-       <FileBarIndex>7</FileBarIndex>
+       <FileBarIndex>3</FileBarIndex>
        <RectPosBottom>582</RectPosBottom>
        <RectPosLeft>128</RectPosLeft>
        <RectPosRight>1042</RectPosRight>
        <RectPosTop>128</RectPosTop>
        <RelativeFileName>..\src\main.c</RelativeFileName>
       </Editor.1>
+      <Editor.10>
+       <FileBarIndex>6</FileBarIndex>
+       <RectPosBottom>678</RectPosBottom>
+       <RectPosLeft>224</RectPosLeft>
+       <RectPosRight>1138</RectPosRight>
+       <RectPosTop>224</RectPosTop>
+       <RelativeFileName>..\..\..\toolset\gcc\startup_sam.c</RelativeFileName>
+      </Editor.10>
       <Editor.2>
-       <FileBarIndex>3</FileBarIndex>
+       <FileBarIndex>4</FileBarIndex>
        <RectPosBottom>216</RectPosBottom>
        <RectPosLeft>0</RectPosLeft>
        <RectPosRight>1459</RectPosRight>
@@ -864,7 +874,7 @@
        <RelativeFileName>..\src\Services\mem_alloc\mem_alloc.c</RelativeFileName>
       </Editor.2>
       <Editor.3>
-       <FileBarIndex>2</FileBarIndex>
+       <FileBarIndex>7</FileBarIndex>
        <RectPosBottom>410</RectPosBottom>
        <RectPosLeft>32</RectPosLeft>
        <RectPosRight>1395</RectPosRight>
@@ -872,7 +882,7 @@
        <RelativeFileName>..\src\Services\mem_alloc\mem_alloc.h</RelativeFileName>
       </Editor.3>
       <Editor.4>
-       <FileBarIndex>1</FileBarIndex>
+       <FileBarIndex>2</FileBarIndex>
        <RectPosBottom>442</RectPosBottom>
        <RectPosLeft>64</RectPosLeft>
        <RectPosRight>1427</RectPosRight>
@@ -880,7 +890,7 @@
        <RelativeFileName>..\src\Services\mem_alloc\Mem_AllocTypes.h</RelativeFileName>
       </Editor.4>
       <Editor.5>
-       <FileBarIndex>9</FileBarIndex>
+       <FileBarIndex>8</FileBarIndex>
        <RectPosBottom>614</RectPosBottom>
        <RectPosLeft>160</RectPosLeft>
        <RectPosRight>1074</RectPosRight>
@@ -888,7 +898,7 @@
        <RelativeFileName>..\src\Services\Scheduler\app_scheduler.c</RelativeFileName>
       </Editor.5>
       <Editor.6>
-       <FileBarIndex>8</FileBarIndex>
+       <FileBarIndex>9</FileBarIndex>
        <RectPosBottom>646</RectPosBottom>
        <RectPosLeft>192</RectPosLeft>
        <RectPosRight>1106</RectPosRight>
@@ -896,28 +906,28 @@
        <RelativeFileName>..\src\Services\Scheduler\app_tasks.c</RelativeFileName>
       </Editor.6>
       <Editor.7>
-       <FileBarIndex>5</FileBarIndex>
+       <FileBarIndex>0</FileBarIndex>
+       <RectPosBottom>392</RectPosBottom>
+       <RectPosLeft>104</RectPosLeft>
+       <RectPosRight>964</RectPosRight>
+       <RectPosTop>104</RectPosTop>
+       <RelativeFileName>..\src\Services\Scheduler\app_tasks.h</RelativeFileName>
+      </Editor.7>
+      <Editor.8>
+       <FileBarIndex>10</FileBarIndex>
        <RectPosBottom>582</RectPosBottom>
        <RectPosLeft>128</RectPosLeft>
        <RectPosRight>1042</RectPosRight>
        <RectPosTop>128</RectPosTop>
        <RelativeFileName>..\..\..\toolset\gcc\sam_flash.ld</RelativeFileName>
-      </Editor.7>
-      <Editor.8>
-       <FileBarIndex>4</FileBarIndex>
+      </Editor.8>
+      <Editor.9>
+       <FileBarIndex>5</FileBarIndex>
        <RectPosBottom>614</RectPosBottom>
        <RectPosLeft>160</RectPosLeft>
        <RectPosRight>481</RectPosRight>
        <RectPosTop>160</RectPosTop>
        <RelativeFileName>..\..\..\toolset\gcc\samv71q21_flash.ld</RelativeFileName>
-      </Editor.8>
-      <Editor.9>
-       <FileBarIndex>6</FileBarIndex>
-       <RectPosBottom>678</RectPosBottom>
-       <RectPosLeft>224</RectPosLeft>
-       <RectPosRight>1138</RectPosRight>
-       <RectPosTop>224</RectPosTop>
-       <RelativeFileName>..\..\..\toolset\gcc\startup_sam.c</RelativeFileName>
       </Editor.9>
       <EditorHistoryFile.0>
        <RelativeFileName>..\..\..\toolset\gcc\startup_sam.c</RelativeFileName>
@@ -933,13 +943,13 @@
       </EditorHistoryFile.3>
      </Documents.0>
      <Progress>
-      <b>863</b>
-      <l>459</l>
-      <r>1460</r>
-      <t>167</t>
+      <b>760</b>
+      <l>-1653</l>
+      <r>-652</r>
+      <t>64</t>
      </Progress>
      <Watches>
-      <ActiveWatchPane>2</ActiveWatchPane>
+      <ActiveWatchPane>0</ActiveWatchPane>
       <Misc.0>
        <InitScript></InitScript>
       </Misc.0>
@@ -952,6 +962,56 @@
       <Misc.3>
        <InitScript></InitScript>
       </Misc.3>
+      <WatchPane.0>
+       <Watch.0>
+        <WatchName>x</WatchName>
+        <ExpressionDisplay>
+         <Color>0</Color>
+         <ColorBack>8421376</ColorBack>
+         <ColorText>0</ColorText>
+         <Enabled>0</Enabled>
+         <Hi type="D">100.0000000000000000</Hi>
+         <Lo type="D">0.0000000000000000</Lo>
+         <Scale>0</Scale>
+        </ExpressionDisplay>
+       </Watch.0>
+       <Watch.1>
+        <WatchName>y</WatchName>
+        <ExpressionDisplay>
+         <Color>0</Color>
+         <ColorBack>8421376</ColorBack>
+         <ColorText>0</ColorText>
+         <Enabled>0</Enabled>
+         <Hi type="D">100.0000000000000000</Hi>
+         <Lo type="D">0.0000000000000000</Lo>
+         <Scale>0</Scale>
+        </ExpressionDisplay>
+       </Watch.1>
+       <Watch.2>
+        <WatchName>z</WatchName>
+        <ExpressionDisplay>
+         <Color>0</Color>
+         <ColorBack>8421376</ColorBack>
+         <ColorText>0</ColorText>
+         <Enabled>0</Enabled>
+         <Hi type="D">100.0000000000000000</Hi>
+         <Lo type="D">0.0000000000000000</Lo>
+         <Scale>0</Scale>
+        </ExpressionDisplay>
+       </Watch.2>
+       <Watch.3>
+        <WatchName>MemControl</WatchName>
+        <ExpressionDisplay>
+         <Color>0</Color>
+         <ColorBack>8421376</ColorBack>
+         <ColorText>0</ColorText>
+         <Enabled>0</Enabled>
+         <Hi type="D">100.0000000000000000</Hi>
+         <Lo type="D">0.0000000000000000</Lo>
+         <Scale>0</Scale>
+        </ExpressionDisplay>
+       </Watch.3>
+      </WatchPane.0>
       <WatchPane.2>
        <Watch.0>
         <WatchName>TimeTriggeredTasks</WatchName>
@@ -1020,7 +1080,7 @@
       <TypeOfWnd>-1</TypeOfWnd>
       <DockRect.0>
        <AreHorz>0</AreHorz>
-       <Percent>571</Percent>
+       <Percent>497</Percent>
        <Type>0</Type>
        <TypeOfWnd>-1</TypeOfWnd>
        <DockRect.0>
@@ -1063,7 +1123,7 @@
        </DockRect.1>
        <DockRect.2>
         <AreHorz>1</AreHorz>
-        <Percent>131</Percent>
+        <Percent>215</Percent>
         <strTypeOfWnd>Project Workspace</strTypeOfWnd>
         <Type>0</Type>
         <TypeOfWnd>1</TypeOfWnd>
@@ -1089,7 +1149,7 @@
        </DockRect.5>
        <DockRect.6>
         <AreHorz>1</AreHorz>
-        <Percent>735</Percent>
+        <Percent>890</Percent>
         <Type>1</Type>
         <TypeOfWnd>-2</TypeOfWnd>
        </DockRect.6>
@@ -1101,18 +1161,18 @@
        </DockRect.7>
        <DockRect.8>
         <AreHorz>1</AreHorz>
-        <Percent>24</Percent>
+        <Percent>361</Percent>
         <Type>0</Type>
         <TypeOfWnd>-1</TypeOfWnd>
         <DockRect.0>
          <AreHorz>1</AreHorz>
-         <Percent>126</Percent>
+         <Percent>280</Percent>
          <strTypeOfWnd>Memory</strTypeOfWnd>
          <Type>0</Type>
          <TypeOfWnd>6</TypeOfWnd>
          <Data>
-          <AA type="B">AAAAEFCA</AA>
-          <Address>541392896</Address>
+          <AA type="B">AAAAEACA</AA>
+          <Address>541065216</Address>
           <AddrMode>0</AddrMode>
           <Area>0</Area>
           <Bits>8</Bits>
@@ -1120,17 +1180,17 @@
           <HA type="B">PPPPPPPP</HA>
           <High>-1</High>
           <LA type="B">AAAAAAAA</LA>
-          <LimitMAUsPerLine>0</LimitMAUsPerLine>
+          <LimitMAUsPerLine>3</LimitMAUsPerLine>
           <Low>0</Low>
           <RealTime>0</RealTime>
-          <strAddress>20450000</strAddress>
+          <strAddress>20400000</strAddress>
           <SwapFloat>False</SwapFloat>
           <SwapInt>False</SwapInt>
           <API.0>
-           <AA type="B">AAAAEFCA</AA>
-           <Address>541392896</Address>
-           <AddressOffset>541392896</AddressOffset>
-           <AOA type="B">AAAAEFCA</AOA>
+           <AA type="B">DDAAEACA</AA>
+           <Address>541065267</Address>
+           <AddressOffset>541065216</AddressOffset>
+           <AOA type="B">AAAAEACA</AOA>
            <DisplayMode>0</DisplayMode>
            <FloatLowFirst>0</FloatLowFirst>
            <IntLowFirst>0</IntLowFirst>
@@ -1181,7 +1241,7 @@
         </DockRect.1>
         <DockRect.2>
          <AreHorz>1</AreHorz>
-         <Percent>669</Percent>
+         <Percent>212</Percent>
          <strTypeOfWnd>Watch</strTypeOfWnd>
          <Type>0</Type>
          <TypeOfWnd>2</TypeOfWnd>
@@ -1191,19 +1251,19 @@
            <Width>0</Width>
           </Columns.0>
           <Columns.1>
-           <Pos type="D">19.3939393939393945</Pos>
+           <Pos type="D">21.3888888888888893</Pos>
            <Width>0</Width>
           </Columns.1>
           <Columns.2>
-           <Pos type="D">66.3030303030302974</Pos>
+           <Pos type="D">62.7777777777777786</Pos>
            <Width>0</Width>
           </Columns.2>
           <Columns.3>
-           <Pos type="D">79.5151515151515156</Pos>
+           <Pos type="D">81.1111111111111143</Pos>
            <Width>0</Width>
           </Columns.3>
           <Columns.4>
-           <Pos type="D">96.4848484848484844</Pos>
+           <Pos type="D">96.1111111111111143</Pos>
            <Width>0</Width>
           </Columns.4>
          </Data>
@@ -1243,70 +1303,17 @@
       </DockRect.3>
       <DockRect.4>
        <AreHorz>1</AreHorz>
-       <Percent>231</Percent>
+       <Percent>222</Percent>
        <strTypeOfWnd>Output</strTypeOfWnd>
        <Type>0</Type>
        <TypeOfWnd>0</TypeOfWnd>
       </DockRect.4>
       <DockRect.5>
        <AreHorz>1</AreHorz>
-       <Percent>5</Percent>
-       <Type>6</Type>
-       <TypeOfWnd>-1</TypeOfWnd>
-      </DockRect.5>
-      <DockRect.6>
-       <AreHorz>0</AreHorz>
-       <Percent>101</Percent>
-       <Type>0</Type>
-       <TypeOfWnd>-1</TypeOfWnd>
-       <DockRect.0>
-        <AreHorz>1</AreHorz>
-        <Percent>119</Percent>
-        <strTypeOfWnd>SFR</strTypeOfWnd>
-        <Type>0</Type>
-        <TypeOfWnd>12</TypeOfWnd>
-        <Data>
-         <SFRPane>
-          <Tree>
-           <HeaderWidth.0>309</HeaderWidth.0>
-           <HeaderWidth.1>157</HeaderWidth.1>
-           <HeaderWidth.2>400</HeaderWidth.2>
-           <HeaderWidth.3>100</HeaderWidth.3>
-           <HeaderWidth.4>400</HeaderWidth.4>
-          </Tree>
-         </SFRPane>
-         <WndData>
-          <Custom>0</Custom>
-          <strCustom></strCustom>
-         </WndData>
-        </Data>
-       </DockRect.0>
-       <DockRect.1>
-        <AreHorz>1</AreHorz>
-        <Percent>5</Percent>
-        <Type>6</Type>
-        <TypeOfWnd>-1</TypeOfWnd>
-       </DockRect.1>
-       <DockRect.2>
-        <AreHorz>1</AreHorz>
-        <Percent>540</Percent>
-        <strTypeOfWnd>Callstack</strTypeOfWnd>
-        <Type>0</Type>
-        <TypeOfWnd>33</TypeOfWnd>
-       </DockRect.2>
-       <DockRect.3>
-        <AreHorz>1</AreHorz>
-        <Percent>0</Percent>
-        <Type>6</Type>
-        <TypeOfWnd>-1</TypeOfWnd>
-       </DockRect.3>
-      </DockRect.6>
-      <DockRect.7>
-       <AreHorz>1</AreHorz>
        <Percent>0</Percent>
        <Type>6</Type>
        <TypeOfWnd>-1</TypeOfWnd>
-      </DockRect.7>
+      </DockRect.5>
      </Workspace.0>
     </Desktop>
     <Environment>
@@ -1314,6 +1321,19 @@
       <Fetch>
        <Beep>True</Beep>
        <DisplayMessage>True</DisplayMessage>
+       <BP.0>
+        <__>
+         <ActionEnabled>False</ActionEnabled>
+         <ActionScript></ActionScript>
+         <ActionScriptParams></ActionScriptParams>
+         <ActionShow>False</ActionShow>
+         <Active>True</Active>
+         <Condition></Condition>
+         <Condition_Count>0</Condition_Count>
+         <ConditionEnabled>False</ConditionEnabled>
+         <Name>&quot;..\src\main.c&quot;::43</Name>
+        </__>
+       </BP.0>
       </Fetch>
      </Breakpoints>
      <CASETool>
@@ -1847,7 +1867,7 @@
        </ShortcutScript.3>
       </Environment>
       <MemoryWindow>
-       <Default8bitMAUDisplayOptions>256</Default8bitMAUDisplayOptions>
+       <Default8bitMAUDisplayOptions>0</Default8bitMAUDisplayOptions>
       </MemoryWindow>
       <ProjectWindow>
        <Symbols_ModuleFolders>2</Symbols_ModuleFolders>
@@ -2038,7 +2058,7 @@
        </Items.0>
       </OSWindow>
       <ProjectWindow>
-       <Selected>startup_sam.c</Selected>
+       <Selected>mem_alloc.c</Selected>
        <Items.0>
         <__>
          <Name>Files</Name>
@@ -2053,15 +2073,21 @@
           <__>
            <Name>ECU Abstraction</Name>
            <Options>1</Options>
+           <Items.0>
+            <__>
+             <Name>led_ctrl.c</Name>
+             <Options>4</Options>
+            </__>
+           </Items.0>
           </__>
          </Items.1>
          <Items.2>
           <__>
            <Name>HAL</Name>
-           <Options>1</Options>
+           <Options>5</Options>
            <Items.0>
             <__>
-             <Name>led.c</Name>
+             <Name>exceptions.c</Name>
              <Options>4</Options>
             </__>
            </Items.0>
@@ -2070,7 +2096,7 @@
          <Items.3>
           <__>
            <Name>Services</Name>
-           <Options>5</Options>
+           <Options>1</Options>
            <Items.0>
             <__>
              <Name>app_scheduler.c</Name>
