@@ -332,6 +332,9 @@
       </LinkGroup.5>
       <LinkGroup.6>
        <LinkGroupName>Commons</LinkGroupName>
+       <File.0>
+        <FileName>$(IRFDIR)..\src\Commons\typedefs.h</FileName>
+       </File.0>
       </LinkGroup.6>
       <TargetOptios>
        <AsmArgFile></AsmArgFile>

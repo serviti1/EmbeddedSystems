@@ -18750,11 +18750,14 @@ typedef struct MemHandlerType
 MemReturnType Mem_Alloc(MemSizeType size);
 # 2 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\mem_alloc\\mem_alloc.c" 2
 
+extern uint32_t _heap_mem_start;
+extern uint32_t _heap_mem_end;
+
 MemHandlerType MemControl = {
     .MemStart = (uint8_t *)&_heap_mem_start,
     .MemEnd = (uint8_t *)&_heap_mem_end,
     .CurrAddr = (uint8_t *)&_heap_mem_start,
-    .FreeBytes = (uint8_t *)&_heap_mem_end - (uint8_t *)&_heap_mem_start
+    .FreeBytes = 1000
 };
 
 MemReturnType Mem_Alloc(MemSizeType size)
@@ -18766,7 +18769,7 @@ MemReturnType Mem_Alloc(MemSizeType size)
 
     size_t request_size = size + 32;
     uint8_t *ptr = (uint8_t *)(malloc(request_size));
-    size_t remaider = ((size_t)ptr) % 32;
+    size_t remainder = ((size_t)ptr) % 32;
     size_t offset = 32 - remainder;
     uint8_t *ret = ptr + (uint8_t)offset;
     *(uint8_t *)(ret - 1) = offset;

@@ -19,9 +19,6 @@
 #include    "board.h"
 /** Task scheduler definitions */
 #include    "app_scheduler.h"
-#include "event_driven.h"
-/** LED control definitions */ 
-#include    "led_ctrl.h"
 
 /*~~~~~~  Local definitions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
@@ -40,17 +37,9 @@
  */
 extern int main( void )
 {
-	
-	/* Disable watchdog */
-	/* Disable watchdog */
-	WDT_Disable( WDT ) ;
 	/* Enable I and D cache */
 	SCB_EnableICache();
 	/* SCB_EnableDCache(); */
-	/* Configure LEDs */
-	vfnLedCtrl_Configure();
-  /* Configure LEDs */
-  EVT_vfnConfigureButtons();
 	/* Configure Non-preemtive scheduler */
 	vfnScheduler_Init();
 	/* Start scheduler */

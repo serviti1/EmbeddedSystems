@@ -26853,84 +26853,12 @@ void vfnScheduler_Stop(void);
 
 void vfnTask_Scheduler(void);
 # 22 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c" 2
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/event_driven.h" 1
-# 12 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/event_driven.h"
-#define __EVENT_DRIVEN 
-
-
-
-
-
-
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/app_tasks.h" 1
-# 11 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/app_tasks.h"
-#define __APP_TASKS 
-
-
-
-
-
-# 1 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h" 1
-# 13 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h"
-#define __LED_CTRL_H 
-# 37 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\ECU Abstraction\\LED control/led_ctrl.h"
-void vfnLedCtrl_Configure(void);
-
-
-void vfnLedCtrl_BlinkingPattern(void);
-
-
-void vfnLedCtrl_ToggleLed0(void);
-
-
-void vfnLedCtrl_ToggleLed1(void);
-# 18 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/app_tasks.h" 2
-
-
-
-
-extern tPtr_to_function ptrTask_1ms;
-extern tPtr_to_function ptrTask_2ms;
-extern tPtr_to_function ptrTask_10ms;
-extern tPtr_to_function ptrTask_50ms;
-extern tPtr_to_function ptrTask_100ms;
-# 40 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/app_tasks.h"
-void TASKS_LIST_1MS(void);
-
-
-void TASKS_LIST_2MS_A(void);
-
-
-void TASKS_LIST_2MS_B(void);
-
-
-void TASKS_LIST_10MS(void);
-
-
-void TASKS_LIST_50MS(void);
-
-
-void TASKS_LIST_100MS(void);
-# 20 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\Services\\Scheduler/event_driven.h" 2
-
-
-
-void EVT_vfnConfigureButtons(void);
-# 23 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c" 2
-# 41 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c"
+# 38 "C:\\propedeutico\\SAMV7x\\SAMV71x\\app\\01_scheduler_\\src\\main.c"
 extern int main( void )
 {
 
-
-
- WDT_Disable( ((Wdt *)0x400E1850U) ) ;
-
  SCB_EnableICache();
 
-
- vfnLedCtrl_Configure();
-
-  EVT_vfnConfigureButtons();
 
  vfnScheduler_Init();
 
