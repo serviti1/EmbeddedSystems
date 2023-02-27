@@ -96,9 +96,23 @@ Mem_Alloc:
 	uxtb	r2, r2
 	strb	r2, [r3]
 	.loc 1 27 0
+	ldr	r3, .L4
+	ldr	r2, [r3, #8]
+	ldr	r3, [r7, #28]
+	add	r3, r3, r2
+	ldr	r2, .L4
+	str	r3, [r2, #8]
+	.loc 1 28 0
+	ldr	r3, .L4
+	ldr	r2, [r3, #12]
+	ldr	r3, [r7, #28]
+	subs	r3, r2, r3
+	ldr	r2, .L4
+	str	r3, [r2, #12]
+	.loc 1 30 0
 	ldr	r3, [r7, #12]
 .L3:
-	.loc 1 28 0
+	.loc 1 31 0
 	mov	r0, r3
 	adds	r7, r7, #32
 	.cfi_def_cfa_offset 8

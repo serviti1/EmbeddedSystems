@@ -18774,5 +18774,8 @@ MemReturnType Mem_Alloc(MemSizeType size)
     uint8_t *ret = ptr + (uint8_t)offset;
     *(uint8_t *)(ret - 1) = offset;
 
+    MemControl.CurrAddr = MemControl.CurrAddr + request_size;
+    MemControl.FreeBytes = MemControl.FreeBytes - request_size;
+
     return (void *)ret;
 }
