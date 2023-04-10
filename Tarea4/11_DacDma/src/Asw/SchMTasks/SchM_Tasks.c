@@ -47,41 +47,44 @@ float SchM_Counter_100ms = 0.0f;
 /* List of tasks to be executed @ 1ms */
 void SchM_Task_1ms( void )
 {
-	
+  SchM_Counter_1ms += 0.001;
+  SchM_SchedulePoint(); 	
 }
 
 /* List of tasks to be executed @ 2ms, first group */
 void SchM_Task_2ms_A(void)
 {
-	
+  SchM_Counter_2msA += 0.002;		
 }
 
 /* List of tasks to be executed @ 2ms, second group */
 void SchM_Task_2ms_B( void )
 {
-
+  SchM_Counter_2msB += 0.002;
 }
     
 /* List of tasks to be executed @ 10ms */
 void SchM_Task_10ms( void )
 {
-
+  SchM_Counter_10ms += 0.01;
   LedCtrl_BlinkingPattern();   
 }
 
 /* List of tasks to be executed @ 50ms */
 void SchM_Task_50ms( void )
 {
-	
+  SchM_Counter_50ms += 0.05;	
 }
 
 /* List of tasks to be executed @ 100ms */
 void SchM_Task_100ms( void )
 { 
-
+  SchM_Counter_100ms += 0.1;
+  
 }
 
 /* List of tasks to be executed @ SW0 */
 void SchM_Task_SW0( void )
 {
+  LedCtrl_ToogleBlinkingPattern();
 }

@@ -25,24 +25,15 @@
 #include    "Wdg.h"
 /** Button control operations */
 #include    "Button_Ctrl.h"
-/** Floating Point Unit */
-#include    "Fpu.h"
 
+#include    "timer.h"
+
+#include "chip.h"
 
 /*~~~~~~  Local definitions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 /*~~~~~~  Global variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-float       spf_result;
-float       spf_result1;
-float       spf_result2;
-float       spf_int1 = 256;
-float       spf_int2 = 10;
-uint32_t    u32_result;
-uint32_t    u32_int1;
-uint32_t    u32_int2;
-int32_t     s32_result;
-int32_t     s32_int1;
-int32_t     s32_int2;
+
 
 /*~~~~~~  Local functions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
@@ -58,6 +49,8 @@ extern int main( void )
 {
 	/* Disable watchdog */
 	Wdg_Disable();
+
+  //SCB_DisableDCache();
 	printf( "\n\r-- Scheduler Project %s --\n\r", SOFTPACK_VERSION ) ;
 	printf( "-- %s\n\r", BOARD_NAME ) ;
 	printf( "-- Compiled: %s %s With %s --\n\r", __DATE__, __TIME__ , COMPILER_NAME);
@@ -67,23 +60,20 @@ extern int main( void )
   /* Configure Button */
   printf( "-- Button Control --\n\r" ) ;  
   ButtonCtrl_ConfigureSW0Button();
-  /* Enable Floating Point Unit */
-  printf( "-- Floating Point Unit --\n\r" ) ;
-  //Fpu_Enable();
   /************************************************************************************/
-  /* Float operations */
-
-  /************************************************************************************/
-  TcCtrl_Configure();
-  /* Initialize DAC */
- dac_initialization();
-  TcCtrl_Start();
+    TcCtrl_Configure();
+      /* Initialize DAC */
+    dac_initialization();
+    dac_dmaTransfer();
+    TcCtrl_Start();
 	
   /* Scheduler Inititalization */
+	printf( "-- Scheduler Initialization --\n\r" ) ;
+	SchM_Init(ScheduleConfig);
 	
 	/* Should never reach this code */
 	for(;;)
     {
-
+		printf( "-- Unexpected Error at Scheduler Initialization --\n\r" ) ;
 	}
 }

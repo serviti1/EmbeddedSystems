@@ -116,12 +116,6 @@ typedef struct
 #define DACC_CHANNEL_0 0
 #define DACC_CHANNEL_1 1
 
-#define DACC_WPMR_WPEN (0x1u << 0) /**< \brief (DACC_WPMR) Write Protection Enable */
-#define DACC_WPMR_WPKEY_Pos 8
-#define DACC_WPMR_WPKEY_Msk (0xffffffu << DACC_WPMR_WPKEY_Pos) /**< \brief (DACC_WPMR) Write Protect Key */
-#define DACC_WPMR_WPKEY(value) ((DACC_WPMR_WPKEY_Msk & ((value) << DACC_WPMR_WPKEY_Pos)))
-#define DACC_WPMR_WPKEY_PASSWD (0x444143u << 8) /**< \brief (DACC_WPMR) Writing any other value in this field aborts the write operation of bit WPEN.Always reads as 0. */
-
 /*------------------------------------------------------------------------------
  *         Exported functions
  *------------------------------------------------------------------------------*/
@@ -148,7 +142,6 @@ extern uint32_t Dac_SendData( DacDma *pDacd, DacCmd *pCommand);
 #define DACC_GetStatus(pDACC)                 ((pDACC)->DACC_ISR)
 #define DACC_GetChannelStatus(pDACC)          ((pDACC)->DACC_CHSR)
 #define DACC_GetInterruptMaskStatus(pDACC)    ((pDACC)->DACC_IMR)
-//#define DACC_EnableWriteProtection(pDACC)     ((pDACC)->DACC_WPMR = (DACC_WPMR_WPKEY_PASSWD|DACC_WPMR_WPEN));}
 
 
 #ifdef __cplusplus

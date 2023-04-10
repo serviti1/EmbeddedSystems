@@ -14,7 +14,6 @@
 *****************************************************************************************************/
 /** dac function prototypes and definitions */
 #include "dac.h"
-#include "dac_dma.h"
 /** ECG sample data */
 #include "ecg_data.h"
 
@@ -63,26 +62,18 @@ void dac_initialization(void)
 	DACC_SoftReset(DACC);
 	/* Enable Invidivual channels */
 	DACC_EnableChannel(DACC, 0);
-	DACC_EnableChannel(DACC, 1);
-  
-  //DACC_EnableWriteProtection(DACC);
-  DACC->DACC_WPMR = (DACC_WPMR_WPKEY_PASSWD|DACC_WPMR_WPEN);
-  
-
-  /* Enable Write to registrs */
-  
-  /* Configure trigger mode of the Digital to Analog Converter Controller:
-	Mode = 0 --> Disabling Trigger mode --> Free-running or Max speed mode on the status of DACC_MR.MAXSx
-	Mode = 1 --> Trigger mode enabled 
-  Selects TC0 as trigger event
-	 */
-	DACC_CfgTrigger(DACC, 0x53);
-
+	//DACC_EnableChannel(DACC, 1);
 	/* Copy samples onto DAC Buffer -- to review usefullness later */
 	for (i = 0; i < SAMPLES; i++)
 	{
 		dacBuffer[i] = ecg_resampled_integer[i] << 1;
 	}
+	
+	/* Configure trigger mode of the Digital to Analog Converter Controller:
+	Mode = 0 --> Disabling Trigger mode --> Free-running or Max speed mode on the status of DACC_MR.MAXSx
+	Mode = 1 --> Trigger mode enabled 
+	 */
+	 DACC_CfgTrigger(DACC, (1<<0)|(1<<4)); 
 }
 
 /**
@@ -96,7 +87,7 @@ void dac_dmaTransfer(void)
 	DacCommand.dacChannel = DACC_CHANNEL_0;
 	DacCommand.TxSize = SAMPLES;
 	DacCommand.pTxBuff = (uint8_t *)dacBuffer;
-	DacCommand.loopback = 1;
+	DacCommand.loopback = 0;
 	Dac_ConfigureDma(&Dacd, DACC, ID_DACC, &dmad);
 	Dac_SendData(&Dacd, &DacCommand);
 }

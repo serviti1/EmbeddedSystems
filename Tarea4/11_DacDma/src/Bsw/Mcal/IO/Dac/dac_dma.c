@@ -75,13 +75,20 @@
  *----------------------------------------------------------------------------*/
 
 #include "chip.h"
+#include "dac_dma.h"
 
 #include <stdint.h>
 #include <assert.h>
 
 /*  DMA driver instance */
 static uint32_t dacDmaTxChannel;
-static LinkedListDescriporView1 dmaWriteLinkList[1024]; // Size of DAC data buffer (Original 256)
+static LinkedListDescriporView1 dmaWriteLinkList; // Size of DAC data buffer (Original 256)
+
+void DMA_EndOfTransferCallback(uint32_t status, void* pArg);
+
+XdmadTransferCallback pDma_Callback = &DMA_EndOfTransferCallback;
+
+uint32_t callback_counter = 0;
 /*----------------------------------------------------------------------------
  *        Local functions
  *----------------------------------------------------------------------------*/
@@ -126,27 +133,19 @@ static uint8_t _Dac_configureLinkList(Dacc *pDacHw, void *pXdmad, DacCmd *pComma
 	sXdmadCfg xdmadCfg;
 	uint32_t * pBuffer;
 	/* Setup TX Link List */
-	uint32_t i;		// Modified to count all 1024 data buffer size (original uint8_t)
 	pBuffer = (uint32_t *)pCommand->pTxBuff;
-	for(i = 0; i < pCommand->TxSize; i++){
-		dmaWriteLinkList[i].mbr_ubc = XDMA_UBC_NVIEW_NDV1 
-									| XDMA_UBC_NDE_FETCH_EN
-									| XDMA_UBC_NSEN_UPDATED
-									| XDMAC_CUBC_UBLEN(4);
-		dmaWriteLinkList[i].mbr_sa = (uint32_t)pBuffer;
-		dmaWriteLinkList[i].mbr_da = 
-			(uint32_t)&(pDacHw->DACC_CDR[pCommand->dacChannel]);
-		if ( i == (pCommand->TxSize - 1 )) {
-			if (pCommand->loopback) {
-				dmaWriteLinkList[i].mbr_nda = (uint32_t)&dmaWriteLinkList[0];
-			} else {
-				dmaWriteLinkList[i].mbr_nda = 0;
-			}
+	dmaWriteLinkList.mbr_ubc = XDMA_UBC_NVIEW_NDV1 
+								| XDMA_UBC_NDE_FETCH_EN
+								| XDMA_UBC_NSEN_UPDATED
+								| XDMAC_CUBC_UBLEN(1024);
+	dmaWriteLinkList.mbr_sa = (uint32_t)pBuffer;
+	dmaWriteLinkList.mbr_da = 
+		(uint32_t)&(pDacHw->DACC_CDR[pCommand->dacChannel]);
+		if (pCommand->loopback) {
+			dmaWriteLinkList.mbr_nda = (uint32_t)&dmaWriteLinkList;
 		} else {
-			dmaWriteLinkList[i].mbr_nda = (uint32_t)&dmaWriteLinkList[i+1];
+			dmaWriteLinkList.mbr_nda = (uint32_t)&dmaWriteLinkList;
 		}
-		pBuffer++;
-	}
 	xdmadCfg.mbr_cfg = XDMAC_CC_TYPE_PER_TRAN 
 					 | XDMAC_CC_MBSIZE_SINGLE 
 					 | XDMAC_CC_DSYNC_MEM2PER 
@@ -163,8 +162,16 @@ static uint8_t _Dac_configureLinkList(Dacc *pDacHw, void *pXdmad, DacCmd *pComma
 			 | XDMAC_CNDC_NDSUP_SRC_PARAMS_UPDATED
 			 | XDMAC_CNDC_NDDUP_DST_PARAMS_UPDATED ;
 	XDMAD_ConfigureTransfer( pXdmad, dacDmaTxChannel, &xdmadCfg, xdmaCndc, 
-			(uint32_t)&dmaWriteLinkList[0], XDMAC_CIE_LIE);
-	return DAC_OK;
+			(uint32_t)&dmaWriteLinkList, XDMAC_CIE_BIE);
+
+  /* Clear Pending interrupts */
+  NVIC_ClearPendingIRQ (XDMAC_IRQn);
+  NVIC_SetPriority (XDMAC_IRQn, 1U);
+
+  /* Enable IRQ */ 
+  NVIC_EnableIRQ (XDMAC_IRQn);
+  
+  return DAC_OK;
 }
 
 /*----------------------------------------------------------------------------
@@ -225,10 +232,13 @@ uint32_t Dac_SendData( DacDma *pDacd, DacCmd *pCommand)
 	if (_Dac_configureLinkList(pDacHw, pDacd->pXdmad, pCommand))
 		return DAC_ERROR_LOCK;
 
-	SCB_CleanDCache();
-
 	/* Start DMA TX */
 	if (XDMAD_StartTransfer( pDacd->pXdmad, dacDmaTxChannel )) 
 		return DAC_ERROR_LOCK;
 	return DAC_OK;;
+}
+
+void XDMAC_Handler(void){
+  XDMAC_GetChannelIsr(XDMAC, 0);
+	callback_counter++;
 }

@@ -14,7 +14,6 @@
 *****************************************************************************************************/
 /** Dac function prototypes and definitions */
 #include "timer.h"
-#include "dac.h"
 
 #include "chip.h"
 #include "board.h"
@@ -56,7 +55,7 @@ Pin TcPinsConfig =
 void TcCtrl_Configure (void)
 {
   uint32_t Div = 0;
-  uint32_t TcClk = 0;
+  uint32_t TcClk = 4;
 
   /* Enable Timer Counter Controller */
   PMC_EnablePeripheral(ID_TC0);
@@ -65,10 +64,10 @@ void TcCtrl_Configure (void)
   TC_FindMckDivisor( 1000, BOARD_MCK, &Div, &TcClk, BOARD_MCK );
 
   /* Configure a TC channel with the given parameters, basic configure function */
-  TC_Configure( TC0, TC_CHANNEL0, TcClk | TC_CMR_CPCTRG | TC_CMR_ACPA_CLEAR | TC_CMR_ACPC_SET );
+  TC_Configure( TC0, TC_CHANNEL0, TcClk | TC_CMR_WAVE | (1<<14) | (1<<14) | TC_CMR_ACPA_SET | TC_CMR_ACPC_CLEAR );
 
-  TC0 -> TC_CHANNEL[TC_CHANNEL0].TC_RC = ( BOARD_MCK / Div ) / 1000;
-  TC0 -> TC_CHANNEL[TC_CHANNEL0].TC_RA = ( BOARD_MCK / Div ) / 2;
+  TC0 -> TC_CHANNEL[TC_CHANNEL0].TC_RC = 32;
+  TC0 -> TC_CHANNEL[TC_CHANNEL0].TC_RA = 16;
 }
 
 /**
